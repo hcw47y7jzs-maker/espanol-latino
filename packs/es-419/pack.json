@@ -47,7 +47,7 @@
       "subtitle": "Les règles qui comptent",
       "color": "#6A4C9C",
       "ink": "#FFFFFF",
-      "ready": false
+      "ready": true
     },
     {
       "id": "vocab",
@@ -279,5 +279,8 @@
     "name": "Daniela",
     "origin": "Argentine",
     "credit": "Voix Daniela (Piper, données OpenSLR 61, licence CC BY-SA 4.0)"
+  },
+  "grammar": {
+    "data": "grammar/grammar.json"
   }
 }

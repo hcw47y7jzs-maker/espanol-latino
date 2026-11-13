@@ -53,6 +53,17 @@ for md in sorted((PACK / "lessons").rglob("*.md")):
     for m in re.finditer(r"\*\*\*([^*]+)\*\*\*|(?<!\*)\*([^*]+)\*(?!\*)", body):
         add(m.group(1) or m.group(2), md.name)
 
+# ---- Grammaire : phrases complètes des exercices ----
+gpath = PACK / "grammar" / "grammar.json"
+if gpath.exists():
+    g = json.loads(gpath.read_text(encoding="utf-8"))
+    for items in g["ex"].values():
+        for it in items:
+            if it.get("full"):
+                add(it["full"], "grammaire")
+            if it["t"] == "O":
+                add(it["a"][0], "grammaire")
+
 # ---- Phrases fixes de l'interface ----
 for phrase in pack.get("speechExtras", []):
     add(phrase, "interface")

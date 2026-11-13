@@ -292,6 +292,31 @@ mark { background: #FFD97A; color: inherit; border-radius: 3px; padding: 0 1px; 
 }
 .update-bar .btn { --band: #FFFFFF; --band-ink: var(--ink); }
 
+/* Exercices génériques (core/exercise.js) */
+.blank { display: inline-block; min-width: 3.5em; border-bottom: 2px solid var(--band); text-align: center; color: var(--band); }
+.es-option { font-family: var(--serif); font-size: 1.2rem; }
+.options.two { grid-template-columns: 1fr 1fr; }
+.option.picked { border-color: var(--band); background: color-mix(in srgb, var(--band) 10%, white); }
+.statement { font-size: 1.15rem; margin: 6px 0 4px; }
+.statement i[lang="es"] { font-size: 1.1em; }
+.order-line {
+  min-height: 64px; padding: 10px; border-radius: var(--radius-ctl); border: 2px dashed var(--line);
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 8px;
+}
+.order-line.is-ok { border: 2px solid var(--ok); background: var(--ok-bg); }
+.order-line.is-ko { border: 2px solid var(--ko); background: var(--ko-bg); }
+.order-hint { color: var(--ink-soft); font-size: 0.95rem; }
+.order-bank { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.tile {
+  font: 600 1.25rem var(--serif); padding: 8px 14px; min-height: 46px; border-radius: 12px;
+  border: 1px solid var(--line); background: var(--sky); cursor: pointer; color: var(--ink);
+}
+.tile.on { background: var(--paper); border-color: var(--band); }
+.tile:disabled { opacity: 0.25; cursor: default; }
+.sentence { font-size: 1.3rem; font-weight: 600; }
+.next-link { display: block; margin-top: 26px; color: var(--band); font-weight: 700; }
+.level-title { display: flex; align-items: center; gap: 6px; font-size: 1.15rem; }
+
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }
