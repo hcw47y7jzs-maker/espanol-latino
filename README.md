@@ -50,6 +50,14 @@ git commit -am "..." && git push
 
 Au lancement suivant, l'app affiche « Mettre à jour ».
 
+## Audios (voix argentine Daniela)
+
+Les audios sont enregistrés gratuitement par GitHub avec la voix Piper `es_AR-daniela-high` (données OpenSLR 61, licence CC BY-SA 4.0).
+
+1. `python3 tools/build_audio_texts.py` liste tout ce que l'app peut lire (`packs/es-419/audio/texts.json`).
+2. Pousser ce fichier sur GitHub lance le workflow **Audios** (onglet Actions) : 8 parties en parallèle, puis fusion, enregistrement dans le dépôt et republication du site. Seuls les textes nouveaux sont enregistrés.
+3. L'app lit `audio/index.json` ; un texte absent est lu par la voix de l'iPhone.
+
 ## Conventions des leçons
 
 - `*texte*` : espagnol (italique, police à empattements, lu à voix haute au toucher)

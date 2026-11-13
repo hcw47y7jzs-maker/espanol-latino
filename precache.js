@@ -24,7 +24,6 @@ self.PRECACHE = [
  "./manifest.webmanifest",
  "./modules/verbs/engine.js",
  "./modules/verbs/index.js",
- "./packs/es-419/audio/index.json",
  "./packs/es-419/lang.js",
  "./packs/es-419/lessons/verbs/condicional.md",
  "./packs/es-419/lessons/verbs/futuro.md",

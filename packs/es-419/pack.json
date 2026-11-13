@@ -3,25 +3,133 @@
   "name": "Español latinoamericano",
   "variant": "Amérique latine, accent mis sur l'Argentine du Nord (Salta)",
   "uiLang": "fr",
-  "speechLangs": ["es-AR", "es-US", "es-MX", "es-419", "es"],
-  "accentKeys": ["á", "é", "í", "ó", "ú", "ñ", "ü"],
-  "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
-  "greetings": { "morning": "Buen día", "afternoon": "Buenas tardes", "night": "Buenas noches" },
+  "speechLangs": [
+    "es-AR",
+    "es-US",
+    "es-MX",
+    "es-419",
+    "es"
+  ],
+  "accentKeys": [
+    "á",
+    "é",
+    "í",
+    "ó",
+    "ú",
+    "ñ",
+    "ü"
+  ],
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "greetings": {
+    "morning": "Buen día",
+    "afternoon": "Buenas tardes",
+    "night": "Buenas noches"
+  },
   "modules": [
-    { "id": "verbs", "title": "Verbos", "subtitle": "Les verbes et leurs temps", "color": "#B42833", "ink": "#FFFFFF", "ready": true },
-    { "id": "grammar", "title": "Gramática", "subtitle": "Les règles qui comptent", "color": "#6A4C9C", "ink": "#FFFFFF", "ready": false },
-    { "id": "vocab", "title": "Vocabulario", "subtitle": "Les 3 000 mots essentiels", "color": "#237A59", "ink": "#FFFFFF", "ready": false },
-    { "id": "expressions", "title": "Expresiones", "subtitle": "Amérique latine et Salta", "color": "#D99A1E", "ink": "#1F2347", "ready": false },
-    { "id": "pronunciation", "title": "Pronunciación", "subtitle": "Écouter, répéter, corriger", "color": "#B83A6C", "ink": "#FFFFFF", "ready": false },
-    { "id": "practice", "title": "Práctica", "subtitle": "Traduire, comprendre, écrire", "color": "#23709D", "ink": "#FFFFFF", "ready": false }
+    {
+      "id": "verbs",
+      "title": "Verbos",
+      "subtitle": "Les verbes et leurs temps",
+      "color": "#B42833",
+      "ink": "#FFFFFF",
+      "ready": true
+    },
+    {
+      "id": "grammar",
+      "title": "Gramática",
+      "subtitle": "Les règles qui comptent",
+      "color": "#6A4C9C",
+      "ink": "#FFFFFF",
+      "ready": false
+    },
+    {
+      "id": "vocab",
+      "title": "Vocabulario",
+      "subtitle": "Les 3 000 mots essentiels",
+      "color": "#237A59",
+      "ink": "#FFFFFF",
+      "ready": false
+    },
+    {
+      "id": "expressions",
+      "title": "Expresiones",
+      "subtitle": "Amérique latine et Salta",
+      "color": "#D99A1E",
+      "ink": "#1F2347",
+      "ready": false
+    },
+    {
+      "id": "pronunciation",
+      "title": "Pronunciación",
+      "subtitle": "Écouter, répéter, corriger",
+      "color": "#B83A6C",
+      "ink": "#FFFFFF",
+      "ready": false
+    },
+    {
+      "id": "practice",
+      "title": "Práctica",
+      "subtitle": "Traduire, comprendre, écrire",
+      "color": "#23709D",
+      "ink": "#FFFFFF",
+      "ready": false
+    }
   ],
   "persons": {
-    "order": ["yo", "tu", "vos", "el", "nos", "uds"],
-    "labels": { "yo": "yo", "tu": "tú", "vos": "vos", "el": "él / ella / usted", "nos": "nosotros/as", "uds": "ustedes / ellos" },
-    "imperativeLabels": { "tu": "tú", "vos": "vos", "el": "usted", "nos": "nosotros/as", "uds": "ustedes" },
+    "order": [
+      "yo",
+      "tu",
+      "vos",
+      "el",
+      "nos",
+      "uds"
+    ],
+    "labels": {
+      "yo": "yo",
+      "tu": "tú",
+      "vos": "vos",
+      "el": "él / ella / usted",
+      "nos": "nosotros/as",
+      "uds": "ustedes / ellos"
+    },
+    "imperativeLabels": {
+      "tu": "tú",
+      "vos": "vos",
+      "el": "usted",
+      "nos": "nosotros/as",
+      "uds": "ustedes"
+    },
     "subjects": {
-      "yo": ["yo"], "tu": ["tú"], "vos": ["vos"], "el": ["él", "ella", "usted"],
-      "nos": ["nosotros", "nosotras"], "uds": ["ustedes", "ellos", "ellas"]
+      "yo": [
+        "yo"
+      ],
+      "tu": [
+        "tú"
+      ],
+      "vos": [
+        "vos"
+      ],
+      "el": [
+        "él",
+        "ella",
+        "usted"
+      ],
+      "nos": [
+        "nosotros",
+        "nosotras"
+      ],
+      "uds": [
+        "ustedes",
+        "ellos",
+        "ellas"
+      ]
     },
     "imperativeAddressees": {
       "tu": "à un ami, en le tutoyant avec « tú »",
@@ -30,46 +138,146 @@
       "nos": "pour proposer quelque chose à ton groupe (nosotros)",
       "uds": "à un groupe de personnes (ustedes)"
     },
-    "ignoredWords": ["yo", "tú", "tu", "vos", "él", "el", "ella", "usted", "ud", "nosotros", "nosotras", "ustedes", "uds", "ellos", "ellas", "que"]
+    "ignoredWords": [
+      "yo",
+      "tú",
+      "tu",
+      "vos",
+      "él",
+      "el",
+      "ella",
+      "usted",
+      "ud",
+      "nosotros",
+      "nosotras",
+      "ustedes",
+      "uds",
+      "ellos",
+      "ellas",
+      "que"
+    ],
+    "speech": {
+      "yo": "yo",
+      "tu": "tú",
+      "vos": "vos",
+      "el": "él",
+      "nos": "nosotros",
+      "uds": "ustedes"
+    }
   },
   "verbs": {
     "data": "verbs.json",
     "tenses": [
       {
-        "id": "presente", "es": "Presente", "fr": "Présent", "level": "A1",
+        "id": "presente",
+        "es": "Presente",
+        "fr": "Présent",
+        "level": "A1",
         "lesson": "lessons/verbs/presente.md",
-        "markers": ["Todos los días,", "Normalmente,", "Ahora", "Siempre", "Los domingos,", "En general,"]
+        "markers": [
+          "Todos los días,",
+          "Normalmente,",
+          "Ahora",
+          "Siempre",
+          "Los domingos,",
+          "En general,"
+        ]
       },
       {
-        "id": "preterito", "es": "Pretérito indefinido", "fr": "Passé simple", "level": "A2",
+        "id": "preterito",
+        "es": "Pretérito indefinido",
+        "fr": "Passé simple",
+        "level": "A2",
         "lesson": "lessons/verbs/preterito.md",
-        "markers": ["Ayer", "Anoche", "El año pasado", "La semana pasada", "En 2019", "Hace dos años", "El otro día"]
+        "markers": [
+          "Ayer",
+          "Anoche",
+          "El año pasado",
+          "La semana pasada",
+          "En 2019",
+          "Hace dos años",
+          "El otro día"
+        ]
       },
       {
-        "id": "imperfecto", "es": "Pretérito imperfecto", "fr": "Imparfait", "level": "A2",
+        "id": "imperfecto",
+        "es": "Pretérito imperfecto",
+        "fr": "Imparfait",
+        "level": "A2",
         "lesson": "lessons/verbs/imperfecto.md",
-        "markers": ["Antes", "En aquella época", "Todos los veranos, antes,", "Mientras llovía,", "En esos años", "De vez en cuando, en aquel tiempo,"]
+        "markers": [
+          "Antes",
+          "En aquella época",
+          "Todos los veranos, antes,",
+          "Mientras llovía,",
+          "En esos años",
+          "De vez en cuando, en aquel tiempo,"
+        ]
       },
       {
-        "id": "futuro", "es": "Futuro simple", "fr": "Futur simple", "level": "A2",
+        "id": "futuro",
+        "es": "Futuro simple",
+        "fr": "Futur simple",
+        "level": "A2",
         "lesson": "lessons/verbs/futuro.md",
-        "markers": ["Mañana", "El año que viene", "Dentro de diez años", "Algún día", "La próxima semana", "Seguramente"]
+        "markers": [
+          "Mañana",
+          "El año que viene",
+          "Dentro de diez años",
+          "Algún día",
+          "La próxima semana",
+          "Seguramente"
+        ]
       },
       {
-        "id": "condicional", "es": "Condicional simple", "fr": "Conditionnel", "level": "B1",
+        "id": "condicional",
+        "es": "Condicional simple",
+        "fr": "Conditionnel",
+        "level": "B1",
         "lesson": "lessons/verbs/condicional.md",
-        "markers": ["Con más tiempo,", "En ese caso,", "Con más plata,", "En otra vida,", "Sin este trabajo,", "En tu lugar,"]
+        "markers": [
+          "Con más tiempo,",
+          "En ese caso,",
+          "Con más plata,",
+          "En otra vida,",
+          "Sin este trabajo,",
+          "En tu lugar,"
+        ]
       },
       {
-        "id": "imperativo", "es": "Imperativo", "fr": "Impératif", "level": "A2",
+        "id": "imperativo",
+        "es": "Imperativo",
+        "fr": "Impératif",
+        "level": "A2",
         "lesson": "lessons/verbs/imperativo.md",
         "markers": []
       }
     ],
     "auxTenses": [
-      { "id": "subj_presente", "es": "Presente de subjuntivo", "fr": "Subjonctif présent" },
-      { "id": "subj_imperfecto", "es": "Imperfecto de subjuntivo", "fr": "Subjonctif imparfait" }
+      {
+        "id": "subj_presente",
+        "es": "Presente de subjuntivo",
+        "fr": "Subjonctif présent"
+      },
+      {
+        "id": "subj_imperfecto",
+        "es": "Imperfecto de subjuntivo",
+        "fr": "Subjonctif imparfait"
+      }
     ],
-    "introLesson": { "id": "personas", "es": "Las personas", "fr": "Les personnes, le vos et l'usted", "lesson": "lessons/verbs/personas.md" }
+    "introLesson": {
+      "id": "personas",
+      "es": "Las personas",
+      "fr": "Les personnes, le vos et l'usted",
+      "lesson": "lessons/verbs/personas.md"
+    }
+  },
+  "speechExtras": [
+    "Hola, ¿cómo andás?"
+  ],
+  "voice": {
+    "name": "Daniela",
+    "origin": "Argentine",
+    "credit": "Voix Daniela (Piper, données OpenSLR 61, licence CC BY-SA 4.0)"
   }
 }

@@ -1,0 +1,64 @@
+"""Liste tous les textes que l'app peut lire à voix haute -> packs/<pack>/audio/texts.json.
+
+Le workflow GitHub « Audios » lit ce fichier et enregistre les textes manquants avec la voix Piper.
+Usage : python3 tools/build_audio_texts.py [es-419]
+
+La clé d'un texte (speech_key) doit rester identique à celle de core/audio.js.
+"""
+import json, pathlib, re, sys, unicodedata
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+PACK_ID = sys.argv[1] if len(sys.argv) > 1 else "es-419"
+PACK = ROOT / "packs" / PACK_ID
+
+
+def speech_key(text: str) -> str:
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFC", text).strip().lower())
+
+
+pack = json.loads((PACK / "pack.json").read_text(encoding="utf-8"))
+texts: dict[str, str] = {}
+
+
+def add(text: str, source: str) -> None:
+    text = text.strip()
+    if not text or text.startswith("-") or not re.search(r"[a-záéíóúñü]", text, re.I):
+        return  # les terminaisons seules (« -ar ») restent lues par la voix de l'appareil
+    texts.setdefault(speech_key(text), text)
+
+
+# ---- Verbes : infinitif, chaque forme seule, et « pronom + forme » des tableaux ----
+speech = pack["persons"]["speech"]
+order = pack["persons"]["order"]
+main_tenses = [t["id"] for t in pack["verbs"]["tenses"]]
+verbs = json.loads((PACK / pack["verbs"]["data"]).read_text(encoding="utf-8"))["verbs"]
+for v in verbs:
+    add(v["inf"], "verbe")
+    for t in main_tenses:
+        row = v["t"].get(t)
+        if not row:
+            continue
+        for i, form in enumerate(row):
+            if not form:
+                continue
+            first = form.split("|")[0]
+            add(first, "forme")
+            if t != "imperativo":
+                add(f"{speech[order[i]]} {first}", "tableau")
+
+# ---- Leçons : tous les passages en espagnol (*…*) ----
+for md in sorted((PACK / "lessons").rglob("*.md")):
+    body = md.read_text(encoding="utf-8")
+    body = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", body)
+    for m in re.finditer(r"\*\*\*([^*]+)\*\*\*|(?<!\*)\*([^*]+)\*(?!\*)", body):
+        add(m.group(1) or m.group(2), md.name)
+
+# ---- Phrases fixes de l'interface ----
+for phrase in pack.get("speechExtras", []):
+    add(phrase, "interface")
+
+out = PACK / "audio" / "texts.json"
+out.parent.mkdir(parents=True, exist_ok=True)
+items = [texts[k] for k in sorted(texts)]
+out.write_text(json.dumps(items, ensure_ascii=False, indent=0), encoding="utf-8")
+print(f"{len(items)} textes -> {out.relative_to(ROOT)}")

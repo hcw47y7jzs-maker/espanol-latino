@@ -199,7 +199,10 @@ function settings(ctx) {
       ),
       h("h2", { class: "section-title" }, "Voix"),
       h("div", { class: "rows" },
-        h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Voix de lecture"), h("span", { class: "row-sub" }, "En attendant les audios enregistrés, l'app lit avec une voix de ton iPhone.")), ),
+        audio.recordedCount()
+          ? h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, `${ctx.pack.voice.name}, voix ${ctx.pack.voice.origin === "Argentine" ? "argentine" : ctx.pack.voice.origin}`), h("span", { class: "row-sub" }, `${audio.recordedCount().toLocaleString("fr-FR")} enregistrements. Ils se téléchargent quand tu les écoutes, puis restent disponibles hors connexion.`)))
+          : h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Enregistrements en préparation"), h("span", { class: "row-sub" }, "En attendant, l'app lit avec une voix de ton iPhone."))),
+        h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Voix de secours"), h("span", { class: "row-sub" }, "Utilisée pour les rares textes non enregistrés."))),
         h("div", { class: "row" }, voiceSel)
       ),
       h("h2", { class: "section-title" }, "Mes données"),
@@ -216,7 +219,7 @@ function settings(ctx) {
         h("label", { class: "row row-btn", for: "import-file" }, "Restaurer une sauvegarde"),
         fileInput
       ),
-      h("p", { class: "fineprint" }, `Version ${window.APP_VERSION || "dev"}. Polices Alegreya et Alegreya Sans (Huerta Tipográfica, Argentine), licence SIL OFL.`)
+      h("p", { class: "fineprint" }, `Version ${window.APP_VERSION || "dev"}. Polices Alegreya et Alegreya Sans (Huerta Tipográfica, Argentine), licence SIL OFL. ${ctx.pack.voice?.credit || ""}.`)
     )
   );
 }

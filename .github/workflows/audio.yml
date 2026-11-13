@@ -1,0 +1,120 @@
+# Enregistre les audios de l'app avec la voix argentine Daniela (Piper), gratuitement sur GitHub.
+# Se lance tout seul quand la liste des textes change (packs/*/audio/texts.json),
+# ou à la main : onglet Actions > Audios > Run workflow.
+name: Audios
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "packs/*/audio/texts.json"
+      - "tools/synthesize_audio.py"
+      - ".github/workflows/audio.yml"
+
+permissions:
+  contents: write
+  pages: write
+  actions: write
+
+concurrency:
+  group: audio
+  cancel-in-progress: false
+
+env:
+  PACK: packs/es-419
+  VOICE_URL: https://huggingface.co/rhasspy/piper-voices/resolve/main/es/es_AR/daniela/high
+  VOICE: es_AR-daniela-high
+
+jobs:
+  synth:
+    name: Partie ${{ matrix.shard }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .github/workflows/audio.yml
+      - run: pip install "piper-tts==1.8.0" lameenc
+      - name: Voix (en cache)
+        id: voice
+        uses: actions/cache@v4
+        with:
+          path: voices
+          key: piper-${{ env.VOICE }}-v1
+      - name: Télécharger la voix
+        if: steps.voice.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p voices
+          curl -fsSL -o "voices/$VOICE.onnx" "$VOICE_URL/$VOICE.onnx"
+          curl -fsSL -o "voices/$VOICE.onnx.json" "$VOICE_URL/$VOICE.onnx.json"
+      - name: Enregistrer
+        run: |
+          python tools/synthesize_audio.py --pack "$PACK" --voice "voices/$VOICE.onnx" \
+            --shard ${{ matrix.shard }} --shards 8 --max-minutes 300 \
+            --index-out "part-${{ matrix.shard }}.json"
+          mkdir -p out
+          python - <<'PY'
+          import json, os, shutil
+          part = json.load(open(f"part-${{ matrix.shard }}.json"))
+          for rel in part["index"].values():
+              dest = os.path.join("out", rel)
+              os.makedirs(os.path.dirname(dest), exist_ok=True)
+              shutil.copy(os.path.join(os.environ["PACK"], "audio", rel), dest)
+          shutil.copy(f"part-${{ matrix.shard }}.json", "out/")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audio-${{ matrix.shard }}
+          path: out
+          retention-days: 3
+
+  merge:
+    name: Fusion et publication
+    needs: synth
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+      - name: Fusionner
+        id: merge
+        run: |
+          shopt -s nullglob
+          for d in parts/audio-*; do
+            find "$d" -name '*.mp3' | while read -r f; do
+              rel="${f#$d/}"; mkdir -p "$PACK/audio/$(dirname "$rel")"; cp "$f" "$PACK/audio/$rel"
+            done
+          done
+          python tools/synthesize_audio.py --pack "$PACK" --merge parts/audio-*/part-*.json
+          python -c "import json;r=json.load(open('$PACK/audio/report.json'));print(f\"reste={r['reste']}\");print(f\"nouveaux={r['nouveaux']}\")" >> "$GITHUB_OUTPUT"
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$PACK/audio"
+          if git diff --cached --quiet; then echo "Rien de nouveau."; exit 0; fi
+          git commit -q -m "Audios : voix Daniela ($(git diff --cached --name-only | grep -c '\.mp3$') nouveaux fichiers)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+      - name: Republier le site
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+      - name: Continuer s'il en reste
+        if: steps.merge.outputs.reste != '0' && steps.merge.outputs.nouveaux != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run audio.yml --ref main

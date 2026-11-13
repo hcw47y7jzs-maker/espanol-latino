@@ -1,19 +1,23 @@
 // Lecture audio.
-// 1) fichier pré-généré s'il existe (packs/<id>/audio/index.json) ;
+// 1) enregistrement du pack s'il existe (packs/<id>/audio/index.json, généré par le workflow « Audios ») ;
 // 2) sinon, voix de synthèse de l'appareil.
 
 import * as store from "./store.js";
 
-let manifest = null;
+let manifest = {};
 let packBase = "";
 let langs = ["es"];
 let current = null;
+let queueToken = 0;
+
+/** Même clé que tools/build_audio_texts.py et tools/synthesize_audio.py. */
+export const speechKey = (text) => text.normalize("NFC").trim().toLowerCase().replace(/\s+/g, " ");
 
 export async function init(base, speechLangs) {
   packBase = base;
   langs = speechLangs;
   try {
-    const r = await fetch(`${base}audio/index.json`);
+    const r = await fetch(`${base}audio/index.json`, { cache: "no-cache" });
     if (r.ok) manifest = await r.json();
   } catch {}
   if ("speechSynthesis" in window) {
@@ -21,6 +25,9 @@ export async function init(base, speechLangs) {
     speechSynthesis.addEventListener?.("voiceschanged", () => speechSynthesis.getVoices());
   }
 }
+
+export const recordedCount = () => Object.keys(manifest).length;
+export const isRecorded = (text) => !!manifest[speechKey(text)];
 
 export function voices() {
   if (!("speechSynthesis" in window)) return [];
@@ -38,35 +45,57 @@ function pickVoice() {
   return list.find((v) => v.voiceURI === wanted) || list[0] || null;
 }
 
-const key = (text) => text.toLowerCase().normalize("NFC").trim();
-
-export function speak(text, { rate } = {}) {
-  stop();
-  const file = manifest?.[key(text)];
-  if (file) {
+function playFile(file) {
+  return new Promise((resolve) => {
     current = new Audio(packBase + "audio/" + file);
-    current.play().catch(() => speakSynth(text, rate));
-    return;
-  }
-  speakSynth(text, rate);
+    current.playbackRate = store.get("settings/playbackRate", 1);
+    current.onended = resolve;
+    current.onerror = () => resolve("error");
+    current.play().catch(() => resolve("error"));
+  });
 }
 
-function speakSynth(text, rate) {
-  if (!("speechSynthesis" in window)) return;
-  const u = new SpeechSynthesisUtterance(text);
-  const v = pickVoice();
-  if (v) u.voice = v;
-  u.lang = v?.lang || langs[0];
-  u.rate = rate ?? store.get("settings/rate", 0.9);
-  speechSynthesis.speak(u);
+function synth(text) {
+  return new Promise((resolve) => {
+    if (!("speechSynthesis" in window)) return resolve();
+    const u = new SpeechSynthesisUtterance(text);
+    const v = pickVoice();
+    if (v) u.voice = v;
+    u.lang = v?.lang || langs[0];
+    u.rate = store.get("settings/rate", 0.9);
+    u.onend = resolve;
+    u.onerror = resolve;
+    speechSynthesis.speak(u);
+  });
+}
+
+async function sayOne(text) {
+  const file = manifest[speechKey(text)];
+  if (file && (await playFile(file)) !== "error") return;
+  await synth(text);
+}
+
+export function speak(text) {
+  stop();
+  sayOne(text);
+}
+
+/** Lit plusieurs textes à la suite (un tableau de conjugaison, par exemple). */
+export async function speakSequence(texts, pauseMs = 250) {
+  stop();
+  const token = ++queueToken;
+  for (const t of texts) {
+    if (token !== queueToken) return;
+    await sayOne(t);
+    await new Promise((r) => setTimeout(r, pauseMs));
+  }
 }
 
 export function stop() {
+  queueToken++;
   if (current) {
     current.pause();
     current = null;
   }
   if ("speechSynthesis" in window) speechSynthesis.cancel();
 }
-
-export const available = () => !!manifest || ("speechSynthesis" in window);

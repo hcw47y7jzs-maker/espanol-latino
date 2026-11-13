@@ -14,6 +14,8 @@ for p in sorted(ROOT.rglob("*")):
     rel = p.relative_to(ROOT)
     if p.is_dir() or any(part in SKIP_DIRS for part in rel.parts) or rel.name in SKIP_FILES or rel.name.startswith("."):
         continue
+    if "audio" in rel.parts:  # les audios se mettent en cache à la première écoute
+        continue
     files.append("./" + rel.as_posix())
 
 (ROOT / "precache.js").write_text("self.PRECACHE = " + json.dumps(files, ensure_ascii=False, indent=1) + ";\n", encoding="utf-8")

@@ -20,6 +20,9 @@ const K = {
   setup: () => C.key("verbs/setup"),
 };
 const reviewed = () => C.store.get(K.reviewed(), {});
+const firstForm = (form) => E.display(form).split(" / ")[0];
+/** Ce que l'on fait entendre pour une ligne de tableau : « yo tengo », ou la forme seule à l'impératif. */
+const rowSpeech = (t, slot) => (t === "imperativo" ? firstForm(slot.form) : `${C.pack.persons.speech[slot.key]} ${firstForm(slot.form)}`);
 const pairKey = (inf, t) => `${inf}|${t}`;
 
 async function engine() {
@@ -302,7 +305,7 @@ function verbPage(inf, tenseParam) {
               {},
               h("th", { scope: "row", lang: "es" }, s.label),
               h("td", { lang: "es", class: "es form" }, E.display(s.form)),
-              h("td", { class: "say-cell" }, say(`${s.label.split(" / ")[0]} ${E.display(s.form).split(" / ")[0]}`))
+              h("td", { class: "say-cell" }, say(rowSpeech(t, s)))
             )
           )
         )
@@ -312,7 +315,7 @@ function verbPage(inf, tenseParam) {
         "div",
         { class: "actions" },
         reviewBtn,
-        h("button", { class: "btn ghost", type: "button", onclick: () => C.audio.speak(slots.map((s) => `${s.label.split(" / ")[0]} ${E.display(s.form).split(" / ")[0]}`).join(", ")) }, "Écouter tout le tableau"),
+        h("button", { class: "btn ghost", type: "button", onclick: () => C.audio.speakSequence(slots.map((s) => rowSpeech(t, s))) }, "Écouter tout le tableau"),
         h("button", { class: "btn ghost", type: "button", onclick: () => startPractice({ scope: "verb", verb: inf, tense: t, type: "table", count: 1, then: "form" }) }, "M'entraîner sur ce tableau")
       )
     );
@@ -330,7 +333,10 @@ function verbPage(inf, tenseParam) {
   return h(
     "main",
     { class: "screen", style: { "--band": M.color } },
-    topbar({ title: v.inf, subtitle: v.fr, color: M.color, ink: M.ink, back: "#/verbs/verbes" }),
+    topbar({
+      title: v.inf, subtitle: v.fr, color: M.color, ink: M.ink, back: "#/verbs/verbes",
+      right: h("button", { class: "icon-btn", type: "button", "aria-label": `Écouter ${v.inf}`, onclick: () => C.audio.speak(v.inf) }, icon("speaker")),
+    }),
     h(
       "section",
       { class: "sheet" },
