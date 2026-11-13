@@ -4,7 +4,7 @@ import * as store from "./store.js";
 import * as audio from "./audio.js";
 import * as timer from "./timer.js";
 import { route, start, go } from "./router.js";
-import { h, es, icon, topbar, toast } from "./ui.js";
+import { h, es, icon, topbar, toast, segmented } from "./ui.js";
 
 const PACK_ID = "es-419";
 const base = `./packs/${PACK_ID}/`;
@@ -167,6 +167,18 @@ function settings(ctx) {
     audio.speak("Hola, ¿cómo andás?");
   });
 
+  const speeds = [{ id: 1, label: "Normale" }, { id: 0.9, label: "Un peu lente" }, { id: 0.75, label: "Lente" }];
+  const speedWrap = h("div");
+  const drawSpeed = () =>
+    speedWrap.replaceChildren(
+      segmented(speeds, s.get("settings/playbackRate", 0.9), (id) => {
+        s.set("settings/playbackRate", id);
+        drawSpeed();
+        audio.speak("Hola, ¿cómo andás?");
+      }, { label: "Vitesse de lecture" })
+    );
+  drawSpeed();
+
   const fileInput = h("input", { type: "file", accept: "application/json", class: "visually-hidden", id: "import-file" });
   fileInput.addEventListener("change", async () => {
     const f = fileInput.files[0];
@@ -202,6 +214,8 @@ function settings(ctx) {
         audio.recordedCount()
           ? h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, `${ctx.pack.voice.name}, voix ${ctx.pack.voice.origin === "Argentine" ? "argentine" : ctx.pack.voice.origin}`), h("span", { class: "row-sub" }, `${audio.recordedCount().toLocaleString("fr-FR")} enregistrements. Ils se téléchargent quand tu les écoutes, puis restent disponibles hors connexion.`)))
           : h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Enregistrements en préparation"), h("span", { class: "row-sub" }, "En attendant, l'app lit avec une voix de ton iPhone."))),
+        h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Vitesse"), h("span", { class: "row-sub" }, "Ralentit les enregistrements sans changer la hauteur de la voix."))),
+        h("div", { class: "row" }, speedWrap),
         h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Voix de secours"), h("span", { class: "row-sub" }, "Utilisée pour les rares textes non enregistrés."))),
         h("div", { class: "row" }, voiceSel)
       ),

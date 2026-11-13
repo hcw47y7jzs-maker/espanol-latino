@@ -48,7 +48,8 @@ function pickVoice() {
 function playFile(file) {
   return new Promise((resolve) => {
     current = new Audio(packBase + "audio/" + file);
-    current.playbackRate = store.get("settings/playbackRate", 1);
+    current.preservesPitch = true;
+    current.playbackRate = store.get("settings/playbackRate", 0.9);
     current.onended = resolve;
     current.onerror = () => resolve("error");
     current.play().catch(() => resolve("error"));
