@@ -1,0 +1,207 @@
+# Lectures (compréhension écrite et traduction de textes), niveaux A1-A2
+# ## id | titre espagnol | titre français | type
+# > phrase espagnole | traduction française
+# ? question | bonne réponse | mauvaise | mauvaise [| mauvaise]
+# ?v affirmation | V ou F
+
+## a1-l1 | Me presento | Je me présente | presentación
+> Hola, me llamo Valentina y tengo veinticuatro años. | Bonjour, je m'appelle Valentina et j'ai vingt-quatre ans.
+> Soy de Salta, una ciudad del norte de Argentina. | Je suis de Salta, une ville du nord de l'Argentine.
+> Vivo con mi mamá y mi hermano Tomás en una casa cerca de la plaza. | Je vis avec ma mère et mon frère Tomás dans une maison près de la place.
+> Trabajo en una farmacia de lunes a viernes. | Je travaille dans une pharmacie du lundi au vendredi.
+> Los sábados voy al parque San Martín con mis amigas. | Le samedi, je vais au parc San Martín avec mes amies.
+> Me gusta mucho la música y el mate con mi abuela. | J'aime beaucoup la musique et le maté avec ma grand-mère.
+? Quel âge a Valentina ? | 24 ans | 14 ans | 34 ans | 42 ans
+? Avec qui vit-elle ? | Sa mère et son frère | Son père et sa sœur | Ses amies | Sa grand-mère
+? Où travaille-t-elle ? | Dans une pharmacie | Dans une école | Dans un parc | Sur la place
+? Que fait-elle le samedi ? | Elle va au parc avec ses amies | Elle travaille | Elle boit du maté avec sa mère | Elle va à la pharmacie
+?v Salta est dans le sud de l'Argentine. | F
+?v Valentina aime le maté avec sa grand-mère. | V
+
+## a1-l2 | En el mercado | Au marché | relato
+> Es domingo y hace sol. | C'est dimanche et il fait beau.
+> Martín va al mercado San Miguel con su papá. | Martín va au marché San Miguel avec son père.
+> En el mercado hay frutas, verduras, queso y pan. | Au marché, il y a des fruits, des légumes, du fromage et du pain.
+> Martín compra un kilo de tomates y dos paltas. | Martín achète un kilo de tomates et deux avocats.
+> Su papá compra empanadas para el almuerzo. | Son père achète des empanadas pour le déjeuner.
+> Todo cuesta ocho mil pesos. | Tout coûte huit mille pesos.
+? Quel jour sont-ils au marché ? | Dimanche | Samedi | Lundi | Vendredi
+? Que achète Martín ? | Des tomates et des avocats | Du fromage et du pain | Des empanadas | Des fruits secs
+? Pourquoi le père achète-t-il des empanadas ? | Pour le déjeuner | Pour le dîner | Pour une fête | Pour sa mère
+? Combien coûte tout ? | 8 000 pesos | 800 pesos | 18 000 pesos | 80 000 pesos
+?v Il pleut. | F
+?v Martín va au marché avec son père. | V
+
+## a1-l3 | Un mensaje | Un message | mensaje
+> Hola, Juli: ¿cómo estás? | Salut Juli, comment vas-tu ?
+> Estoy en el colectivo y llego tarde, a las ocho y media. | Je suis dans le bus et j'arrive en retard, à huit heures et demie.
+> ¿Me esperás en el bar de la esquina? | Tu m'attends au bar du coin ?
+> Tengo tu libro en la mochila. | J'ai ton livre dans mon sac à dos.
+> Hoy pago yo los cafés. | Aujourd'hui, c'est moi qui paie les cafés.
+> Besos, Caro. | Bisous, Caro.
+? Où est Caro ? | Dans le bus | Au bar | À la maison | Au travail
+? À quelle heure arrive-t-elle ? | 8 h 30 | 8 h | 9 h 30 | 7 h 30
+? Où doit attendre Juli ? | Au bar du coin | Devant la gare | Dans le bus | Chez Caro
+? Qu'est-ce que Caro a dans son sac ? | Le livre de Juli | Des cafés | Son téléphone | Les clés
+?v Caro arrive en avance. | F
+?v Caro va payer les cafés. | V
+
+## a1-l4 | Mi casa | Ma maison | descripción
+> Mi casa es chica pero linda. | Ma maison est petite mais jolie.
+> Tiene dos habitaciones, una cocina, un baño y un patio. | Elle a deux chambres, une cuisine, une salle de bains et une cour.
+> En el patio hay un limonero y muchas plantas. | Dans la cour, il y a un citronnier et beaucoup de plantes.
+> La cocina es mi lugar favorito porque es grande y tiene sol. | La cuisine est mon endroit préféré parce qu'elle est grande et ensoleillée.
+> Desde la ventana veo el cerro San Bernardo. | De la fenêtre, je vois la colline San Bernardo.
+> Mi gato Pancho duerme siempre en el sillón. | Mon chat Pancho dort toujours dans le fauteuil.
+? Combien de chambres a la maison ? | Deux | Une | Trois | Quatre
+? Qu'y a-t-il dans la cour ? | Un citronnier et des plantes | Une piscine | Un chien | Une voiture
+? Pourquoi la cuisine est-elle l'endroit préféré ? | Elle est grande et ensoleillée | Elle est petite | Elle est neuve | Elle donne sur la rue
+? Qui est Pancho ? | Le chat | Le frère | Le chien | Le voisin
+?v La maison est grande. | F
+?v De la fenêtre, on voit une colline. | V
+
+## a1-l5 | El horario de la biblioteca | Les horaires de la bibliothèque | aviso
+> Biblioteca Provincial de Salta. | Bibliothèque provinciale de Salta.
+> Abierta de lunes a viernes de 8 a 20 horas. | Ouverte du lundi au vendredi de 8 h à 20 h.
+> Los sábados abrimos de 9 a 13 horas. | Le samedi, nous ouvrons de 9 h à 13 h.
+> Los domingos y feriados está cerrada. | Le dimanche et les jours fériés, elle est fermée.
+> Para sacar libros, necesitás tu documento. | Pour emprunter des livres, tu as besoin de ta pièce d'identité.
+> Hay internet gratis en la sala de lectura. | Il y a internet gratuit dans la salle de lecture.
+? À quelle heure ferme la bibliothèque le mardi ? | 20 h | 13 h | 18 h | 22 h
+? Est-elle ouverte le dimanche ? | Non | Oui, le matin | Oui, toute la journée | Seulement l'après-midi
+? Que faut-il pour emprunter des livres ? | Une pièce d'identité | De l'argent | Un ordinateur | Une photo
+? Qu'y a-t-il dans la salle de lecture ? | Internet gratuit | Un café | Des jeux | Une cantine
+?v Le samedi, elle ouvre à 9 h. | V
+?v Internet est payant. | F
+
+## a1-l6 | Mi día | Ma journée | relato
+> Me levanto a las siete y tomo mate con tostadas. | Je me lève à sept heures et je bois un maté avec des tartines.
+> A las ocho voy a la escuela en bicicleta. | À huit heures, je vais à l'école à vélo.
+> Soy maestra de primer grado. | Je suis institutrice en CP.
+> Al mediodía como en casa y duermo una siesta corta. | À midi, je mange à la maison et je fais une petite sieste.
+> A la tarde corrijo cuadernos y preparo las clases. | L'après-midi, je corrige des cahiers et je prépare les cours.
+> A la noche ceno con mi esposo y miramos una serie. | Le soir, je dîne avec mon mari et nous regardons une série.
+? Que prend-elle au petit-déjeuner ? | Du maté et des tartines | Du café et des croissants | Du jus d'orange | Rien
+? Comment va-t-elle à l'école ? | À vélo | En bus | À pied | En voiture
+? Quel est son métier ? | Institutrice | Infirmière | Étudiante | Cuisinière
+? Que fait-elle le soir ? | Elle dîne et regarde une série | Elle corrige des cahiers | Elle fait la sieste | Elle va au cinéma
+?v Elle fait la sieste à midi. | V
+?v Elle mange à la cantine. | F
+
+## a1-l7 | El clima en Salta | Le climat à Salta | información
+> En Salta el verano es de diciembre a marzo. | À Salta, l'été va de décembre à mars.
+> En verano hace calor y llueve mucho por la tarde. | En été, il fait chaud et il pleut beaucoup l'après-midi.
+> El invierno es seco y soleado. | L'hiver est sec et ensoleillé.
+> De día hace calor, pero de noche hace mucho frío. | Le jour il fait chaud, mais la nuit il fait très froid.
+> En la puna, a cuatro mil metros, a veces nieva. | Sur la puna, à quatre mille mètres, il neige parfois.
+> La mejor época para viajar es la primavera, en octubre. | La meilleure période pour voyager est le printemps, en octobre.
+? Quand est l'été à Salta ? | De décembre à mars | De juin à septembre | En octobre | Toute l'année
+? Comment est l'hiver ? | Sec et ensoleillé | Pluvieux | Très chaud | Neigeux en ville
+? Où neige-t-il parfois ? | Sur la puna | En ville | Au bord de la mer | Dans le parc
+? Quelle est la meilleure période pour voyager ? | Octobre | Janvier | Juillet | Mars
+?v En été, il pleut l'après-midi. | V
+?v Les nuits d'hiver sont chaudes. | F
+
+## a2-l1 | Una receta: empanadas salteñas | Une recette : empanadas de Salta | receta
+> Primero, cortá la carne en cubitos con un cuchillo. | D'abord, coupe la viande en petits dés avec un couteau.
+> Después, cociná la cebolla con grasa y agregá la carne. | Ensuite, fais cuire l'oignon avec de la graisse et ajoute la viande.
+> Condimentá con comino, pimentón y sal. | Assaisonne avec du cumin, du paprika et du sel.
+> Cuando el relleno está frío, agregá papa, huevo duro y cebolla de verdeo. | Quand la farce est froide, ajoute de la pomme de terre, de l'œuf dur et de la ciboule.
+> Poné una cucharada de relleno en cada tapa y cerrá con un repulgue. | Mets une cuillerée de farce sur chaque disque de pâte et ferme avec un repli torsadé.
+> Cocinalas en el horno bien caliente durante quince minutos. | Fais-les cuire au four bien chaud pendant quinze minutes.
+> Comelas calientes, con un vaso de vino torrontés. | Mange-les chaudes, avec un verre de vin torrontés.
+? Comment coupe-t-on la viande ? | Au couteau, en petits dés | Au hachoir | En grandes tranches | On ne la coupe pas
+? Quelles épices utilise-t-on ? | Cumin, paprika, sel | Poivre et thym | Cannelle | Origan seulement
+? Quand ajoute-t-on la pomme de terre et l'œuf ? | Quand la farce est froide | Au début | Après la cuisson au four | Jamais
+? Combien de temps au four ? | 15 minutes | 5 minutes | 45 minutes | 1 heure
+?v On fait cuire les empanadas au four. | V
+?v On les mange froides avec de la bière. | F
+
+## a2-l2 | Correo de un amigo | Le mail d'un ami | correo
+> Querido Mateo: | Cher Mateo,
+> ¿Cómo andás? Acá todo bien, aunque hace mucho calor. | Comment ça va ? Ici tout va bien, même s'il fait très chaud.
+> El fin de semana pasado fui a Cafayate con mi novia. | Le week-end dernier, je suis allé à Cafayate avec ma copine.
+> Visitamos dos bodegas y probamos vinos riquísimos. | Nous avons visité deux caves et goûté des vins délicieux.
+> El domingo caminamos por la Quebrada de las Conchas y vimos formaciones rojas increíbles. | Dimanche, nous avons marché dans la Quebrada de las Conchas et vu des formations rouges incroyables.
+> ¿Cuándo venís a Salta? Tenés una cama en mi casa. | Quand viens-tu à Salta ? Tu as un lit chez moi.
+> Un abrazo, Nico. | Je t'embrasse, Nico.
+? Avec qui Nico est-il allé à Cafayate ? | Avec sa copine | Avec Mateo | Avec ses parents | Seul
+? Qu'ont-ils visité ? | Deux caves | Un musée | Une église | Une école
+? Qu'ont-ils vu dans la Quebrada de las Conchas ? | Des formations rouges | Des lacs bleus | De la neige | Des animaux sauvages
+? Que propose Nico à Mateo ? | Un lit chez lui | Un voyage en Europe | Un travail | Du vin
+?v Il fait froid à Salta. | F
+?v Nico invite Mateo à venir à Salta. | V
+
+## a2-l3 | El Tren a las Nubes | Le Train des nuages | turismo
+> El Tren a las Nubes es una de las atracciones más famosas de Salta. | Le Train des nuages est l'une des attractions les plus célèbres de Salta.
+> Sube por la Quebrada del Toro hasta más de cuatro mil metros de altura. | Il monte par la Quebrada del Toro jusqu'à plus de quatre mille mètres d'altitude.
+> El punto más impresionante es el viaducto La Polvorilla, un puente de metal enorme. | Le point le plus impressionnant est le viaduc La Polvorilla, un énorme pont de métal.
+> Por la altura, algunos pasajeros sienten soroche. | À cause de l'altitude, certains passagers ont le mal des montagnes.
+> Es bueno tomar mucha agua y comer poco. | Il est bon de boire beaucoup d'eau et de manger peu.
+> En el viaje se ven llamas, cardones y pueblos de adobe. | Pendant le voyage, on voit des lamas, des cactus géants et des villages en adobe.
+> Hay que reservar con anticipación, sobre todo en vacaciones. | Il faut réserver à l'avance, surtout pendant les vacances.
+? Jusqu'à quelle altitude monte le train ? | Plus de 4 000 m | 1 000 m | 2 000 m | 8 000 m
+? Qu'est-ce que La Polvorilla ? | Un viaduc | Un village | Une montagne | Une gare
+? Que conseille-t-on contre le mal des montagnes ? | Boire beaucoup d'eau et manger peu | Courir | Dormir dans le train | Boire du vin
+? Que voit-on pendant le voyage ? | Des lamas et des cactus | La mer | Des forêts | Des gratte-ciel
+?v On peut acheter son billet à la dernière minute en vacances sans problème. | F
+?v Certains passagers se sentent mal à cause de l'altitude. | V
+
+## a2-l4 | Un aviso clasificado | Une petite annonce | anuncio
+> Alquilo departamento en el centro de Salta, a tres cuadras de la plaza 9 de Julio. | Je loue un appartement dans le centre de Salta, à trois rues de la place 9 de Julio.
+> Tiene un dormitorio, cocina equipada y balcón con vista a los cerros. | Il a une chambre, une cuisine équipée et un balcon avec vue sur les montagnes.
+> Está en un tercer piso, sin ascensor. | Il est au troisième étage, sans ascenseur.
+> El precio incluye agua y wifi, pero no la luz ni el gas. | Le prix comprend l'eau et le wifi, mais pas l'électricité ni le gaz.
+> No se aceptan mascotas. | Les animaux ne sont pas acceptés.
+> Ideal para estudiantes o parejas. | Idéal pour des étudiants ou des couples.
+> Llamar por la tarde al número del aviso. | Appeler l'après-midi au numéro de l'annonce.
+? Où est l'appartement ? | Dans le centre | En banlieue | À la campagne | À Cafayate
+? Que voit-on du balcon ? | Les montagnes | La mer | La place | Un parc
+? Qu'est-ce qui n'est pas compris dans le prix ? | L'électricité et le gaz | L'eau | Le wifi | Le balcon
+? Quand faut-il appeler ? | L'après-midi | Le matin | Le soir | À midi
+?v Il y a un ascenseur. | F
+?v On ne peut pas avoir de chien. | V
+
+## a2-l5 | La Fiesta del Milagro | La fête du Miracle | tradición
+> Cada septiembre, Salta celebra la Fiesta del Milagro. | Chaque mois de septembre, Salta célèbre la fête du Miracle.
+> Es la fiesta religiosa más importante de la provincia. | C'est la fête religieuse la plus importante de la province.
+> Recuerda un terremoto de 1692 que, según la tradición, no destruyó la ciudad. | Elle rappelle un tremblement de terre de 1692 qui, selon la tradition, n'a pas détruit la ville.
+> Miles de peregrinos caminan durante días desde pueblos lejanos. | Des milliers de pèlerins marchent pendant des jours depuis des villages lointains.
+> El 15 de septiembre hay una gran procesión por las calles del centro. | Le 15 septembre, il y a une grande procession dans les rues du centre.
+> Muchas familias reciben a los peregrinos con agua y comida. | Beaucoup de familles accueillent les pèlerins avec de l'eau et de la nourriture.
+> Es un momento muy emotivo para los salteños. | C'est un moment très émouvant pour les Salteños.
+? En quel mois a lieu la fête ? | Septembre | Juin | Décembre | Mars
+? Que rappelle la fête ? | Un tremblement de terre | Une bataille | Une inondation | La fondation de la ville
+? Que font les pèlerins ? | Ils marchent pendant des jours | Ils prennent l'avion | Ils restent chez eux | Ils dansent la zamba
+? Que font beaucoup de familles ? | Elles accueillent les pèlerins | Elles partent en vacances | Elles ferment leurs portes | Elles vendent des souvenirs
+?v La grande procession a lieu le 15 septembre. | V
+?v C'est une fête sportive. | F
+
+## a2-l6 | Consejos para tomar mate | Conseils pour boire le maté | costumbres
+> El mate es más que una bebida: es una forma de compartir. | Le maté est plus qu'une boisson : c'est une façon de partager.
+> En una ronda, una sola persona ceba el mate para todos. | Dans une ronde, une seule personne prépare le maté pour tout le monde.
+> Cuando te dan el mate, tomalo todo y devolvéselo al cebador. | Quand on te donne le maté, bois-le en entier et rends-le à celui qui le sert.
+> No muevas la bombilla, porque el mate se tapa. | Ne bouge pas la paille, parce que le maté se bouche.
+> No digas «gracias» si querés otro, porque «gracias» significa que no querés más. | Ne dis pas « merci » si tu en veux un autre, parce que « merci » signifie que tu n'en veux plus.
+> En el norte, muchos lo toman dulce, con azúcar o con yuyos. | Dans le nord, beaucoup le boivent sucré, avec du sucre ou des herbes.
+? Qui prépare le maté dans une ronde ? | Une seule personne | Chacun pour soi | Le plus jeune | Personne
+? Que faut-il faire quand on reçoit le maté ? | Le boire en entier et le rendre | En boire la moitié | Le passer au voisin | Le poser sur la table
+? Pourquoi ne faut-il pas bouger la paille ? | Le maté se bouche | Ça brûle | C'est impoli de parler | Elle casse
+? Que veut dire « gracias » dans une ronde ? | Je n'en veux plus | J'en veux un autre | C'est délicieux | Il est trop chaud
+?v Dans le nord, certains boivent le maté avec des herbes. | V
+?v Le maté se boit seul, sans partager. | F
+
+## a2-l7 | Problemas en el hotel | Problèmes à l'hôtel | queja
+> Señores del Hotel Los Cerros: | Messieurs de l'hôtel Los Cerros,
+> Les escribo porque mi estadía de la semana pasada no fue buena. | Je vous écris parce que mon séjour de la semaine dernière n'a pas été bon.
+> La habitación estaba sucia y el aire acondicionado no funcionaba. | La chambre était sale et la climatisation ne marchait pas.
+> Además, el desayuno terminó a las nueve y no a las diez, como dice su página. | De plus, le petit-déjeuner s'est terminé à neuf heures et non à dix heures, comme l'indique votre site.
+> Hablé con la recepción dos veces, pero nadie me ayudó. | J'ai parlé deux fois avec la réception, mais personne ne m'a aidé.
+> Les pido una explicación y, si es posible, un descuento. | Je vous demande une explication et, si possible, une réduction.
+> Atentamente, Laura Gómez. | Cordialement, Laura Gómez.
+? Pourquoi Laura écrit-elle ? | Son séjour n'a pas été bon | Elle veut réserver | Elle a oublié un objet | Elle veut remercier l'hôtel
+? Quel problème avait la climatisation ? | Elle ne fonctionnait pas | Elle était trop froide | Elle faisait du bruit | Il n'y en avait pas
+? À quelle heure s'est terminé le petit-déjeuner ? | 9 h | 10 h | 8 h | 11 h
+? Que demande-t-elle ? | Une explication et une réduction | Une nouvelle chambre | Un taxi | Un dîner gratuit
+?v La réception l'a beaucoup aidée. | F
+?v Le site de l'hôtel indique le petit-déjeuner jusqu'à 10 h. | V

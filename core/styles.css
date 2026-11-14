@@ -454,3 +454,48 @@ mark { background: #FFD97A; color: inherit; border-radius: 3px; padding: 0 1px; 
 .spinner { width: 16px; height: 16px; border-radius: 50%; border: 2.5px solid var(--line); border-top-color: var(--band); display: inline-block; animation: spin 0.8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 @media (prefers-reduced-motion: reduce) { .spinner { animation-duration: 2.4s; } .mic-meter { transition: none; } }
+
+/* ---------- Práctica ---------- */
+.hub-es { font-size: 1rem; }
+.hub-count { color: var(--band); font-weight: 700; }
+.note-chip { display: inline-block; margin-left: 10px; padding: 2px 10px; border-radius: 999px; background: var(--sky); color: var(--ink); font: 700 0.95rem var(--sans); vertical-align: middle; }
+.speak-verdict .chip { margin-left: 8px; vertical-align: middle; }
+.tr-out { margin-top: 12px; }
+.tr-context { margin-bottom: 4px; }
+.tr-diff { background: var(--paper, #fff); border: 1.5px solid var(--line); border-radius: 14px; padding: 10px 14px; margin: 12px 0; }
+.tr-diff .small { margin: 0 0 4px; }
+.diff-text { font: 1.12rem/1.6 var(--serif); margin: 0; white-space: pre-wrap; }
+del { color: var(--ko); text-decoration: line-through; text-decoration-thickness: 1.5px; background: var(--ko-bg); border-radius: 4px; padding: 0 2px; }
+ins { color: var(--ok); text-decoration: none; background: var(--ok-bg); border-radius: 4px; padding: 0 2px; font-weight: 600; }
+.err-list { list-style: none; padding: 0; margin: 8px 0 12px; display: flex; flex-direction: column; gap: 10px; }
+.err-list li { border-left: 3px solid var(--ko); padding: 2px 0 2px 12px; }
+.err-pair { margin: 0; font: 1.08rem/1.5 var(--serif); }
+.err-type { display: inline-block; margin-left: 8px; font: 600 0.75rem var(--sans); color: var(--ink-soft); background: var(--sky); border-radius: 999px; padding: 1px 8px; vertical-align: middle; }
+.err-why { margin: 4px 0 0; color: var(--ink-soft); }
+.mini-lesson { background: #E6F0F7; border-radius: 16px; padding: 12px 16px; margin: 14px 0; }
+.mini-lesson .note-title, .write-result .note-title, .forts .note-title { font-weight: 700; color: #1B5A80; margin: 0 0 6px; }
+.mini-lesson p { margin: 0 0 6px; }
+.mini-lesson ul { margin: 4px 0 8px; padding-left: 20px; }
+.mini-lesson li { font-family: var(--serif); }
+.lesson-link { color: #1B5A80; font-weight: 700; }
+.forts ul { margin: 4px 0 10px; padding-left: 20px; }
+.write-task { background: var(--sky); border-radius: 16px; padding: 14px 16px; margin-bottom: 14px; }
+.write-prompt { font-size: 1.08rem; font-weight: 600; margin: 0 0 6px; }
+.write-defi { margin: 0 0 6px; }
+.write-area { min-height: 220px; font: 500 1.1rem/1.5 var(--serif); }
+.word-count { font-size: 0.92rem; margin: 6px 0 0; }
+.word-count.under { color: var(--almost); }
+.word-count.over { color: var(--ko); }
+.word-count.good { color: var(--ok); }
+.small.warn { color: var(--ko); }
+.small.good { color: var(--ok); }
+.reading { display: flex; flex-direction: column; gap: 8px; margin: 8px 0 12px; }
+.reading-line { font: 1.15rem/1.55 var(--serif); margin: 0; }
+.reading-line .icon-btn { vertical-align: middle; }
+.reading-fr { display: block; font: 0.98rem/1.45 var(--sans); color: var(--ink-soft); margin-top: 2px; }
+.reading-box { border: 1.5px solid var(--line); border-radius: 14px; padding: 8px 14px; margin: 0 0 14px; }
+.reading-box summary { cursor: pointer; font-weight: 700; color: var(--band); padding: 4px 0; }
+.spk { font-family: var(--sans); font-size: 0.9rem; }
+.spk-A { color: #B83A6C; }
+.spk-B { color: #1B5A80; }
+.recap-row.almost { border-left-color: var(--almost); }

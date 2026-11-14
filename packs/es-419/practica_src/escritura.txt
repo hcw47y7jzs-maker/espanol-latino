@@ -1,0 +1,148 @@
+# Sujets d'expression écrite
+# niveau | consigne (les {a|b|c} donnent des variantes) | mots min-max | genre | points de grammaire visés (facultatif)
+
+A1 | Écris un message à {un ami argentin|ta nouvelle colocataire|ton professeur d'espagnol} pour te présenter : ton nom, ton âge, ta ville, ton métier et {deux choses que tu aimes|ta famille|ta journée type}. | 30-60 | mensaje | a1-ser-estar,a1-gustar
+A1 | Décris {ta maison|ta chambre|ton quartier} : comment c'est, ce qu'il y a, ce que tu aimes {le plus|le moins|faire là}. | 30-60 | descripción | a1-hay,a1-adjetivos
+A1 | Décris {ton meilleur ami|un membre de ta famille|ton voisin} : son physique, son caractère et {ce qu'il aime|son travail|ce que vous faites ensemble}. | 30-60 | descripción | a1-ser-estar,a1-adjetivos
+A1 | Raconte ta journée {du lundi|du samedi|d'hier, au présent} : à quelle heure tu te lèves, ce que tu manges, {où tu vas|ce que tu fais le soir|avec qui tu parles}. | 40-70 | relato | a2-reflexivos
+A1 | Écris une liste de courses commentée pour {un asado entre amis|un petit-déjeuner argentin|un pique-nique à San Lorenzo} et explique {pour qui c'est|combien ça coûte environ|ce que tu préfères}. | 30-60 | lista | a1-articulos
+A1 | Écris un message pour {proposer un maté|inviter un ami au cinéma|proposer une promenade} {samedi après-midi|dimanche matin|ce soir} : lieu, heure, ce qu'il faut apporter. | 30-50 | mensaje | a2-perifrasis
+A1 | Décris {ta ville|la ville de Salta d'après ce que tu sais|ton village idéal} : {le climat|les endroits importants|ce qu'on peut faire}. | 40-70 | descripción | a1-hay
+A1 | Dis ce que tu aimes et ce que tu n'aimes pas à propos de {la nourriture|la musique|le sport} et {pourquoi|avec qui tu le partages|depuis quand}. | 30-60 | opinión | a1-gustar
+A1 | Écris une carte postale à {ta mère|un ami français|ta grand-mère} depuis {Cafayate|Purmamarca|Salta} : où tu es, le temps qu'il fait, ce que tu vois. | 30-60 | postal | a1-ser-estar,a1-hay
+A1 | Présente {ton animal|ton plat préféré|ton objet préféré} : comment il est et {pourquoi tu l'aimes|d'où il vient|ce que tu fais avec}. | 30-60 | descripción | a1-adjetivos
+A1 | Écris un petit dialogue {au kiosque|au marché|à la boulangerie} : tu demandes un produit, le prix et {tu paies|tu demandes la monnaie|tu remercies}. | 40-70 | diálogo | a1-preguntas
+A1 | Remplis une fiche de présentation pour {un club de randonnée|un cours de danse folklorique|un échange linguistique} : qui tu es, ce que tu sais faire, {tes disponibilités|tes goûts|tes langues}. | 30-60 | ficha | a1-ser-estar
+A1 | Décris ce que {tu portes aujourd'hui|tu mets pour aller à une fête|tu emportes dans ton sac} et {les couleurs|pourquoi|où tu l'as acheté}. | 30-60 | descripción | a1-adjetivos,a1-demostrativos
+A1 | Écris des questions pour {connaître un nouveau collègue|interviewer un musicien de Salta|faire connaissance avec ta colocataire} : au moins {six|huit|sept} questions variées. | 30-60 | preguntas | a1-preguntas
+A1 | Décris {une photo de famille|une photo de vacances|une photo de ta ville} : qui il y a, où vous êtes, {ce que vous faites|quel temps il fait|ce que tu ressens}. | 40-70 | descripción | a1-hay,a2-perifrasis
+A1 | Écris à un hôtel de {Cachi|Salta|Humahuaca} pour demander {s'il y a une chambre libre|le prix d'une nuit|si le petit-déjeuner est compris} pour {deux|trois|quatre} nuits. | 30-60 | mensaje | a1-preguntas
+A1 | Présente ta semaine idéale : ce que tu fais {chaque jour|le week-end|le soir} et {avec qui|où|pourquoi}. | 40-70 | relato | a2-reflexivos
+A1 | Explique comment tu apprends l'espagnol : {quand|où|avec quoi} tu étudies et {ce qui est facile|ce qui est difficile|ce que tu aimes}. | 30-60 | texto personal | a1-gustar
+A1 | Écris un message d'anniversaire à {un ami|ta sœur|ta voisine} avec {trois souhaits|une invitation|un souvenir}. | 30-50 | mensaje | 
+A1 | Décris le temps qu'il fait {aujourd'hui|en hiver chez toi|en été à Salta} et ce que tu fais {quand il pleut|quand il fait chaud|quand il fait froid}. | 30-60 | descripción | a1-ser-estar
+
+A2 | Raconte {ton dernier week-end|tes dernières vacances|ta première journée en Argentine} : où tu es allé, avec qui, ce que vous avez fait {et mangé|et ce qui t'a plu|et un petit problème}. | 70-110 | relato | b1-perfecto
+A2 | Écris un mail à {un ami salteño|ton ancienne professeure|ta famille d'accueil} pour raconter {ton nouveau travail|ton déménagement|un voyage récent} et poser {deux|trois|quelques} questions. | 70-110 | correo | b1-perfecto,a2-oi
+A2 | Raconte un souvenir d'enfance : {un anniversaire|une fête de famille|des vacances} — où tu vivais, comment c'était, ce qui s'est passé. | 70-110 | relato | b1-perfecto
+A2 | Compare {ta ville et Salta|la vie à la campagne et en ville|ton pays et l'Argentine} : {le climat|la nourriture|le rythme de vie} et ce que tu préfères. | 70-110 | comparación | a2-comparativos
+A2 | Écris une recette simple de {ton plat préféré|un plat français|une boisson chaude} avec les ingrédients et les étapes (à l'impératif avec vos). | 60-100 | receta | a2-posicion
+A2 | Donne des conseils à {un ami qui vient à Salta|un étudiant qui commence l'espagnol|une personne qui veut faire la randonnée de San Lorenzo} : {cinq|six|quatre} conseils avec « tenés que », « hay que » ou l'impératif. | 60-100 | consejos | a2-perifrasis
+A2 | Écris un message pour {annuler un rendez-vous|changer l'heure d'un dîner|t'excuser d'un retard} et proposer {une autre date|une solution|un petit cadeau}. | 50-90 | mensaje | a2-oi,a2-perifrasis
+A2 | Décris tes projets pour {l'année prochaine|les prochaines vacances|ce week-end} avec « voy a » : où, avec qui, pourquoi. | 60-100 | planes | a2-perifrasis
+A2 | Écris une petite annonce pour {louer ta chambre|vendre ton vélo|chercher un professeur de guitare} : description, prix, contact. | 50-90 | anuncio | a1-adjetivos
+A2 | Raconte une journée où tout s'est mal passé : {le bus|la pluie|le téléphone} et {comment ça s'est terminé|ce que tu as appris|qui t'a aidé}. | 70-110 | relato | b1-perfecto,b2-se-involuntario
+A2 | Écris un avis sur {un restaurant|un hôtel|une excursion} que tu as testé : ce qui t'a plu, ce qui ne t'a pas plu, {la note|le prix|si tu le recommandes}. | 60-100 | reseña | a2-comparativos
+A2 | Présente une personne que tu admires ({un artiste|un membre de ta famille|un professeur}) : qui c'est, ce qu'elle a fait, pourquoi tu l'admires. | 70-110 | presentación | b1-perfecto
+A2 | Écris à ton propriétaire pour signaler {une fuite d'eau|un problème de chauffage|une panne d'électricité} et demander une solution. | 50-90 | correo | a2-perifrasis
+A2 | Raconte comment tu as connu {ton meilleur ami|ton partenaire|ta colocataire} : où, quand, ce qui s'est passé. | 70-110 | relato | a2-reflexivos,b1-perfecto
+A2 | Explique tes habitudes {alimentaires|de sommeil|de sport} et ce que tu voudrais changer. | 60-100 | texto personal | a2-reflexivos
+A2 | Décris une fête traditionnelle de ton pays pour {un ami argentin|des élèves salteños|un blog} : date, ce qu'on fait, ce qu'on mange. | 70-110 | descripción | b1-se-impersonal
+A2 | Écris un dialogue {chez le médecin|à la pharmacie|à la réception d'un hôtel} avec au moins {huit|dix|six} répliques. | 70-110 | diálogo | a2-oi
+A2 | Raconte {ton premier jour de travail|ton premier cours d'espagnol|ton arrivée dans une nouvelle ville} : ce que tu ressentais et ce qui s'est passé. | 70-110 | relato | b1-perfecto
+A2 | Écris un message de remerciement à {ta famille d'accueil|un guide|un voisin} : pour quoi tu remercies, un souvenir, une invitation. | 50-90 | mensaje | a2-por-para
+A2 | Décris ton téléphone et comment tu l'utilises : {les applis|le temps passé|ce que tu en penses}. | 60-100 | texto personal | a2-od
+
+B1 | Écris un mail à {un ami|ta cousine|un ancien collègue} pour lui donner des conseils sur {un problème au travail|une dispute avec sa colocataire|un choix d'études}, avec le subjonctif (« te aconsejo que », « es importante que »). | 120-160 | correo | b1-subj-deseo,b1-subj-emocion
+B1 | Donne ton opinion : {faut-il interdire les voitures dans le centre-ville ?|les réseaux sociaux rendent-ils plus seuls ?|vaut-il mieux vivre en ville ou à la campagne ?} Argumente avec « creo que », « no creo que » et des exemples. | 120-160 | opinión | b1-subj-duda
+B1 | Raconte {un voyage qui t'a marqué|une rencontre inattendue|une fois où tu t'es perdu} en combinant passé simple, imparfait et plus-que-parfait. | 130-180 | relato | b1-perfecto
+B1 | Écris une lettre de motivation pour {un travail d'été dans un hôtel de Salta|un volontariat dans une école de la puna|un stage dans une cave de Cafayate}. | 120-160 | carta formal | b1-subj-deseo
+B1 | Rapporte une conversation que tu as eue avec {ton chef|ta mère|un vendeur} au discours indirect (« me dijo que… », « me preguntó si… »). | 100-150 | relato | b1-estilo-indirecto
+B1 | Décris les avantages et les inconvénients {du télétravail|des voyages en car de nuit|de la vie en colocation}. | 120-160 | ensayo breve | c1-conectores
+B1 | Écris une réclamation à {une compagnie de bus|un magasin en ligne|une agence de voyage} après {un retard|un produit abîmé|une réservation annulée}. | 120-160 | queja | b1-subj-emocion
+B1 | Imagine la suite de cette phrase : « {Cuando abrí la puerta, no había nadie…|Ese día, el colectivo nunca llegó…|La carta estaba en la mesa desde hacía una semana…} » | 130-180 | ficción | b1-perfecto
+B1 | Explique ce que tu ferais pour améliorer {ton quartier|ton lieu de travail|ton apprentissage de l'espagnol}, avec « para que » et « cuando ». | 120-160 | propuesta | b1-subj-tiempo
+B1 | Présente une tradition argentine que tu connais ({le maté|l'asado|la fête du Miracle}) et compare-la avec une tradition de ton pays. | 120-160 | exposición | b1-se-impersonal,a2-comparativos
+B1 | Écris un article de blog : « {Cinco cosas que aprendí viviendo en Argentina|Mi primera peña en Salta|Cómo sobrevivir al calor del norte} ». | 130-180 | blog | b1-perfecto
+B1 | Écris à un ami qui hésite à venir te voir en Argentine pour le convaincre : ce que vous ferez, ce qu'il doit préparer, {ce qu'il va goûter|ce qu'il va voir|les gens qu'il va rencontrer}. | 120-160 | correo | b1-subj-tiempo
+B1 | Décris {une personne qui a changé ta vie|un lieu qui compte pour toi|un objet qui a une histoire} avec des propositions relatives (que, donde, quien, lo que). | 120-160 | descripción | b1-relativos
+B1 | Raconte une expérience où {tu as dû parler espagnol sans comprendre|tu as fait une gaffe culturelle|on t'a aidé sans te connaître} et ce que tu en as retenu. | 130-180 | relato | b1-perfecto
+B1 | Écris un compte rendu de {un film|un livre|un concert} : de quoi il s'agit, ce qui t'a plu, à qui tu le recommandes. | 120-160 | reseña | b1-relativos
+B1 | Donne des instructions détaillées pour {préparer un maté|aller de l'aéroport au centre de Salta|organiser un asado}, avec « se » impersonnel. | 100-150 | instrucciones | b1-se-impersonal
+B1 | Exprime tes sentiments sur {la fin d'une amitié|un départ à l'étranger|un changement de travail} avec « me alegra que », « me da pena que », « tengo miedo de que ». | 120-160 | texto personal | b1-subj-emocion
+B1 | Écris un message au groupe de voisins pour proposer {une fête de quartier|un nettoyage de la place|un jardin partagé}. | 100-150 | mensaje | b1-subj-deseo
+B1 | Raconte {une légende de ton pays|une histoire que te racontait ta grand-mère|une anecdote familiale} pour des enfants argentins. | 130-180 | relato | b1-perfecto
+B1 | Fais le portrait de la ville où tu aimerais vivre dans dix ans : ce qu'il y aurait, ce que tu y ferais. | 120-160 | descripción | b1-relativos
+
+B2 | Écris un essai argumenté : « {¿Debe el turismo tener límites en los pueblos del norte?|¿Hay que enseñar el voseo en las escuelas?|¿El trabajo a distancia vacía las ciudades?} » Introduction, deux arguments, une concession (aunque), une conclusion. | 180-240 | ensayo | b2-concesivas,c1-conectores
+B2 | Imagine : « {Si hubiera nacido en Salta…|Si pudiera vivir un año en otro país…|Si no existieran los teléfonos…} » Développe les conséquences avec les phrases conditionnelles. | 160-220 | ficción | b2-condicionales,b2-subj-imperfecto
+B2 | Écris une lettre formelle à la mairie de {Salta|Cachi|ton quartier} pour proposer {une piste cyclable|une bibliothèque de quartier|un marché de producteurs} et justifier ta demande. | 160-220 | carta formal | b2-subj-relativo,c1-conectores
+B2 | Raconte un moment où {tu as changé d'avis sur quelque chose d'important|tu as dû prendre une décision difficile|tu t'es senti étranger}, en analysant ce que tu ferais autrement aujourd'hui. | 180-240 | relato reflexivo | b2-condicionales
+B2 | Écris la critique d'{une exposition|une série|une peña} en équilibrant éloges et réserves (aunque, sin embargo, si bien). | 160-220 | reseña | b2-concesivas
+B2 | Rédige un article d'information sur {le lithium dans la puna|la sécheresse dans les vallées|le tourisme à Salta} : faits, causes, opinions opposées. | 180-240 | artículo | b2-pasiva,c1-conectores
+B2 | Écris un dialogue entre {deux voisins en désaccord sur un projet|un client et un vendeur|deux amis qui préparent un voyage} où chacun défend son point de vue. | 160-220 | diálogo | b2-subj-imperfecto
+B2 | Décris {une transformation de ta ville|un changement dans ta vie|l'évolution d'un ami} avec les verbes de changement (ponerse, volverse, hacerse, llegar a ser). | 160-220 | texto personal | b2-cambio
+B2 | Écris un mail de réclamation ferme mais poli à {un propriétaire|une assurance|une université} en exigeant une solution précise et un délai. | 160-220 | correo formal | b2-subj-imperfecto
+B2 | Raconte une série de petites catastrophes involontaires ({se me olvidó|se me cayó|se nos perdió}…) lors {d'un voyage|d'un dîner important|d'un premier rendez-vous}. | 160-220 | relato | b2-se-involuntario
+B2 | Présente un projet que tu aimerais réaliser ({ouvrir un café|écrire un livre|faire un long voyage}) : ce dont tu as besoin, les obstacles, comment les surmonter. | 160-220 | proyecto | b2-subj-relativo
+B2 | Écris un texte de présentation pour {un festival de folklore|une association de tisserandes|une coopérative de quinoa} destiné à des visiteurs étrangers. | 160-220 | presentación | b2-pasiva
+B2 | Réponds à un ami qui pense que {l'espagnol d'Argentine est « mal parlé »|les langues autochtones ne servent à rien|apprendre une langue adulte est impossible}. | 180-240 | réplica | b2-concesivas,c1-conectores
+B2 | Rédige un récit à partir de cette situation : {un message anonyme arrive chaque lundi|un vieil homme rend visite à la même tombe chaque année|une maison abandonnée s'éclaire la nuit}. | 180-240 | ficción | b2-subj-imperfecto
+B2 | Écris un mail pour {négocier un prix|demander un délai|refuser poliment une proposition}, en gardant une relation cordiale. | 150-200 | correo | b2-condicionales
+B2 | Compare deux manières de voyager ({en car|en voiture|à pied}) dans le Nord-Ouest, avec avantages, inconvénients et recommandation finale. | 160-220 | comparación | a2-comparativos,b2-concesivas
+B2 | Écris une lettre à toi-même dans dix ans : ce que tu espères, ce que tu crains, ce que tu voudrais avoir appris. | 160-220 | carta | b2-subj-relativo
+B2 | Résume puis commente {un article que tu as lu récemment|une conversation qui t'a fait réfléchir|un film qui t'a marqué}. | 180-240 | resumen | b1-estilo-indirecto
+B2 | Écris une chronique humoristique sur {les rendez-vous en Argentine (toujours en retard)|les règles du maté|la sieste}. | 160-220 | crónica | b1-se-impersonal
+B2 | Décris le lieu où tu as grandi tel qu'il était et tel qu'il est aujourd'hui, et ce que ce changement te fait ressentir. | 180-240 | texto personal | b1-perfecto,b2-cambio
+
+C1 | Rédige un essai nuancé : « {El progreso económico justifica sacrificios ambientales|Las tradiciones deben adaptarse para sobrevivir|La tecnología nos acerca y nos aleja a la vez} ». Thèse, antithèse, synthèse, connecteurs variés. | 250-350 | ensayo | c1-conectores,c1-concordancia
+C1 | Écris une nouvelle qui commence par : « {Nadie en el pueblo recordaba quién había plantado aquel algarrobo…|Cuando el tren se detuvo en medio de la puna, ya era de noche…|Durante años, mi abuela guardó una llave que no abría ninguna puerta…} » | 250-350 | ficción | c1-concordancia,c1-gerundio
+C1 | Rédige un rapport destiné à {la direction d'une école|un conseil municipal|une ONG} sur {l'abandon scolaire dans les zones rurales|la gestion de l'eau|l'accueil des touristes}, avec recommandations. | 250-350 | informe | c1-conectores,b2-pasiva
+C1 | Écris une lettre ouverte à {un journal salteño|la ministre de l'Éducation|les habitants de ton quartier} sur un sujet qui te tient à cœur. | 250-350 | carta abierta | c1-subj-avanzado,c1-duplicacion
+C1 | Analyse un malentendu interculturel que tu as vécu ou imaginé entre {un Français et un Argentin|un citadin et un habitant de la puna|deux générations} et ce qu'il révèle. | 250-350 | ensayo | c1-lo
+C1 | Rédige la critique argumentée d'{un roman|un spectacle|un documentaire} en mettant en relief ce qui t'a marqué (lo más…, lo que…, es… lo que). | 250-350 | reseña | c1-lo,c1-duplicacion
+C1 | Écris un discours pour {l'inauguration d'une bibliothèque|le départ à la retraite d'une institutrice|l'anniversaire d'une coopérative}. | 220-320 | discurso | c1-subj-avanzado
+C1 | Rédige une chronique sur {la vie dans une ville moyenne argentine|les transports en commun|la relation des Argentins au temps}, avec ironie et observation précise. | 250-350 | crónica | c1-lo,c1-conectores
+C1 | Raconte la même scène ({une dispute au marché|un accident sans gravité|une demande en mariage}) du point de vue de deux personnages. | 250-350 | ficción | b1-estilo-indirecto,c1-concordancia
+C1 | Rédige une argumentation pour défendre une position que tu ne partages pas ({prohiber le tourisme en haute montagne|supprimer les devoirs|interdire les voitures en ville}). | 250-350 | ensayo | b2-concesivas,c1-conectores
+C1 | Rédige un courrier professionnel délicat : {annoncer un retard de projet|refuser une candidature|répondre à une critique publique}. | 200-300 | correo formal | c1-concordancia
+C1 | Écris un texte de vulgarisation sur {la formation des salars|le mal de l'altitude|les vins d'altitude} pour un public adolescent. | 220-320 | divulgación | b1-se-impersonal,c1-gerundio
+C1 | Décris avec précision un lieu de Salta ({le marché San Miguel|la place 9 de Julio un dimanche|une peña à minuit}) en mobilisant les cinq sens. | 220-320 | descripción literaria | c1-gerundio
+C1 | Écris un dialogue théâtral entre {une grand-mère et son petit-fils qui part|deux candidats à une élection municipale|un touriste et un guide fatigué}. | 220-320 | teatro | c1-duplicacion
+C1 | Rédige une synthèse de deux points de vue opposés sur {le lithium|la sieste|l'enseignement des langues autochtones} puis donne ta position. | 250-350 | síntesis | c1-conectores
+C1 | Raconte un échec qui t'a appris quelque chose, en alternant récit et réflexion. | 250-350 | texto personal | c1-concordancia,c1-lo
+C1 | Écris l'éditorial d'un journal local à l'occasion de {la fête du Miracle|une inondation|l'arrivée d'une grande entreprise}. | 250-350 | editorial | c1-subj-avanzado
+C1 | Rédige un portrait littéraire d'{un artisan|une chanteuse de coplas|un chauffeur de car de nuit}. | 220-320 | retrato | c1-gerundio,c1-lo
+C1 | Propose un plan d'action pour {réduire le gaspillage alimentaire dans un restaurant|accueillir des étudiants étrangers|revitaliser un village}, avec justifications. | 250-350 | propuesta | b2-subj-relativo
+C1 | Écris une lettre à {un auteur que tu admires|une personne disparue|ton professeur d'espagnol} pour lui dire ce qu'il t'a apporté. | 220-320 | carta | c1-concordancia
+
+C2 | Rédige un essai sur la traduction : « {Traducir es traicionar|Toda lengua es una manera de ver el mundo|El humor no se traduce} ». Nuance, exemples concrets, références. | 350-500 | ensayo | c2-modo-matices
+C2 | Écris une nouvelle à chute qui se déroule {dans la puna|dans un car de nuit entre Salta et Buenos Aires|pendant le carnaval de Humahuaca}. | 350-500 | ficción | c2-conjetura,c2-sufijos
+C2 | Écris un pastiche de chronique radio sur {une fête de village|un match de foot de quartier|une réunion de copropriété}, avec variation de registres. | 300-450 | crónica | c2-variacion
+C2 | Rédige un article d'opinion répondant à {un éditorial favorable au lithium|une critique de l'accent du Nord|un texte qui dit que le folklore est dépassé}. | 350-500 | artículo de opinión | c2-modo-matices,c1-conectores
+C2 | Réécris un même court texte (que tu inventes) dans trois registres : {familier argentin, neutre, très soutenu|oral salteño, journalistique, administratif|enfantin, académique, poétique}. | 300-450 | reescritura | c2-variacion
+C2 | Écris un essai sur ta relation avec la langue espagnole : ce qu'elle t'a donné, ce qui te résiste, ce que tu as perdu ou gagné. | 350-500 | ensayo personal | c2-modo-matices
+C2 | Rédige un récit en focalisation interne sur {un pèlerin de la fête du Miracle|une tisserande âgée|un jeune qui quitte son village}. | 350-500 | ficción | c1-gerundio,c2-conjetura
+C2 | Écris une critique littéraire d'un livre imaginaire, avec citations inventées, analyse du style et jugement nuancé. | 350-500 | crítica | c2-modo-matices,c1-lo
+C2 | Rédige un discours de remise de prix pour {un écrivain salteño|une coopérative de la puna|une institutrice rurale}, émouvant sans être grandiloquent. | 300-450 | discurso | c2-sufijos
+C2 | Rédige une analyse comparée de l'espagnol de Buenos Aires et de celui de Salta, avec des exemples (phonétique, lexique, grammaire). | 350-500 | ensayo | c2-variacion
+C2 | Écris une lettre de démission élégante et ferme d'un poste que tu as {aimé|détesté|subi}, en expliquant tes raisons sans agressivité. | 300-450 | carta formal | c2-modo-matices
+C2 | Rédige une conjecture historique : imagine ce qu'aurait été Salta {sans le chemin de Potosí|si le train n'était jamais arrivé|si Güemes avait vécu plus longtemps}. | 350-500 | ensayo | c2-conjetura,b2-condicionales
+C2 | Écris un dialogue philosophique entre {un ingénieur et un poète|une grand-mère et une IA|un touriste et la montagne}. | 350-500 | diálogo | c1-lo
+C2 | Rédige une chronique de voyage littéraire sur {la route 40|la Quebrada de Humahuaca|les salines}, en évitant la carte postale. | 350-500 | crónica de viaje | c2-sufijos,c1-gerundio
+C2 | Écris un texte argumentatif qui défend une thèse puis, dans un dernier paragraphe, en montre les limites. | 350-500 | ensayo | c2-modo-matices,c1-conectores
+C2 | Rédige la préface d'un recueil de coplas traduites en français, en expliquant tes choix de traduction. | 300-450 | prefacio | c2-modo-matices
+C2 | Réécris une scène célèbre (que tu inventes) à la manière d'un auteur argentin, avec voseo et ironie. | 300-450 | pastiche | c2-variacion
+C2 | Écris un essai sur {l'humour argentin|la nostalgie|la notion de « tiempo » dans le Nord} à partir d'exemples concrets. | 350-500 | ensayo | c1-lo,c2-conjetura
+C2 | Rédige un monologue intérieur d'un personnage qui doit prendre {une décision irréversible|une décision qu'il repousse depuis des années|la décision de revenir}. | 300-450 | ficción | c2-modo-matices
+C2 | Écris une lettre à un francophone qui veut apprendre l'espagnol d'Argentine : pièges, plaisirs, conseils, en jouant sur les registres. | 350-500 | carta | c2-variacion,c2-errores
+
+# Défis facultatifs (un défi peut s'ajouter à n'importe quel sujet du niveau)
+@défi A1 | Écris avec le voseo (vos sos, vos tenés, vos querés…).
+@défi A1 | Pose au moins deux questions dans ton texte.
+@défi A1 | Relie tes phrases avec au moins quatre connecteurs simples (y, pero, porque, también, después).
+@défi A2 | Utilise au moins deux pronoms compléments (lo, la, le, se lo…).
+@défi A2 | Glisse deux expressions argentines du module Expressions (che, dale, re, bárbaro…).
+@défi A2 | Utilise au moins quatre verbes au passé (pretérito) différents.
+@défi B1 | Utilise au moins trois subjonctifs, dans des constructions différentes.
+@défi B1 | Intègre une expression imagée (meter la pata, estar en las nubes…).
+@défi B1 | Termine par une question adressée au lecteur.
+@défi B2 | Utilise au moins une phrase en si + subjonctif imparfait.
+@défi B2 | Emploie trois connecteurs de concession ou d'opposition différents.
+@défi B2 | Écris en vouvoyant (usted / ustedes) du début à la fin.
+@défi C1 | Varie les connecteurs : aucun ne doit apparaître deux fois.
+@défi C1 | Utilise au moins deux mises en relief (lo + adjectif, es… lo que, a mí me…).
+@défi C1 | Fais parler un personnage salteño avec deux traits régionaux justifiés (diminutifs, nomás, pue…).
+@défi C2 | Alterne visiblement deux registres de langue.
+@défi C2 | Emploie au moins une conjecture au futur ou au conditionnel (serán las tres, tendría veinte años).
+@défi C2 | Aucune phrase ne doit dépasser vingt mots.

@@ -30,6 +30,7 @@ const MODULES = {
   vocab: () => import("../modules/vocab/index.js"),
   expressions: () => import("../modules/expr/index.js"),
   pronunciation: () => import("../modules/pron/index.js"),
+  practice: () => import("../modules/practica/index.js"),
 };
 
 async function main() {

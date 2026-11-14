@@ -88,11 +88,36 @@ export async function transcribe(rec, { language = "es", prompt = "" } = {}) {
   return { text: (j.text || "").trim(), noSpeech, logprob };
 }
 
-/** Réponse courte d'un modèle de langage. */
-export async function chat(messages, { maxTokens = 350, temperature = 0.3 } = {}) {
+/** Réponse d'un modèle de langage. Avec json:true, renvoie l'objet JSON produit par le modèle. */
+export async function chat(messages, { maxTokens = 350, temperature = 0.3, json = false } = {}) {
   const model = await pick(CHAT, (ids) => ids.find((m) => !/whisper|guard|tts|orpheus|playai|compound/.test(m)));
   const body = { model, messages, temperature, max_completion_tokens: maxTokens };
   if (model.startsWith("openai/gpt-oss")) body.reasoning_effort = "low";
-  const j = await call("/chat/completions", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
-  return (j.choices?.[0]?.message?.content || "").trim();
+  if (json) body.response_format = { type: "json_object" };
+  const send = (b) => call("/chat/completions", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(b) });
+  let j;
+  try {
+    j = await send(body);
+  } catch (e) {
+    // Certains modèles refusent le mode JSON strict : on réessaie sans, la réponse sera analysée quand même.
+    if (!json || e.code !== "http") throw e;
+    delete body.response_format;
+    j = await send(body);
+  }
+  const text = (j.choices?.[0]?.message?.content || "").trim();
+  return json ? parseJSON(text) : text;
+}
+
+/** Extrait un objet JSON d'une réponse, même entourée de texte ou de balises de code. */
+export function parseJSON(text) {
+  const t = text.replace(/^```(?:json)?\s*|\s*```$/g, "");
+  try {
+    return JSON.parse(t);
+  } catch {
+    const a = t.indexOf("{"), b = t.lastIndexOf("}");
+    if (a >= 0 && b > a) {
+      try { return JSON.parse(t.slice(a, b + 1)); } catch {}
+    }
+    throw new AIError("La réponse de l'IA n'a pas pu être lue. Réessaie.", "parse");
+  }
 }

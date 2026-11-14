@@ -92,6 +92,19 @@ if ppath.exists():
             for x in g:
                 add(x, "prononciation")
 
+# ---- Práctica : phrases à traduire, textes de lecture, répliques des dialogues ([b] = seconde voix) ----
+xpath = PACK / "practica.json"
+if xpath.exists():
+    px = json.loads(xpath.read_text(encoding="utf-8"))
+    for f in px["frases"]:
+        add(f["es"][0], "práctica")
+    for t in px["lecturas"]:
+        for ln in t["lines"]:
+            add(ln["es"], "práctica")
+    for t in px["escuchas"]:
+        for ln in t["lines"]:
+            add(("[b] " if ln["sp"] == "B" else "") + ln["es"], "práctica")
+
 # ---- Phrases fixes de l'interface ----
 for phrase in pack.get("speechExtras", []):
     add(phrase, "interface")

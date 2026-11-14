@@ -1,0 +1,100 @@
+# Phrases à traduire, niveaux C1-C2
+
+c1-concordancia | Je lui ai dit de m'attendre. | Le dije que me esperara. || Le dije que me esperase.
+c1-concordancia | Il voudrait que nous l'aidions. | Querría que lo ayudáramos. || Le gustaría que lo ayudáramos.
+c1-concordancia | Je doutais qu'elle ait compris. | Dudaba que hubiera entendido. || Dudaba que hubiese entendido.
+c1-concordancia | Il a été surpris que personne ne soit venu. | Le sorprendió que no hubiera venido nadie.
+c1-concordancia | Je ne pensais pas qu'il viendrait. | No pensé que viniera. || No pensaba que fuera a venir.
+c1-concordancia | Ils nous ont conseillé de partir avant l'aube. | Nos aconsejaron que saliéramos antes del amanecer.
+c1-concordancia | Elle était contente que nous ayons gagné. | Estaba contenta de que hubiéramos ganado.
+c1-concordancia | Il fallait que tu le saches. | Hacía falta que lo supieras. || Era necesario que lo supieras.
+
+c1-subj-avanzado | Que je sache, il n'est pas encore arrivé. | Que yo sepa, todavía no llegó.
+c1-subj-avanzado | Le fait qu'il soit en retard ne m'étonne pas. | El hecho de que llegue tarde no me sorprende.
+c1-subj-avanzado | Il a beau insister, je ne céderai pas. | Por más que insista, no voy a ceder.
+c1-subj-avanzado | Ce n'est pas qu'il ne veuille pas, c'est qu'il ne peut pas. | No es que no quiera, es que no puede.
+c1-subj-avanzado | Comme tu voudras. | Como quieras.
+c1-subj-avanzado | Il est parti sans que personne ne s'en rende compte. | Se fue sin que nadie se diera cuenta.
+c1-subj-avanzado | Pour autant que je sache, la route est ouverte. | Por lo que sé, la ruta está abierta.
+c1-subj-avanzado | Vienne qui voudra. | Que venga quien quiera.
+
+c1-lo | Le meilleur, c'est le paysage. | Lo mejor es el paisaje.
+c1-lo | Tu ne sais pas à quel point c'est difficile. | No sabés lo difícil que es. || No sabes lo difícil que es.
+c1-lo | L'histoire de la voiture m'inquiète. | Lo del auto me preocupa.
+c1-lo | Ce qui est important, c'est de participer. | Lo importante es participar.
+c1-lo | Je n'ai pas compris ce qu'il voulait. | No entendí lo que quería.
+c1-lo | Tu as vu comme elle chante bien ? | ¿Viste lo bien que canta?
+c1-lo | Le plus drôle, c'est qu'il ne s'en est pas rendu compte. | Lo más gracioso es que no se dio cuenta.
+c1-lo | Je te donne tout ce que j'ai. | Te doy todo lo que tengo.
+
+c1-duplicacion | Le maté, je le prépare moi-même. | El mate lo preparo yo.
+c1-duplicacion | À ma sœur, je lui ai tout raconté. | A mi hermana le conté todo.
+c1-duplicacion | Ces livres, je les ai lus en Argentine. | Esos libros los leí en Argentina.
+c1-duplicacion | Moi, le foot, ça ne m'intéresse pas. | A mí el fútbol no me interesa.
+c1-duplicacion | Je l'ai vu, lui, mais pas elle. | Lo vi a él, pero no a ella.
+c1-duplicacion | Les clés, c'est Juan qui les a. | Las llaves las tiene Juan.
+c1-duplicacion | C'est à toi que je parle. | Es a vos a quien hablo. || Te hablo a vos. || Es a ti a quien hablo.
+c1-duplicacion | Ce que j'aime, c'est la musique du Nord. | Lo que me gusta es la música del norte.
+
+c1-gerundio | Il est arrivé en courant. | Llegó corriendo.
+c1-gerundio | En étudiant tous les jours, tu progresseras. | Estudiando todos los días, vas a mejorar.
+c1-gerundio | Je l'ai vu traverser la rue. | Lo vi cruzando la calle. || Lo vi cruzar la calle.
+c1-gerundio | Nous avons passé l'après-midi à jouer de la guitare. | Pasamos la tarde tocando la guitarra.
+c1-gerundio | Elle a appris l'espagnol en regardant des séries. | Aprendió español mirando series.
+c1-gerundio | Il est sorti en claquant la porte. | Salió dando un portazo.
+c1-gerundio | J'ai reçu une boîte contenant des livres. | Recibí una caja que contenía libros.
+c1-gerundio | Je vais de mieux en mieux. | Voy mejorando.
+
+c1-conectores | Il faisait froid ; cependant, nous sommes sortis. | Hacía frío; sin embargo, salimos.
+c1-conectores | Il n'y avait plus de bus ; par conséquent, nous avons dormi là-bas. | No había más micros; por lo tanto, dormimos allá.
+c1-conectores | Quant au prix, nous en parlerons demain. | En cuanto al precio, lo hablamos mañana.
+c1-conectores | Étant donné qu'il pleut, le concert est annulé. | Dado que llueve, el recital se suspende.
+c1-conectores | D'une part c'est cher, d'autre part c'est loin. | Por un lado es caro y, por otro, queda lejos.
+c1-conectores | En fin de compte, tout s'est bien passé. | A fin de cuentas, todo salió bien. || Al fin y al cabo, todo salió bien.
+c1-conectores | Non seulement il chante, mais en plus il danse. | No solo canta, sino que también baila.
+c1-conectores | Autrement dit, nous n'avons pas le choix. | Es decir, no tenemos opción. || O sea, no tenemos opción.
+
+c2-modo-matices | Bien qu'il soit riche, il vit simplement. | Aunque es rico, vive con sencillez.
+c2-modo-matices | Même s'il était riche, il vivrait simplement. | Aunque fuera rico, viviría con sencillez.
+c2-modo-matices | Je cherche le livre qui parle de Güemes. | Busco el libro que habla de Güemes.
+c2-modo-matices | Je cherche un livre qui parle de Güemes. | Busco un libro que hable de Güemes.
+c2-modo-matices | Il m'a dit de venir. | Me dijo que viniera.
+c2-modo-matices | Il m'a dit qu'il venait. | Me dijo que venía.
+c2-modo-matices | Je ne dis pas que tu as tort. | No digo que no tengas razón.
+c2-modo-matices | Je comprends que tu sois fâché. | Entiendo que estés enojado.
+
+c2-conjetura | Il doit être à peu près trois heures. | Serán las tres. || Deben de ser las tres.
+c2-conjetura | Il aura oublié le rendez-vous. | Se habrá olvidado de la cita.
+c2-conjetura | Elle devait avoir vingt ans à l'époque. | Tendría veinte años en esa época.
+c2-conjetura | Où peut bien être mon téléphone ? | ¿Dónde estará mi celular?
+c2-conjetura | Il a sûrement eu un problème. | Habrá tenido algún problema.
+c2-conjetura | Qui cela pouvait-il bien être ? | ¿Quién sería?
+c2-conjetura | Quiconque enfreindra la loi sera puni. | El que infringiere la ley será castigado. || Quien infrinja la ley será castigado.
+c2-conjetura | Je suppose qu'il est fatigué. | Supongo que estará cansado. || Estará cansado.
+
+c2-sufijos | Attends-moi une petite minute. | Esperame un minutito.
+c2-sufijos | Ils vivent dans une toute petite maison. | Viven en una casita.
+c2-sufijos | Quel énorme chien ! | ¡Qué perrazo!
+c2-sufijos | Il s'est pris un grand coup de coude. | Recibió un codazo.
+c2-sufijos | Mon petit-fils est encore tout petit. | Mi nieto todavía es chiquitito.
+c2-sufijos | Viens tout de suite, mon chou. | Vení ahorita, mi amorcito. || Vení ya, mi amorcito.
+c2-sufijos | Il y avait une foule de gens. | Había un gentío.
+c2-sufijos | Ce petit village est charmant. | Este pueblito es encantador.
+
+c2-variacion | Vous êtes prêts, les amis ? | ¿Están listos, chicos?
+c2-variacion | Tu veux un maté ? | ¿Querés un mate?
+c2-variacion | Prends le bus jusqu'au centre. | Tomá el colectivo hasta el centro.
+c2-variacion | Le petit est en train de dormir. | La guagua está durmiendo. || El nene está durmiendo.
+c2-variacion | Viens ici, gamin ! | ¡Vení para acá, chango!
+c2-variacion | J'ai garé la voiture devant la maison. | Estacioné el auto frente a la casa.
+c2-variacion | Il a mis sa veste parce qu'il faisait froid. | Se puso la campera porque hacía frío.
+c2-variacion | Ce pull est vraiment joli. | Este buzo es re lindo. || Este suéter es muy lindo.
+
+c2-errores | Je me suis rendu compte qu'il était tard. | Me di cuenta de que era tarde.
+c2-errores | Je suis sûr qu'il viendra. | Estoy seguro de que va a venir. || Estoy seguro de que vendrá.
+c2-errores | Il y avait beaucoup de gens. | Había mucha gente.
+c2-errores | Si j'avais su, je serais venu. | Si hubiera sabido, habría venido. || Si hubiera sabido, hubiera venido.
+c2-errores | Il pense qu'il a raison. | Piensa que tiene razón.
+c2-errores | Il est arrivé hier et il est reparti aujourd'hui. | Llegó ayer y se fue hoy.
+c2-errores | Je me souviens que nous avons dansé toute la nuit. | Me acuerdo de que bailamos toda la noche.
+c2-errores | Dites-leur de venir. | Díganles que vengan.

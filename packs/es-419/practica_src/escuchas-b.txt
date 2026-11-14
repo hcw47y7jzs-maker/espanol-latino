@@ -1,0 +1,205 @@
+# Écoutes, niveaux B1-B2 (questions en espagnol)
+
+## b1-e1 | Una entrevista de trabajo | Un entretien d'embauche | trabajo | A=Laura (entrevistadora), B=Javier
+> A: Bueno, Javier, contame un poco de tu experiencia. | Bon, Javier, raconte-moi un peu ton expérience.
+> B: Trabajé tres años como recepcionista en un hotel de Cafayate, y antes hice temporadas en el Tren a las Nubes. | J'ai travaillé trois ans comme réceptionniste dans un hôtel de Cafayate, et avant j'ai fait des saisons au Train des nuages.
+> A: ¿Y por qué dejaste el hotel? | Et pourquoi as-tu quitté l'hôtel ?
+> B: Porque me mudé a Salta para terminar la carrera de turismo. Me falta solo la tesis. | Parce que je me suis installé à Salta pour finir mes études de tourisme. Il ne me manque que le mémoire.
+> A: El puesto requiere inglés. ¿Qué nivel tenés? | Le poste exige l'anglais. Quel niveau as-tu ?
+> B: Bastante bueno. Lo uso todos los días con los turistas, aunque me cuesta un poco escribir. | Assez bon. Je l'utilise tous les jours avec les touristes, même si j'ai un peu de mal à écrire.
+> A: Perfecto. Los turnos son rotativos, a veces de noche. ¿Tenés algún problema con eso? | Parfait. Les horaires sont tournants, parfois de nuit. Ça te pose un problème ?
+> B: Ninguno, al contrario: así puedo estudiar de día. | Aucun, au contraire : comme ça je peux étudier la journée.
+? ¿Dónde trabajó Javier durante tres años? | En un hotel de Cafayate | En el Tren a las Nubes | En una agencia de Salta | En un restaurante
+? ¿Por qué dejó ese trabajo? | Se mudó a Salta para terminar la carrera | Lo despidieron | Quería ganar más | No le gustaba el turismo
+? ¿Qué le cuesta un poco en inglés? | Escribir | Hablar | Entender a los turistas | Leer
+? ¿Qué opina de los turnos de noche? | Le convienen porque puede estudiar de día | No los acepta | Le dan miedo | Prefiere trabajar solo de día
+?v A Javier le falta solo la tesis para terminar la carrera. | V
+?v El puesto no requiere inglés. | F
+
+## b1-e2 | Un reclamo por teléfono | Une réclamation au téléphone | servicio | A=operadora, B=cliente
+> A: Empresa de internet, le habla Romina. ¿En qué puedo ayudarlo? | Fournisseur internet, Romina à l'appareil. En quoi puis-je vous aider ?
+> B: Hola, Romina. Hace una semana que internet funciona mal en casa: se corta cada diez minutos. | Bonjour, Romina. Depuis une semaine, internet fonctionne mal chez moi : ça coupe toutes les dix minutes.
+> A: Lamento mucho la situación. ¿Ya probó reiniciar el módem? | Je suis vraiment désolée. Vous avez déjà essayé de redémarrer le modem ?
+> B: Sí, mil veces. Y llamé dos veces la semana pasada, pero nadie vino. | Oui, mille fois. Et j'ai appelé deux fois la semaine dernière, mais personne n'est venu.
+> A: Veo en el sistema que hubo un problema en su zona. Le voy a mandar un técnico. | Je vois dans le système qu'il y a eu un problème dans votre secteur. Je vais vous envoyer un technicien.
+> B: ¿Cuándo? Porque yo trabajo desde casa y así no puedo seguir. | Quand ? Parce que je travaille depuis chez moi et je ne peux pas continuer comme ça.
+> A: El jueves entre las nueve y las trece. Además, le vamos a descontar los días sin servicio de la próxima factura. | Jeudi entre neuf heures et treize heures. En plus, nous allons déduire les jours sans service de la prochaine facture.
+? ¿Cuál es el problema del cliente? | Internet se corta a menudo | No tiene teléfono | La factura es muy cara | Se le rompió la computadora
+? ¿Qué le sugiere primero la operadora? | Reiniciar el módem | Cambiar de empresa | Comprar otro módem | Esperar un mes
+? ¿Por qué está tan molesto el cliente? | Trabaja desde casa y nadie vino | Le cobraron dos veces | La operadora fue grosera | Perdió archivos
+? ¿Qué le ofrece la empresa además del técnico? | Descontar los días sin servicio | Un módem nuevo gratis | Un mes gratis | Cambiar de plan
+?v El técnico irá el jueves por la mañana. | V
+?v El cliente nunca había llamado antes. | F
+
+## b1-e3 | Guía en la Quebrada de las Conchas | Guide dans la Quebrada de las Conchas | visita guiada | A=guía
+> A: Bueno, chicos, estamos en la Garganta del Diablo, una de las formaciones más conocidas de la quebrada. | Bon, les amis, nous sommes à la Garganta del Diablo, l'une des formations les plus connues de la quebrada.
+> A: Estas rocas rojas se formaron hace millones de años, cuando toda esta zona estaba cubierta por agua. | Ces roches rouges se sont formées il y a des millions d'années, quand toute cette zone était couverte d'eau.
+> A: El viento y las lluvias fueron esculpiendo las formas que ven ahora. | Le vent et les pluies ont peu à peu sculpté les formes que vous voyez maintenant.
+> A: Les pido que no se suban a las piedras, porque son frágiles y además es peligroso. | Je vous demande de ne pas monter sur les pierres, parce qu'elles sont fragiles et en plus c'est dangereux.
+> A: Si miran hacia arriba, a la derecha, van a ver un cóndor. Tienen suerte, no siempre aparecen. | Si vous regardez en haut, à droite, vous allez voir un condor. Vous avez de la chance, ils n'apparaissent pas toujours.
+> A: Tenemos veinte minutos para sacar fotos y después seguimos hacia el Anfiteatro, donde hay un eco increíble. | Nous avons vingt minutes pour prendre des photos et ensuite nous continuons vers l'Amphithéâtre, où il y a un écho incroyable.
+? ¿Cómo se formaron las rocas, según la guía? | Hace millones de años, cuando la zona estaba bajo el agua | Por un volcán reciente | Las construyeron los incas | Por un terremoto
+? ¿Qué esculpió sus formas? | El viento y las lluvias | Los ríos de lava | Los turistas | Los glaciares
+? ¿Por qué no hay que subirse a las piedras? | Son frágiles y es peligroso | Está prohibido sacar fotos | Están calientes | Hay serpientes
+? ¿Qué tiene de especial el Anfiteatro? | Un eco increíble | Una cascada | Un museo | Un restaurante
+?v Ver un cóndor es muy frecuente, según la guía. | F
+?v Tienen veinte minutos para sacar fotos. | V
+
+## b1-e4 | En el médico | Chez le médecin | salud | A=doctora, B=paciente
+> A: A ver, ¿qué le anda pasando? | Voyons, qu'est-ce qui vous arrive ?
+> B: Desde que llegué a San Antonio de los Cobres me duele mucho la cabeza y casi no puedo dormir. | Depuis que je suis arrivé à San Antonio de los Cobres, j'ai très mal à la tête et je n'arrive presque pas à dormir.
+> A: ¿Cuándo llegó? | Quand êtes-vous arrivé ?
+> B: Ayer a la tarde, directo desde Salta. | Hier après-midi, directement depuis Salta.
+> A: Es soroche, el mal de altura. Acá estamos a casi cuatro mil metros. Subió muy rápido. | C'est le soroche, le mal de l'altitude. Ici, nous sommes à presque quatre mille mètres. Vous êtes monté très vite.
+> A: Le recomiendo descansar, tomar mucho líquido y comer liviano. Un té de coca también ayuda. | Je vous recommande de vous reposer, de boire beaucoup et de manger léger. Une infusion de coca aide aussi.
+> A: Si mañana sigue igual o le falta el aire, conviene que baje a una altura menor. | Si demain c'est pareil ou si vous manquez d'air, il vaut mieux que vous redescendiez à une altitude plus basse.
+? ¿Qué síntomas tiene el paciente? | Dolor de cabeza e insomnio | Fiebre y tos | Dolor de estómago | Dolor de espalda
+? ¿Por qué tiene soroche, según la doctora? | Subió muy rápido a mucha altura | Comió mucho | Tomó frío | Caminó demasiado
+? ¿Qué le recomienda? | Descansar, tomar líquido y comer liviano | Hacer deporte | Tomar antibióticos | Subir más alto
+? ¿Qué debe hacer si no mejora? | Bajar a una altura menor | Volver a la consulta en una semana | Tomar más té | Dormir de día
+?v San Antonio de los Cobres está a casi cuatro mil metros. | V
+?v El paciente llegó hace una semana. | F
+
+## b1-e5 | Radio: la feria de artesanías | Radio : la foire artisanale | radio | A=locutora, B=organizador
+> A: Estamos con Raúl Cruz, organizador de la Feria de Artesanías del Norte. Raúl, ¿qué van a encontrar los visitantes este año? | Nous sommes avec Raúl Cruz, organisateur de la Foire artisanale du Nord. Raúl, qu'est-ce que les visiteurs vont trouver cette année ?
+> B: Más de doscientos artesanos de Salta, Jujuy, Catamarca y también de Bolivia. | Plus de deux cents artisans de Salta, Jujuy, Catamarca et aussi de Bolivie.
+> B: Va a haber tejidos, cerámica, platería y, por primera vez, un sector dedicado a instrumentos musicales. | Il y aura des tissages, de la céramique, de l'orfèvrerie et, pour la première fois, un espace consacré aux instruments de musique.
+> A: ¿Hay actividades para chicos? | Il y a des activités pour les enfants ?
+> B: Sí, talleres gratuitos de cerámica todas las tardes, y espectáculos de títeres el domingo. | Oui, des ateliers gratuits de céramique tous les après-midi, et des spectacles de marionnettes le dimanche.
+> A: ¿Cuánto cuesta la entrada? | Combien coûte l'entrée ?
+> B: Es libre y gratuita. Solo pedimos que traigan un alimento no perecedero para el comedor del barrio. | Elle est libre et gratuite. Nous demandons seulement d'apporter un aliment non périssable pour la cantine solidaire du quartier.
+? ¿De dónde son los artesanos? | De varias provincias del norte y de Bolivia | Solo de Salta | De todo el mundo | De Buenos Aires
+? ¿Qué novedad tiene la feria este año? | Un sector de instrumentos musicales | Un concierto internacional | Una feria de comida | Entrada paga
+? ¿Qué actividades hay para chicos? | Talleres de cerámica y títeres | Juegos de fútbol | Cine | Clases de música
+? ¿Qué se pide a los visitantes? | Un alimento no perecedero | Una entrada de dos mil pesos | Que reserven por internet | Que traigan sus artesanías
+?v Los talleres para chicos son gratuitos. | V
+?v Es la primera vez que hay tejidos en la feria. | F
+
+## b1-e6 | Discusión entre compañeros de piso | Dispute entre colocataires | conversación | A=Meli, B=Fede
+> A: Fede, tenemos que hablar. Otra vez dejaste los platos sucios toda la noche. | Fede, il faut qu'on parle. Tu as encore laissé la vaisselle sale toute la nuit.
+> B: Ya sé, perdón. Llegué muerto del trabajo y me olvidé. | Je sais, pardon. Je suis rentré mort de fatigue du travail et j'ai oublié.
+> A: Te entiendo, pero no es la primera vez. Y la semana pasada no sacaste la basura. | Je te comprends, mais ce n'est pas la première fois. Et la semaine dernière tu n'as pas sorti les poubelles.
+> B: Tenés razón. ¿Y si armamos un cuadro con las tareas de cada uno? | Tu as raison. Et si on faisait un tableau avec les tâches de chacun ?
+> A: Me parece bien. Yo prefiero cocinar, y vos podés encargarte de lavar. | Ça me va. Moi je préfère cuisiner, et toi tu peux t'occuper de la vaisselle.
+> B: Dale. Y los sábados limpiamos juntos y después nos tomamos unos mates. | D'accord. Et le samedi, on fait le ménage ensemble et après on se boit quelques matés.
+? ¿Por qué está molesta Meli? | Fede dejó los platos sucios otra vez | Fede no pagó el alquiler | Fede hace ruido de noche | Fede invitó a amigos
+? ¿Qué otra cosa no hizo Fede? | Sacar la basura | Comprar comida | Pagar la luz | Limpiar el baño
+? ¿Qué propone Fede? | Un cuadro con las tareas de cada uno | Contratar a alguien | Mudarse | Comer afuera
+? ¿Qué van a hacer los sábados? | Limpiar juntos y tomar mates | Ir de compras | Salir a bailar | Visitar a sus familias
+?v Meli prefiere cocinar. | V
+?v Fede se enoja y no acepta las críticas. | F
+
+## b1-e7 | Podcast: aprender un idioma de adulto | Podcast : apprendre une langue à l'âge adulte | podcast | A=conductora, B=profesor
+> A: Profe, mucha gente piensa que de adulto ya es tarde para aprender un idioma. ¿Es así? | Prof, beaucoup de gens pensent qu'à l'âge adulte il est trop tard pour apprendre une langue. C'est vrai ?
+> B: Para nada. Los chicos tienen ventaja en la pronunciación, pero los adultos aprenden más rápido la gramática y el vocabulario. | Pas du tout. Les enfants ont un avantage pour la prononciation, mais les adultes apprennent plus vite la grammaire et le vocabulaire.
+> A: ¿Cuál es el secreto entonces? | Quel est le secret alors ?
+> B: La regularidad. Es mejor estudiar media hora todos los días que cinco horas el domingo. | La régularité. Il vaut mieux étudier une demi-heure tous les jours que cinq heures le dimanche.
+> B: Y sobre todo, perder el miedo a equivocarse. Nadie aprende a hablar sin hablar. | Et surtout, perdre la peur de se tromper. Personne n'apprend à parler sans parler.
+> A: ¿Algún consejo práctico? | Un conseil pratique ?
+> B: Escuchar todos los días algo que te guste: música, series, podcasts. El oído se entrena como un músculo. | Écouter chaque jour quelque chose qu'on aime : musique, séries, podcasts. L'oreille s'entraîne comme un muscle.
+? ¿Qué ventaja tienen los chicos según el profesor? | La pronunciación | La gramática | El vocabulario | La escritura
+? ¿Cuál es «el secreto» para aprender? | La regularidad | Estudiar muchas horas el domingo | Vivir en el extranjero | Tener buena memoria
+? ¿Qué hay que perder, según el profesor? | El miedo a equivocarse | Las malas costumbres | El acento | El tiempo
+? ¿Qué consejo práctico da? | Escuchar todos los días algo que te guste | Leer el diccionario | Hacer exámenes | Estudiar de noche
+?v Según el profesor, los adultos ya no pueden aprender idiomas. | F
+?v El profesor compara el oído con un músculo. | V
+
+## b2-e1 | Debate radial: ¿prohibir los autos en el centro? | Débat radio : interdire les voitures dans le centre ? | debate | A=Gabriela (concejala), B=Martín (comerciante)
+> A: El centro histórico está colapsado. Proponemos que, a partir del año que viene, solo puedan circular el transporte público, las bicicletas y los vecinos. | Le centre historique est saturé. Nous proposons qu'à partir de l'an prochain, seuls puissent circuler les transports publics, les vélos et les riverains.
+> B: Entiendo la intención, pero si la gente no puede llegar en auto, va a dejar de venir a comprar. Muchos negocios ya están en una situación difícil. | Je comprends l'intention, mais si les gens ne peuvent pas venir en voiture, ils vont arrêter de venir faire leurs courses. Beaucoup de commerces sont déjà en difficulté.
+> A: Las experiencias de otras ciudades muestran lo contrario: cuando las calles se vuelven peatonales, aumenta la cantidad de gente que camina y compra. | Les expériences d'autres villes montrent le contraire : quand les rues deviennent piétonnes, le nombre de personnes qui marchent et achètent augmente.
+> B: Puede ser, pero esas ciudades tienen un transporte público eficiente. Acá los colectivos tardan muchísimo. | C'est possible, mais ces villes ont des transports publics efficaces. Ici, les bus mettent énormément de temps.
+> A: Por eso el proyecto incluye más frecuencias y estacionamientos en los bordes del centro. | C'est pour cela que le projet prévoit plus de fréquences et des parkings en bordure du centre.
+> B: Si eso se cumple antes de la prohibición, lo podemos discutir. Lo que no queremos es que primero prohíban y después, si hay plata, mejoren el transporte. | Si cela est fait avant l'interdiction, on peut en discuter. Ce que nous ne voulons pas, c'est qu'on interdise d'abord et qu'ensuite, s'il y a de l'argent, on améliore les transports.
+? ¿Qué propone la concejala? | Que en el centro solo circulen transporte público, bicis y vecinos | Prohibir los colectivos | Construir más estacionamientos en el centro | Cerrar los negocios
+? ¿Qué teme el comerciante? | Que la gente deje de ir a comprar | Que suban los alquileres | Que haya más ruido | Que lleguen más turistas
+? ¿Qué argumento usa la concejala? | Las calles peatonales aumentan la gente que camina y compra | Los autos son caros | Los comerciantes están de acuerdo | El centro es feo
+? ¿Con qué condición aceptaría discutir el comerciante? | Que mejoren el transporte antes de la prohibición | Que le paguen una compensación | Que se haga solo los domingos | Ninguna
+?v El comerciante considera que los colectivos de Salta son eficientes. | F
+?v El proyecto incluye estacionamientos en los bordes del centro. | V
+
+## b2-e2 | Conferencia: la quinua | Conférence : le quinoa | conferencia | A=investigadora
+> A: La quinua se cultiva en los Andes desde hace más de cinco mil años y era uno de los alimentos básicos de los pueblos andinos. | Le quinoa est cultivé dans les Andes depuis plus de cinq mille ans et c'était l'un des aliments de base des peuples andins.
+> A: Durante la colonia fue desplazada por cereales europeos, como el trigo, y llegó a considerarse «comida de pobres». | Pendant la colonisation, il a été remplacé par des céréales européennes, comme le blé, et en est venu à être considéré comme une « nourriture de pauvres ».
+> A: En las últimas décadas, su valor nutricional la convirtió en un producto de moda en Europa y Estados Unidos. | Ces dernières décennies, sa valeur nutritionnelle en a fait un produit à la mode en Europe et aux États-Unis.
+> A: Esto tuvo efectos contradictorios: los productores ganaron más, pero en algunas zonas el precio subió tanto que las familias locales dejaron de consumirla. | Cela a eu des effets contradictoires : les producteurs ont gagné davantage, mais dans certaines zones le prix a tellement augmenté que les familles locales ont cessé d'en consommer.
+> A: Además, el aumento de la demanda llevó a sembrar en suelos poco aptos, lo que genera problemas de erosión. | De plus, l'augmentation de la demande a conduit à semer sur des sols peu adaptés, ce qui provoque des problèmes d'érosion.
+> A: Hoy, en la puna argentina, varias cooperativas intentan un equilibrio: producir para vender, pero sin perder la diversidad de variedades ni el consumo local. | Aujourd'hui, sur la puna argentine, plusieurs coopératives essaient de trouver un équilibre : produire pour vendre, mais sans perdre la diversité des variétés ni la consommation locale.
+? ¿Qué pasó con la quinua durante la colonia? | Fue desplazada por cereales europeos | Se exportó a Europa | Se prohibió por ley | Se volvió muy cara
+? ¿Por qué se puso de moda? | Por su valor nutricional | Por su precio bajo | Por la publicidad de los incas | Porque es fácil de cocinar
+? ¿Qué efecto negativo tuvo la subida de precio? | Algunas familias locales dejaron de consumirla | Los productores ganaron menos | Desapareció de Europa | Se dejó de cultivar
+? ¿Qué intentan las cooperativas de la puna? | Vender sin perder la diversidad ni el consumo local | Exportar todo a Europa | Reemplazar la quinua por trigo | Cerrar los mercados locales
+?v Según la investigadora, la moda de la quinua solo tuvo efectos positivos. | F
+?v Sembrar en suelos poco aptos causa erosión. | V
+
+## b2-e3 | Mensaje de un cliente enojado | Message d'un client mécontent | mensaje | B=Sergio
+> B: Hola, habla Sergio Paz, el del pedido de las sillas para el salón. | Bonjour, c'est Sergio Paz, celui de la commande des chaises pour la salle.
+> B: Les escribo porque me prometieron la entrega para el viernes y estamos lunes, y todavía no sé nada. | Je vous écris parce qu'on m'avait promis la livraison pour vendredi, on est lundi, et je n'ai toujours aucune nouvelle.
+> B: El sábado tenemos un casamiento con ciento veinte invitados, así que si las sillas no llegan, no sé qué voy a hacer. | Samedi, nous avons un mariage avec cent vingt invités, donc si les chaises n'arrivent pas, je ne sais pas ce que je vais faire.
+> B: Ya les pagué la mitad por adelantado, como acordamos. | Je vous ai déjà payé la moitié d'avance, comme convenu.
+> B: Necesito que me confirmen hoy mismo una fecha concreta; si no, voy a tener que alquilarlas en otro lado y les voy a pedir que me devuelvan la seña. | J'ai besoin que vous me confirmiez aujourd'hui même une date précise ; sinon, je vais devoir les louer ailleurs et je vais vous demander de me rendre l'acompte.
+> B: Espero su llamado. Gracias. | J'attends votre appel. Merci.
+? ¿Qué pidió Sergio? | Sillas para un salón | Mesas para un restaurante | Un pastel de bodas | Un auto
+? ¿Cuándo debían entregar el pedido? | El viernes | El lunes | El sábado | Hace un mes
+? ¿Cuánto pagó ya? | La mitad | Todo | Nada | Un tercio
+? ¿Qué hará si no le confirman una fecha hoy? | Alquilará en otro lado y pedirá la devolución de la seña | Cancelará el casamiento | Esperará hasta el sábado | Irá a buscarlas él mismo
+?v El casamiento tiene ciento veinte invitados. | V
+?v Sergio está tranquilo porque tiene tiempo. | F
+
+## b2-e4 | Entrevista a un luthier | Entretien avec un luthier | entrevista | A=periodista, B=Hugo (luthier)
+> A: Hugo, ¿cómo empezó a fabricar charangos? | Hugo, comment avez-vous commencé à fabriquer des charangos ?
+> B: Por necesidad. Yo tocaba en un grupo y no podía pagar un buen instrumento, así que me puse a armar uno con un tío carpintero. | Par nécessité. Je jouais dans un groupe et je ne pouvais pas me payer un bon instrument, alors je me suis mis à en monter un avec un oncle menuisier.
+> A: Tradicionalmente la caja se hacía con caparazón de quirquincho, ¿no? | Traditionnellement, la caisse se faisait avec une carapace de tatou, n'est-ce pas ?
+> B: Así es, pero hoy está prohibido y además no tiene sentido: con madera se logra un sonido igual o mejor, sin dañar a ningún animal. | C'est exact, mais aujourd'hui c'est interdit et en plus ça n'a pas de sens : avec du bois on obtient un son égal ou meilleur, sans faire de mal à aucun animal.
+> A: ¿Cuánto tarda en hacer uno? | Combien de temps mettez-vous à en faire un ?
+> B: Entre dos y tres semanas, según la madera. Lo más delicado es el secado; si uno se apura, el instrumento se raja con los cambios de temperatura. | Entre deux et trois semaines, selon le bois. Le plus délicat, c'est le séchage ; si on se dépêche, l'instrument se fend avec les changements de température.
+> A: ¿Quiénes son sus clientes? | Qui sont vos clients ?
+> B: Músicos de todo el país, pero cada vez más extranjeros que descubren el folclore andino por internet. | Des musiciens de tout le pays, mais de plus en plus d'étrangers qui découvrent le folklore andin sur internet.
+? ¿Por qué empezó Hugo a fabricar charangos? | No podía pagar un buen instrumento | Su padre era luthier | Estudió música en la universidad | Por un encargo de un turista
+? ¿Con qué se hacía tradicionalmente la caja? | Con caparazón de quirquincho | Con metal | Con cuero de vaca | Con calabaza
+? ¿Qué es lo más delicado del proceso? | El secado de la madera | Elegir las cuerdas | Pintar el instrumento | Venderlo
+? ¿Quiénes son cada vez más sus clientes? | Extranjeros que descubren el folclore por internet | Escuelas públicas | Coleccionistas de antigüedades | Turistas en el aeropuerto
+?v Hoy está permitido usar caparazón de quirquincho. | F
+?v Hacer un charango le lleva entre dos y tres semanas. | V
+
+## b2-e5 | Noticiero: corte de ruta | Journal : route coupée | noticia | A=periodista
+> A: Desde esta mañana, la ruta nacional 9 permanece cortada a la altura de la localidad de Volcán, en Jujuy. | Depuis ce matin, la route nationale 9 reste coupée au niveau de la localité de Volcán, dans la province de Jujuy.
+> A: Un alud de barro y piedras, provocado por las lluvias intensas de anoche, cubrió unos doscientos metros de calzada. | Une coulée de boue et de pierres, provoquée par les pluies intenses de la nuit dernière, a recouvert environ deux cents mètres de chaussée.
+> A: No hubo heridos, aunque varios vehículos quedaron varados durante horas. | Il n'y a pas eu de blessés, même si plusieurs véhicules sont restés bloqués pendant des heures.
+> A: Vialidad Nacional trabaja con máquinas para despejar el camino y estima que el tránsito podría restablecerse mañana al mediodía. | La Direction nationale des routes travaille avec des engins pour dégager la route et estime que la circulation pourrait être rétablie demain à midi.
+> A: Mientras tanto, se recomienda a quienes viajen hacia la Quebrada de Humahuaca postergar el viaje o consultar el estado de las rutas antes de salir. | En attendant, il est recommandé à ceux qui se rendent dans la Quebrada de Humahuaca de reporter leur voyage ou de consulter l'état des routes avant de partir.
+> A: Es la segunda vez en el mes que se produce un hecho similar en la zona. | C'est la deuxième fois ce mois-ci qu'un fait similaire se produit dans la zone.
+? ¿Qué cortó la ruta? | Un alud de barro y piedras | Un accidente de tránsito | Una manifestación | Una nevada
+? ¿Hubo heridos? | No | Sí, varios | Sí, uno | No se sabe
+? ¿Cuándo podría restablecerse el tránsito? | Mañana al mediodía | Esta noche | En una semana | No se sabe
+? ¿Qué se recomienda a los viajeros? | Postergar el viaje o consultar el estado de las rutas | Tomar otra ruta por Chile | Viajar de noche | Ir en tren
+?v Es la primera vez en el mes que pasa algo así. | F
+?v El alud fue provocado por lluvias intensas. | V
+
+## b2-e6 | Consulta a un abogado | Consultation chez un avocat | consulta | A=Silvia, B=abogado
+> A: Doctor, mi casero quiere echarme del departamento antes de que termine el contrato. ¿Puede hacerlo? | Maître, mon propriétaire veut me mettre dehors avant la fin du bail. Il peut le faire ?
+> B: En principio, no. Si usted paga en término y cumple con el contrato, él tiene que respetar el plazo acordado. | En principe, non. Si vous payez à temps et respectez le contrat, il doit respecter la durée convenue.
+> A: Dice que necesita el departamento para su hija. | Il dit qu'il a besoin de l'appartement pour sa fille.
+> B: Eso no le da derecho a romper el contrato, salvo que hubiera una cláusula específica. ¿Trajo una copia? | Ça ne lui donne pas le droit de rompre le contrat, sauf s'il y avait une clause spécifique. Vous avez apporté une copie ?
+> A: Sí, acá la tengo. | Oui, je l'ai ici.
+> B: A ver... No, no hay ninguna cláusula de ese tipo. Le sugiero que no firme nada sin consultarme y que le responda por escrito, así queda constancia. | Voyons… Non, il n'y a aucune clause de ce type. Je vous suggère de ne rien signer sans me consulter et de lui répondre par écrit, pour qu'il en reste une trace.
+? ¿Qué quiere hacer el casero? | Echar a Silvia antes de que termine el contrato | Subir el alquiler | Vender el departamento a Silvia | Renovar el contrato
+? ¿Qué razón da el casero? | Necesita el departamento para su hija | Silvia no paga | Va a remodelar | Quiere venderlo
+? ¿Qué encontró el abogado en el contrato? | Ninguna cláusula que permita romperlo | Una cláusula a favor del casero | Un error en la fecha | Una multa
+? ¿Qué le aconseja? | No firmar nada y responder por escrito | Irse cuanto antes | Dejar de pagar | Hablar con la hija
+?v Según el abogado, si Silvia cumple el contrato, el casero debe respetar el plazo. | V
+?v Silvia olvidó traer el contrato. | F
+
+## b2-e7 | Charla TED local: volver al pueblo | Conférence locale : revenir au village | charla | B=Matías
+> B: Me fui de mi pueblo, en los Valles Calchaquíes, a los dieciocho años, convencido de que el futuro estaba en la ciudad. | J'ai quitté mon village, dans les vallées Calchaquíes, à dix-huit ans, convaincu que l'avenir était en ville.
+> B: Estudié ingeniería, trabajé en Buenos Aires y durante años volví solo para las fiestas. | J'ai étudié l'ingénierie, j'ai travaillé à Buenos Aires et pendant des années je ne suis revenu que pour les fêtes.
+> B: Un día me di cuenta de que mi pueblo se estaba quedando sin jóvenes y de que nadie iba a cambiar eso por nosotros. | Un jour, je me suis rendu compte que mon village se vidait de ses jeunes et que personne n'allait changer ça à notre place.
+> B: Volví con una idea sencilla: instalar paneles solares en las casas que todavía no tenían luz. | Je suis revenu avec une idée simple : installer des panneaux solaires dans les maisons qui n'avaient pas encore d'électricité.
+> B: Al principio la gente desconfiaba; después, los mismos vecinos aprendieron a instalarlos y hoy formamos una cooperativa con quince socios. | Au début, les gens se méfiaient ; ensuite, les habitants eux-mêmes ont appris à les installer et aujourd'hui nous formons une coopérative de quinze membres.
+> B: No digo que todos tengan que volver. Digo que irse no debería ser la única opción. | Je ne dis pas que tout le monde doit revenir. Je dis que partir ne devrait pas être la seule option.
+? ¿Por qué se fue Matías de su pueblo? | Creía que el futuro estaba en la ciudad | Su familia se mudó | No había escuela | Por un trabajo en Chile
+? ¿Qué lo hizo volver? | Darse cuenta de que el pueblo se quedaba sin jóvenes | Perdió su trabajo | Se enfermó | Se casó
+? ¿Cuál fue su proyecto? | Instalar paneles solares en casas sin luz | Abrir un hotel | Construir una escuela | Plantar viñedos
+? ¿Qué idea defiende al final? | Que irse no debería ser la única opción | Que todos deben volver al pueblo | Que la ciudad es mejor | Que los jóvenes no deben estudiar
+?v Al principio los vecinos confiaron enseguida en el proyecto. | F
+?v Hoy la cooperativa tiene quince socios. | V

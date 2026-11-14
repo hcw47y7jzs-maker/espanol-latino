@@ -1,0 +1,205 @@
+# Écoutes (compréhension orale), niveaux A1-A2
+# ## id | titre espagnol | titre français | situation | A=prénom (voix de Daniela), B=prénom (voix grave)
+# > A: réplique espagnole | traduction française
+# ? question | bonne réponse | mauvaises… ;  ?v affirmation | V ou F
+
+## a1-e1 | En el kiosco | Au kiosque | compra | A=Clara, B=kiosquero
+> A: Buen día. ¿Tiene agua sin gas? | Bonjour. Vous avez de l'eau plate ?
+> B: Sí, ¿chica o grande? | Oui, petite ou grande ?
+> A: Grande, por favor. Y un alfajor de chocolate. | Grande, s'il vous plaît. Et un alfajor au chocolat.
+> B: Son tres mil quinientos pesos. | Ça fait trois mille cinq cents pesos.
+> A: Tome. ¿Tiene cambio de diez mil? | Tenez. Vous avez la monnaie sur dix mille ?
+> B: Sí, sí. Acá tiene. ¡Que tenga buen día! | Oui, oui. Voilà. Bonne journée !
+? Que achète Clara ? | De l'eau et un alfajor | Du jus et un sandwich | Un café | Des cigarettes
+? Quelle bouteille choisit-elle ? | Une grande | Une petite | Gazeuse | Aucune
+? Combien ça coûte ? | 3 500 pesos | 10 000 pesos | 1 500 pesos | 5 300 pesos
+? Avec quel billet paie-t-elle ? | 10 000 pesos | 1 000 pesos | 5 000 pesos | Par carte
+?v Le vendeur n'a pas de monnaie. | F
+?v L'alfajor est au chocolat. | V
+
+## a1-e2 | ¿Dónde queda la plaza? | Où est la place ? | dirección | A=turista, B=vecino
+> A: Disculpe, ¿dónde queda la plaza 9 de Julio? | Excusez-moi, où se trouve la place 9 de Julio ?
+> B: Está cerca. Siga derecho tres cuadras por esta calle. | C'est près. Continuez tout droit sur trois rues par cette rue.
+> A: ¿Tres cuadras derecho? | Trois rues tout droit ?
+> B: Sí, y después doble a la izquierda. La plaza está enfrente de la catedral. | Oui, et ensuite tournez à gauche. La place est en face de la cathédrale.
+> A: ¿Está lejos para ir caminando? | C'est loin pour y aller à pied ?
+> B: No, son cinco minutos. | Non, c'est cinq minutes.
+> A: Muchas gracias. | Merci beaucoup.
+? Que cherche la touriste ? | La place 9 de Julio | La cathédrale | La gare | Un hôtel
+? Combien de rues tout droit ? | Trois | Deux | Cinq | Neuf
+? Où faut-il tourner ensuite ? | À gauche | À droite | On ne tourne pas | Au rond-point
+? Combien de temps à pied ? | Cinq minutes | Trois minutes | Quinze minutes | Une heure
+?v La place est en face de la cathédrale. | V
+?v C'est trop loin pour marcher. | F
+
+## a1-e3 | Mensaje de voz de mamá | Message vocal de maman | mensaje | A=mamá
+> A: Hola, hijo, soy mamá. | Salut mon fils, c'est maman.
+> A: Esta noche cenamos a las nueve en lo de la abuela. | Ce soir, nous dînons à neuf heures chez mamie.
+> A: ¿Podés comprar pan en la panadería de la esquina? | Tu peux acheter du pain à la boulangerie du coin ?
+> A: Y traé también una gaseosa grande. | Et apporte aussi un grand soda.
+> A: Tu papá llega tarde porque tiene una reunión. | Ton père arrive tard parce qu'il a une réunion.
+> A: Llamame cuando escuches esto. Besos. | Appelle-moi quand tu écoutes ça. Bisous.
+? À quelle heure est le dîner ? | 21 h | 19 h | 20 h | 22 h
+? Où dînent-ils ? | Chez la grand-mère | À la maison | Au restaurant | Chez un ami
+? Que doit acheter le fils ? | Du pain et un soda | Du vin et du fromage | Des empanadas | Rien
+? Pourquoi le père arrive-t-il tard ? | Il a une réunion | Il est malade | Il est en voyage | Il fait les courses
+?v La mère demande à son fils de la rappeler. | V
+?v La boulangerie est loin. | F
+
+## a1-e4 | En la verdulería | Chez le marchand de légumes | compra | A=clienta, B=verdulero
+> B: ¿Qué le doy, señora? | Qu'est-ce que je vous donne, madame ?
+> A: Un kilo de papas y medio kilo de cebollas. | Un kilo de pommes de terre et un demi-kilo d'oignons.
+> B: ¿Algo más? Las frutillas están muy ricas hoy. | Autre chose ? Les fraises sont très bonnes aujourd'hui.
+> A: ¿A cuánto están? | Elles sont à combien ?
+> B: Cuatro mil el kilo. | Quatre mille le kilo.
+> A: Bueno, deme medio kilo. | Bon, donnez-m'en un demi-kilo.
+> B: Le pongo unas de yapa. | Je vous en mets quelques-unes en plus.
+? Combien de pommes de terre achète-t-elle ? | Un kilo | Un demi-kilo | Deux kilos | Aucune
+? Quel fruit le vendeur conseille-t-il ? | Les fraises | Les pommes | Les bananes | Les oranges
+? Combien coûte le kilo de fraises ? | 4 000 pesos | 400 pesos | 14 000 pesos | 2 000 pesos
+? Que fait le vendeur à la fin ? | Il ajoute quelques fraises en cadeau | Il fait une réduction | Il refuse | Il donne des oignons
+?v Elle achète un kilo de fraises. | F
+?v Elle achète des oignons. | V
+
+## a1-e5 | Presentaciones en clase | Présentations en cours | presentación | A=Ana, B=Diego
+> A: Hola, me llamo Ana. ¿Y vos? | Salut, je m'appelle Ana. Et toi ?
+> B: Yo soy Diego. Soy de Tucumán. | Moi, c'est Diego. Je suis de Tucumán.
+> A: ¡Ah, qué bueno! Yo soy de acá, de Salta. ¿Qué estudiás? | Ah, super ! Moi je suis d'ici, de Salta. Qu'est-ce que tu étudies ?
+> B: Estudio turismo. Me gustan mucho los idiomas. | J'étudie le tourisme. J'aime beaucoup les langues.
+> A: Yo también. Hablo inglés y un poco de francés. | Moi aussi. Je parle anglais et un peu français.
+> B: ¡Genial! Después tomamos un café, ¿dale? | Génial ! Après on prend un café, d'accord ?
+? D'où est Diego ? | De Tucumán | De Salta | De Buenos Aires | De Jujuy
+? Qu'étudie Diego ? | Le tourisme | La médecine | Les langues | Le droit
+? Quelles langues parle Ana ? | Anglais et un peu de français | Seulement espagnol | Italien | Quechua
+? Que propose Diego ? | Prendre un café après | Étudier ensemble ce soir | Aller au cinéma | Partir en voyage
+?v Ana est de Salta. | V
+?v Diego n'aime pas les langues. | F
+
+## a1-e6 | El horario del museo | Les horaires du musée | anuncio | A=locutora
+> A: Bienvenidos al Museo de Arqueología de Alta Montaña. | Bienvenue au Musée d'archéologie de haute montagne.
+> A: El museo abre de martes a domingo, de once de la mañana a siete y media de la tarde. | Le musée ouvre du mardi au dimanche, de onze heures du matin à sept heures et demie du soir.
+> A: Los lunes permanece cerrado. | Le lundi, il reste fermé.
+> A: Los estudiantes pagan la mitad de la entrada. | Les étudiants paient la moitié de l'entrée.
+> A: No está permitido sacar fotos en las salas. | Il n'est pas permis de prendre des photos dans les salles.
+> A: Gracias por su visita. | Merci de votre visite.
+? Quel jour le musée est-il fermé ? | Lundi | Mardi | Dimanche | Samedi
+? À quelle heure ouvre-t-il ? | 11 h | 9 h | 7 h 30 | 13 h
+? Combien paient les étudiants ? | La moitié | Rien | Le double | Le même prix
+? Qu'est-ce qui est interdit ? | Prendre des photos | Parler | Entrer avec un sac | Venir le dimanche
+?v Le musée ferme à 19 h 30. | V
+?v On peut prendre des photos dans les salles. | F
+
+## a1-e7 | Reservar una mesa | Réserver une table | teléfono | A=Paula, B=mozo
+> B: Restaurante El Solar, buenas tardes. | Restaurant El Solar, bonjour.
+> A: Hola, quería reservar una mesa para el sábado a la noche. | Bonjour, je voudrais réserver une table pour samedi soir.
+> B: ¿Para cuántas personas? | Pour combien de personnes ?
+> A: Para cuatro, a las nueve y media. | Pour quatre, à neuf heures et demie.
+> B: Perfecto. ¿A nombre de quién? | Parfait. À quel nom ?
+> A: De Paula Ríos. | Au nom de Paula Ríos.
+> B: Listo, señora Ríos. La esperamos el sábado. | C'est noté, madame Ríos. Nous vous attendons samedi.
+? Pour quel jour est la réservation ? | Samedi | Vendredi | Dimanche | Lundi
+? Pour combien de personnes ? | Quatre | Deux | Six | Trois
+? À quelle heure ? | 21 h 30 | 20 h 30 | 22 h | 19 h
+? Comment s'appelle la cliente ? | Paula Ríos | Paula Ruiz | Laura Ríos | Clara Ríos
+?v La réservation est pour le midi. | F
+?v Le serveur confirme la réservation. | V
+
+## a2-e1 | Planes para el fin de semana | Projets pour le week-end | conversación | A=Sofi, B=Nacho
+> A: Che, Nacho, ¿qué vas a hacer el finde? | Dis, Nacho, qu'est-ce que tu vas faire ce week-end ?
+> B: Nada especial. ¿Por? | Rien de spécial. Pourquoi ?
+> A: Con unas amigas vamos a ir a San Lorenzo el sábado. Hay un sendero lindo para caminar. | Avec des amies, on va aller à San Lorenzo samedi. Il y a un joli sentier pour marcher.
+> B: ¡Qué bueno! ¿A qué hora salen? | Super ! Vous partez à quelle heure ?
+> A: Temprano, a las ocho, porque después hace mucho calor. | Tôt, à huit heures, parce qu'après il fait très chaud.
+> B: Uf, temprano... Bueno, dale, voy. ¿Llevo algo? | Ouf, tôt… Bon, d'accord, je viens. J'apporte quelque chose ?
+> A: Traé agua y algo para comer. Nosotras llevamos el mate. | Apporte de l'eau et quelque chose à manger. Nous, on apporte le maté.
+? Où vont-ils samedi ? | À San Lorenzo | À Cafayate | Au cinéma | À la piscine
+? Pourquoi partent-ils tôt ? | Parce qu'après il fait très chaud | Parce que le bus part tôt | Parce qu'ils travaillent après | Parce qu'il va pleuvoir
+? Que pense Nacho de l'heure ? | Ça lui paraît tôt, mais il accepte | Il refuse | Il préfère encore plus tôt | Ça lui est égal
+? Que doit apporter Nacho ? | De l'eau et à manger | Le maté | Rien | Une tente
+?v Les filles apportent le maté. | V
+?v Nacho avait déjà des projets importants. | F
+
+## a2-e2 | En la farmacia | À la pharmacie | salud | A=farmacéutica, B=cliente
+> B: Buenas. Hace dos días que tengo tos y me duele la garganta. | Bonjour. Ça fait deux jours que je tousse et que j'ai mal à la gorge.
+> A: ¿Tiene fiebre? | Vous avez de la fièvre ?
+> B: Anoche tuve un poco, treinta y siete y medio. | Hier soir j'en ai eu un peu, trente-sept et demi.
+> A: Le puedo dar estas pastillas para la garganta y un jarabe para la tos. | Je peux vous donner ces pastilles pour la gorge et un sirop pour la toux.
+> A: Tome el jarabe tres veces por día, después de comer. | Prenez le sirop trois fois par jour, après avoir mangé.
+> A: Si en tres días no mejora, tiene que ir al médico. | Si dans trois jours ça ne va pas mieux, vous devez aller chez le médecin.
+> B: Perfecto, muchas gracias. | Parfait, merci beaucoup.
+? Depuis quand le client tousse-t-il ? | Deux jours | Une semaine | Trois jours | Hier
+? Quelle température avait-il ? | 37,5 °C | 39 °C | 38,5 °C | Il n'en avait pas
+? Combien de fois par jour faut-il prendre le sirop ? | Trois | Deux | Une | Quatre
+? Que doit-il faire si ça ne va pas mieux ? | Aller chez le médecin | Revenir à la pharmacie | Doubler la dose | Rester au lit une semaine
+?v Il faut prendre le sirop avant de manger. | F
+?v La pharmacienne donne des pastilles pour la gorge. | V
+
+## a2-e3 | Anuncio en la terminal | Annonce à la gare routière | anuncio | A=locutora
+> A: Atención, señores pasajeros. | Attention, mesdames et messieurs les voyageurs.
+> A: El micro con destino a Cafayate, que salía a las diez y cuarto, tiene una demora de cuarenta minutos. | Le car à destination de Cafayate, qui partait à dix heures et quart, a un retard de quarante minutes.
+> A: La nueva hora de salida es a las once menos cinco, desde la plataforma doce. | La nouvelle heure de départ est onze heures moins cinq, depuis le quai douze.
+> A: Les recordamos que el equipaje debe estar identificado con nombre y apellido. | Nous vous rappelons que les bagages doivent être identifiés avec le nom et le prénom.
+> A: Pedimos disculpas por las molestias. | Nous vous prions de nous excuser pour la gêne occasionnée.
+? Quelle est la destination du car ? | Cafayate | Jujuy | Tucumán | Cachi
+? De combien de temps est le retard ? | 40 minutes | 15 minutes | 1 heure | 4 heures
+? Quelle est la nouvelle heure de départ ? | 10 h 55 | 10 h 15 | 11 h 15 | 10 h 40
+? De quel quai part le car ? | 12 | 2 | 10 | 20
+?v Les bagages doivent porter le nom et le prénom. | V
+?v Le car est annulé. | F
+
+## a2-e4 | Buscando departamento | À la recherche d'un appartement | conversación | A=Mariela, B=dueño
+> A: Hola, llamo por el departamento del aviso. ¿Todavía está disponible? | Bonjour, j'appelle pour l'appartement de l'annonce. Il est toujours disponible ?
+> B: Sí, todavía sí. Es un dos ambientes en el barrio Tres Cerritos. | Oui, toujours. C'est un deux-pièces dans le quartier Tres Cerritos.
+> A: ¿Cuánto es el alquiler? | C'est combien le loyer ?
+> B: Trescientos mil por mes, más las expensas. | Trois cent mille par mois, plus les charges.
+> A: Mmm, es un poco caro. ¿Tiene cochera? | Mmm, c'est un peu cher. Il y a un garage ?
+> B: No, pero se puede estacionar en la calle sin problema. | Non, mais on peut se garer dans la rue sans problème.
+> A: ¿Puedo verlo mañana a la tarde? | Je peux le visiter demain après-midi ?
+> B: Sí, la espero a las cinco. | Oui, je vous attends à cinq heures.
+? Dans quel quartier est l'appartement ? | Tres Cerritos | Le centre | Grand Bourg | San Lorenzo
+? Combien coûte le loyer ? | 300 000 pesos plus les charges | 300 000 pesos tout compris | 30 000 pesos | 3 000 pesos
+? Qu'en pense Mariela ? | C'est un peu cher | C'est bon marché | C'est trop petit | C'est parfait
+? Quand va-t-elle le visiter ? | Demain à 17 h | Aujourd'hui à 17 h | Demain à 15 h | Samedi matin
+?v L'appartement a un garage. | F
+?v On peut se garer dans la rue. | V
+
+## a2-e5 | Un audio de una amiga | Un audio d'une amie | mensaje | A=Flor
+> A: ¡Hola, hermosa! Te cuento rápido porque estoy en el trabajo. | Salut ma belle ! Je te raconte vite parce que je suis au travail.
+> A: Al final la fiesta de Gime no es el viernes, la pasaron para el sábado. | Finalement, la fête de Gime n'est pas vendredi, ils l'ont déplacée à samedi.
+> A: Es en su casa nueva, en Vaqueros, así que vamos a necesitar auto. | C'est dans sa nouvelle maison, à Vaqueros, donc on va avoir besoin d'une voiture.
+> A: Yo te paso a buscar a las nueve, ¿te parece? | Je passe te prendre à neuf heures, ça te va ?
+> A: Ah, y no te olvides de que es un cumpleaños sorpresa, ¡no le digas nada! | Ah, et n'oublie pas que c'est un anniversaire surprise, ne lui dis rien !
+> A: Hacemos una vaquita para el regalo. Después te paso los datos. ¡Besote! | On fait une cagnotte pour le cadeau. Je t'envoie les infos après. Gros bisous !
+? Quand est la fête maintenant ? | Samedi | Vendredi | Dimanche | Ce soir
+? Où est la fête ? | À Vaqueros, dans la nouvelle maison de Gime | Au centre de Salta | Dans un restaurant | Chez Flor
+? Pourquoi faut-il une voiture ? | Parce que c'est à Vaqueros | Parce qu'il pleut | Parce qu'il y a beaucoup de cadeaux | Parce que Flor est fatiguée
+? Quel est le secret ? | C'est un anniversaire surprise | Gime déménage | Flor a une nouvelle voiture | La fête est annulée
+?v Flor passe prendre son amie à neuf heures. | V
+?v Chacun achète son propre cadeau. | F
+
+## a2-e6 | En la recepción del hotel | À la réception de l'hôtel | hotel | A=recepcionista, B=huésped
+> B: Buenas noches, tengo una reserva a nombre de Lefèvre. | Bonsoir, j'ai une réservation au nom de Lefèvre.
+> A: A ver... Sí, una habitación doble por tres noches. ¿Me presta su pasaporte? | Voyons… Oui, une chambre double pour trois nuits. Vous me prêtez votre passeport ?
+> B: Acá tiene. ¿El desayuno está incluido? | Voici. Le petit-déjeuner est compris ?
+> A: Sí, se sirve de siete a diez en el primer piso. | Oui, il est servi de sept à dix heures au premier étage.
+> B: ¿Y la clave del wifi? | Et le mot de passe du wifi ?
+> A: Está escrita en la tarjeta de la llave. Su habitación es la doscientos catorce. | Il est écrit sur la carte de la clé. Votre chambre est la deux cent quatorze.
+? Combien de nuits reste le client ? | Trois | Deux | Une | Quatre
+? Quel document demande la réceptionniste ? | Le passeport | Le permis de conduire | Une carte de crédit | Un billet d'avion
+? Où est servi le petit-déjeuner ? | Au premier étage | Dans la chambre | Au rez-de-chaussée | Au restaurant d'en face
+? Quel est le numéro de la chambre ? | 214 | 204 | 240 | 114
+?v Le petit-déjeuner n'est pas compris. | F
+?v Le mot de passe du wifi est sur la carte de la clé. | V
+
+## a2-e7 | El pronóstico del tiempo | La météo | radio | A=locutora
+> A: Y ahora, el pronóstico para Salta y alrededores. | Et maintenant, les prévisions pour Salta et ses environs.
+> A: Hoy, cielo nublado por la mañana y lluvias por la tarde, con una máxima de veintiocho grados. | Aujourd'hui, ciel nuageux le matin et pluies l'après-midi, avec une maximale de vingt-huit degrés.
+> A: Mañana mejora el tiempo: sol todo el día y un poco más de calor, hasta treinta y un grados. | Demain, le temps s'améliore : soleil toute la journée et un peu plus de chaleur, jusqu'à trente et un degrés.
+> A: En la puna se esperan vientos fuertes y temperaturas bajo cero durante la noche. | Sur la puna, on attend des vents forts et des températures négatives pendant la nuit.
+> A: Si viajan por la ruta 51, manejen con precaución. | Si vous voyagez sur la route 51, conduisez prudemment.
+? Quel temps fait-il aujourd'hui l'après-midi ? | Il pleut | Il fait soleil | Il neige | Il y a du vent
+? Quelle est la maximale demain ? | 31 °C | 28 °C | 21 °C | 13 °C
+? Qu'est-ce qui est prévu sur la puna ? | Du vent fort et du gel la nuit | De la pluie | Une chaleur extrême | Du brouillard
+? Que conseille la présentatrice ? | De conduire prudemment sur la route 51 | De rester à la maison | De prendre un parapluie demain | D'aller à la puna
+?v Demain il fera plus chaud qu'aujourd'hui. | V
+?v Aujourd'hui, il fait soleil toute la journée. | F

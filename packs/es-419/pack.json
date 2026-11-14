@@ -79,7 +79,7 @@
       "subtitle": "Traduire, comprendre, écrire",
       "color": "#23709D",
       "ink": "#FFFFFF",
-      "ready": false
+      "ready": true
     }
   ],
   "persons": {
@@ -291,5 +291,8 @@
   },
   "pronunciation": {
     "data": "pron.json"
+  },
+  "practica": {
+    "data": "practica.json"
   }
 }

@@ -1,0 +1,181 @@
+# Phrases à traduire, niveaux B1-B2
+
+b1-subj-forma | Il faut que tu viennes demain. | Es necesario que vengas mañana. || Hace falta que vengas mañana.
+b1-subj-forma | J'espère qu'il fera beau. | Espero que haga buen tiempo. || Ojalá haga buen tiempo.
+b1-subj-forma | Je veux que vous soyez contents. | Quiero que estén contentos.
+b1-subj-forma | Il est possible qu'elle aille à Cachi. | Es posible que vaya a Cachi.
+b1-subj-forma | Pourvu qu'il y ait des places ! | ¡Ojalá haya lugar! || ¡Ojalá haya entradas!
+b1-subj-forma | Je ne crois pas qu'il sache la vérité. | No creo que sepa la verdad.
+b1-subj-forma | Il faut que nous partions tôt. | Hace falta que salgamos temprano. || Tenemos que salir temprano.
+b1-subj-forma | J'attends que tu me dises quelque chose. | Espero que me digas algo.
+
+b1-subj-deseo | Je te demande de m'aider. | Te pido que me ayudes.
+b1-subj-deseo | Mon médecin me conseille de marcher plus. | Mi médico me aconseja que camine más.
+b1-subj-deseo | Ils veulent que nous restions dîner. | Quieren que nos quedemos a cenar.
+b1-subj-deseo | Je préfère que tu ne fumes pas ici. | Prefiero que no fumes acá. || Prefiero que no fumes aquí.
+b1-subj-deseo | Dis-lui qu'il m'appelle. | Decile que me llame. || Dile que me llame.
+b1-subj-deseo | Je souhaite que tout se passe bien. | Deseo que todo salga bien.
+b1-subj-deseo | Ma mère ne veut pas que je voyage seul. | Mi mamá no quiere que viaje solo.
+b1-subj-deseo | Nous vous recommandons de réserver à l'avance. | Les recomendamos que reserven con anticipación.
+
+b1-subj-emocion | Je suis content que tu sois là. | Me alegra que estés acá. || Me alegro de que estés aquí.
+b1-subj-emocion | C'est dommage qu'il pleuve. | Es una lástima que llueva. || Qué lástima que llueva.
+b1-subj-emocion | Ça m'énerve qu'il arrive en retard. | Me molesta que llegue tarde.
+b1-subj-emocion | C'est normal que tu sois fatigué. | Es normal que estés cansado.
+b1-subj-emocion | J'ai peur qu'il ne vienne pas. | Tengo miedo de que no venga. || Me da miedo que no venga.
+b1-subj-emocion | Il est important que tu dormes bien. | Es importante que duermas bien.
+b1-subj-emocion | Ça me surprend qu'elle ne réponde pas. | Me sorprende que no conteste. || Me sorprende que no responda.
+b1-subj-emocion | Ça lui plaît que nous parlions espagnol. | Le gusta que hablemos español.
+
+b1-subj-duda | Je crois qu'il est chez lui. | Creo que está en su casa.
+b1-subj-duda | Je ne pense pas que ce soit cher. | No creo que sea caro. || No pienso que sea caro.
+b1-subj-duda | Peut-être qu'il viendra demain. | Quizás venga mañana. || Tal vez venga mañana.
+b1-subj-duda | Il est évident que tu as raison. | Es evidente que tenés razón. || Es evidente que tienes razón.
+b1-subj-duda | Je doute qu'il y ait du monde. | Dudo que haya gente.
+b1-subj-duda | Il est probable qu'il neige sur la puna. | Es probable que nieve en la puna.
+b1-subj-duda | Il me semble que c'est fermé. | Me parece que está cerrado.
+b1-subj-duda | Il n'est pas vrai que les Argentins mangent seulement de la viande. | No es verdad que los argentinos coman solo carne.
+
+b1-subj-tiempo | Quand j'arriverai, je t'appellerai. | Cuando llegue, te llamo. || Cuando llegue, te llamaré.
+b1-subj-tiempo | Quand j'arrive, je bois un maté. | Cuando llego, tomo un mate.
+b1-subj-tiempo | Je te le dis pour que tu le saches. | Te lo digo para que lo sepas.
+b1-subj-tiempo | Rentre avant qu'il fasse nuit. | Volvé antes de que oscurezca. || Vuelve antes de que anochezca.
+b1-subj-tiempo | Dès que tu auras le temps, écris-moi. | En cuanto tengas tiempo, escribime. || Apenas tengas tiempo, escribime.
+b1-subj-tiempo | Nous attendrons jusqu'à ce qu'il arrive. | Vamos a esperar hasta que llegue. || Esperaremos hasta que llegue.
+b1-subj-tiempo | Après que tu seras parti, je fermerai. | Después de que te vayas, cierro.
+b1-subj-tiempo | Je partirai sans qu'il le sache. | Me voy a ir sin que lo sepa.
+
+b1-relativos | La femme qui chante est ma tante. | La mujer que canta es mi tía.
+b1-relativos | C'est le village où je suis né. | Es el pueblo donde nací. || Es el pueblo en el que nací.
+b1-relativos | Ce que tu dis est vrai. | Lo que decís es verdad. || Lo que dices es verdad.
+b1-relativos | L'ami avec qui je voyage est chilien. | El amigo con quien viajo es chileno. || El amigo con el que viajo es chileno.
+b1-relativos | Le livre que tu m'as prêté est génial. | El libro que me prestaste es genial.
+b1-relativos | Je ne comprends pas ce qui se passe. | No entiendo lo que pasa.
+b1-relativos | La maison dont je te parle est à vendre. | La casa de la que te hablo está en venta.
+b1-relativos | Ceux qui veulent venir sont les bienvenus. | Los que quieran venir son bienvenidos.
+
+b1-ser-estar-2 | Ce garçon est très éveillé. | Ese chico es muy despierto.
+b1-ser-estar-2 | Je suis réveillé depuis cinq heures. | Estoy despierto desde las cinco.
+b1-ser-estar-2 | La soupe est prête. | La sopa está lista.
+b1-ser-estar-2 | Ton frère est très intelligent. | Tu hermano es muy listo. || Tu hermano es muy inteligente.
+b1-ser-estar-2 | Ces bananes ne sont pas encore mûres. | Estas bananas todavía están verdes.
+b1-ser-estar-2 | Mon grand-père est malade. | Mi abuelo está enfermo.
+b1-ser-estar-2 | Ce film est ennuyeux. | Esta película es aburrida.
+b1-ser-estar-2 | Je m'ennuie à la maison. | Estoy aburrido en casa. || Me aburro en casa.
+
+b1-perfecto | Je n'ai jamais vu la neige. | Nunca vi la nieve. || Nunca he visto la nieve.
+b1-perfecto | Hier, je suis allé au marché. | Ayer fui al mercado.
+b1-perfecto | Quand je suis arrivé, le car était déjà parti. | Cuando llegué, el micro ya había salido.
+b1-perfecto | Tu as déjà mangé du locro ? | ¿Ya comiste locro? || ¿Alguna vez comiste locro? || ¿Has comido locro?
+b1-perfecto | Elle m'a dit qu'elle avait perdu ses clés. | Me dijo que había perdido las llaves.
+b1-perfecto | Cette semaine, j'ai beaucoup travaillé. | Esta semana trabajé mucho. || Esta semana he trabajado mucho.
+b1-perfecto | Nous avions déjà dîné. | Ya habíamos cenado.
+b1-perfecto | Je ne l'avais jamais entendu chanter. | Nunca lo había escuchado cantar.
+
+b1-estilo-indirecto | Il m'a dit qu'il était fatigué. | Me dijo que estaba cansado.
+b1-estilo-indirecto | Elle a dit qu'elle viendrait demain. | Dijo que vendría mañana.
+b1-estilo-indirecto | Ils m'ont demandé où j'habitais. | Me preguntaron dónde vivía.
+b1-estilo-indirecto | Il m'a demandé de l'attendre. | Me pidió que lo esperara. || Me pidió que lo esperase.
+b1-estilo-indirecto | Ma mère dit qu'il fait froid à Salta. | Mi mamá dice que hace frío en Salta.
+b1-estilo-indirecto | Il a dit qu'il était allé à Jujuy. | Dijo que había ido a Jujuy.
+b1-estilo-indirecto | Je lui ai demandé si elle voulait danser. | Le pregunté si quería bailar.
+b1-estilo-indirecto | Le guide nous a dit de ne pas toucher les pierres. | El guía nos dijo que no tocáramos las piedras.
+
+b1-se-impersonal | Ici, on parle espagnol. | Acá se habla español. || Aquí se habla español.
+b1-se-impersonal | On vend des maisons. | Se venden casas.
+b1-se-impersonal | On mange très bien à Salta. | En Salta se come muy bien.
+b1-se-impersonal | Comment ça s'écrit ? | ¿Cómo se escribe?
+b1-se-impersonal | On ne peut pas fumer ici. | No se puede fumar acá. || No se puede fumar aquí.
+b1-se-impersonal | On a construit la cathédrale au XIXe siècle. | La catedral se construyó en el siglo XIX.
+b1-se-impersonal | On dit que l'hiver sera froid. | Se dice que el invierno va a ser frío. || Dicen que el invierno será frío.
+b1-se-impersonal | On cherche un serveur. | Se busca mozo. || Se busca un mozo.
+
+b2-subj-imperfecto | Je voulais que tu viennes avec moi. | Quería que vinieras conmigo. || Quería que vinieses conmigo.
+b2-subj-imperfecto | Il m'a demandé que je l'aide. | Me pidió que lo ayudara.
+b2-subj-imperfecto | C'était dommage qu'il ne puisse pas venir. | Fue una lástima que no pudiera venir.
+b2-subj-imperfecto | Elle parlait comme si elle savait tout. | Hablaba como si supiera todo.
+b2-subj-imperfecto | J'aimerais que tu sois plus patient. | Me gustaría que fueras más paciente.
+b2-subj-imperfecto | Je n'ai pas cru qu'il dise la vérité. | No creí que dijera la verdad.
+b2-subj-imperfecto | Ils sont partis avant que nous arrivions. | Se fueron antes de que llegáramos.
+b2-subj-imperfecto | Si seulement j'avais plus de temps ! | ¡Ojalá tuviera más tiempo!
+
+b2-condicionales | Si j'ai le temps, je viendrai. | Si tengo tiempo, voy a ir. || Si tengo tiempo, iré.
+b2-condicionales | Si j'avais de l'argent, je voyagerais en Patagonie. | Si tuviera plata, viajaría a la Patagonia. || Si tuviera dinero, viajaría a la Patagonia.
+b2-condicionales | Si tu étais venu, tu te serais amusé. | Si hubieras venido, te habrías divertido. || Si hubieras venido, te hubieras divertido.
+b2-condicionales | Si tu veux, on peut aller à la peña. | Si querés, podemos ir a la peña. || Si quieres, podemos ir a la peña.
+b2-condicionales | Que ferais-tu à ma place ? | ¿Qué harías en mi lugar?
+b2-condicionales | S'il pleut, nous resterons à la maison. | Si llueve, nos quedamos en casa. || Si llueve, nos quedaremos en casa.
+b2-condicionales | Si je l'avais su, je ne serais pas venu. | Si lo hubiera sabido, no habría venido. || Si lo hubiera sabido, no hubiera venido.
+b2-condicionales | J'irais avec toi si je pouvais. | Iría con vos si pudiera. || Iría contigo si pudiera.
+
+b2-subj-relativo | Je cherche un appartement qui ait une terrasse. | Busco un departamento que tenga terraza.
+b2-subj-relativo | J'ai un appartement qui a une terrasse. | Tengo un departamento que tiene terraza.
+b2-subj-relativo | Il n'y a personne qui sache le faire. | No hay nadie que sepa hacerlo.
+b2-subj-relativo | Fais ce que tu veux. | Hacé lo que quieras. || Haz lo que quieras.
+b2-subj-relativo | Connais-tu quelqu'un qui parle quechua ? | ¿Conocés a alguien que hable quechua? || ¿Conoces a alguien que hable quechua?
+b2-subj-relativo | Celui qui arrivera le premier choisira. | El que llegue primero elige. || El que llegue primero va a elegir.
+b2-subj-relativo | Nous avons besoin d'un guide qui connaisse la puna. | Necesitamos un guía que conozca la puna.
+b2-subj-relativo | Où que tu ailles, je te suivrai. | Vayas donde vayas, te voy a seguir. || Adondequiera que vayas, te seguiré.
+
+b2-concesivas | Bien qu'il soit tard, je vais t'appeler. | Aunque es tarde, te voy a llamar. || Aunque sea tarde, te voy a llamar.
+b2-concesivas | Même s'il pleut demain, nous irons. | Aunque llueva mañana, vamos a ir.
+b2-concesivas | Bien qu'il fasse froid, il n'a pas pris de manteau. | Aunque hacía frío, no llevó abrigo.
+b2-concesivas | Même si tu me le demandais, je ne le ferais pas. | Aunque me lo pidieras, no lo haría.
+b2-concesivas | Malgré la fatigue, nous avons continué. | A pesar del cansancio, seguimos.
+b2-concesivas | Il est sorti même s'il était malade. | Salió aunque estaba enfermo. || Salió a pesar de estar enfermo.
+b2-concesivas | Quoi que tu fasses, fais-le bien. | Hagas lo que hagas, hacelo bien. || Hagas lo que hagas, hazlo bien.
+b2-concesivas | Bien que je l'aie lu deux fois, je ne l'ai pas compris. | Aunque lo leí dos veces, no lo entendí.
+
+b2-perifrasis | J'ai recommencé à étudier le piano. | Volví a estudiar piano.
+b2-perifrasis | Elle a arrêté de fumer l'an dernier. | Dejó de fumar el año pasado.
+b2-perifrasis | Il s'est mis à pleuvoir. | Se puso a llover. || Empezó a llover.
+b2-perifrasis | Je continue à travailler le samedi. | Sigo trabajando los sábados.
+b2-perifrasis | Cela fait deux ans que j'apprends l'espagnol. | Llevo dos años aprendiendo español. || Hace dos años que aprendo español.
+b2-perifrasis | Je viens tout juste de finir. | Acabo de terminar.
+b2-perifrasis | Il a fini par accepter. | Terminó aceptando. || Acabó aceptando. || Terminó por aceptar.
+b2-perifrasis | Nous avons cessé de nous voir. | Dejamos de vernos.
+
+b2-cambio | Il est devenu tout rouge. | Se puso rojo.
+b2-cambio | Elle est devenue médecin. | Se hizo médica. || Llegó a ser médica.
+b2-cambio | Il est devenu fou. | Se volvió loco.
+b2-cambio | Le ciel est devenu gris. | El cielo se puso gris.
+b2-cambio | Avec le temps, il est devenu plus calme. | Con el tiempo se volvió más tranquilo.
+b2-cambio | Mon fils est devenu très grand. | Mi hijo se puso muy alto. || Mi hijo creció mucho.
+b2-cambio | Je me suis mis en colère. | Me enojé.
+b2-cambio | Ils sont devenus amis. | Se hicieron amigos.
+
+b2-pasiva | La ville a été fondée en 1582. | La ciudad fue fundada en 1582.
+b2-pasiva | Le pont a été construit par les Anglais. | El puente fue construido por los ingleses.
+b2-pasiva | Les résultats seront publiés demain. | Los resultados serán publicados mañana. || Los resultados se publicarán mañana.
+b2-pasiva | Le voleur a été arrêté par la police. | El ladrón fue detenido por la policía.
+b2-pasiva | Cette chanson a été écrite par un salteño. | Esta canción fue escrita por un salteño.
+b2-pasiva | Les billets sont vendus en ligne. | Las entradas se venden por internet.
+b2-pasiva | La route est fermée à cause de la neige. | La ruta está cerrada por la nieve.
+b2-pasiva | Le musée a été rénové l'an dernier. | El museo fue renovado el año pasado. || El museo se renovó el año pasado.
+
+b2-se-involuntario | J'ai oublié mes clés. | Se me olvidaron las llaves.
+b2-se-involuntario | Mon téléphone est tombé. | Se me cayó el celular.
+b2-se-involuntario | Le verre s'est cassé. | Se rompió el vaso.
+b2-se-involuntario | Le bus nous est passé sous le nez. | Se nos fue el colectivo.
+b2-se-involuntario | J'ai perdu mon portefeuille. | Se me perdió la billetera.
+b2-se-involuntario | Il a cassé ses lunettes sans le faire exprès. | Se le rompieron los anteojos.
+b2-se-involuntario | Il m'est venu une idée. | Se me ocurrió una idea.
+b2-se-involuntario | La batterie de ton téléphone est morte. | Se te acabó la batería.
+
+b2-regimen | Je pense souvent à toi. | Pienso mucho en vos. || Pienso mucho en ti.
+b2-regimen | Elle s'est mariée avec un salteño. | Se casó con un salteño.
+b2-regimen | Je ne me souviens pas de son nom. | No me acuerdo de su nombre.
+b2-regimen | Nous avons rêvé de la montagne. | Soñamos con la montaña.
+b2-regimen | Ça dépend de toi. | Depende de vos. || Depende de ti.
+b2-regimen | Il s'est habitué au climat. | Se acostumbró al clima.
+b2-regimen | J'ai décidé d'apprendre la guitare. | Decidí aprender guitarra.
+b2-regimen | Elle est tombée amoureuse de lui. | Se enamoró de él.
+
+b2-por-para-2 | Pour un étranger, il parle très bien. | Para ser extranjero, habla muy bien.
+b2-por-para-2 | Le travail doit être fini pour lundi. | El trabajo tiene que estar listo para el lunes.
+b2-por-para-2 | Je l'ai fait pour toi, à ta place. | Lo hice por vos. || Lo hice por ti.
+b2-por-para-2 | Il est sur le point de partir. | Está por salir.
+b2-por-para-2 | Le rapport reste à faire. | El informe está por hacer.
+b2-por-para-2 | Pour moi, c'est la meilleure peña de Salta. | Para mí, es la mejor peña de Salta.
+b2-por-para-2 | Je l'ai appris par un ami. | Me enteré por un amigo.
+b2-por-para-2 | Nous sommes passés par Humahuaca. | Pasamos por Humahuaca.

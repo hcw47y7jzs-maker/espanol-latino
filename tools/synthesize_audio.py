@@ -39,13 +39,35 @@ def trim(samples: array.array, rate: int, threshold: int = 400, pad_ms: int = 90
     return samples[max(0, loud[0] - pad): min(len(samples), loud[-1] + 64 + pad)]
 
 
+VOICE_B = "[b] "  # préfixe : seconde voix (Daniela transformée, plus grave) pour les dialogues
+PITCH_B = 1.2      # 1,2 = environ trois demi-tons plus grave
+
+
+def lower_pitch(samples: array.array, factor: float) -> array.array:
+    """Abaisse la hauteur (et les formants) en étirant le signal ; la durée est compensée en amont."""
+    import numpy as np
+
+    x = np.frombuffer(samples.tobytes(), dtype=np.int16).astype(np.float32)
+    n = int(len(x) * factor)
+    y = np.interp(np.arange(n) / factor, np.arange(len(x)), x)
+    return array.array("h", np.clip(y, -32768, 32767).astype(np.int16).tobytes())
+
+
 def synth(voice, text, cfg):
+    second = text.startswith(VOICE_B)
+    if second:
+        from piper import SynthesisConfig
+
+        text = text[len(VOICE_B):]
+        cfg = SynthesisConfig(length_scale=cfg.length_scale / PITCH_B, noise_scale=cfg.noise_scale, noise_w_scale=cfg.noise_w_scale)
     buf = io.BytesIO()
     with wave.open(buf, "wb") as wf:
         voice.synthesize_wav(spoken(text), wf, syn_config=cfg)
     with wave.open(io.BytesIO(buf.getvalue())) as w:
         rate = w.getframerate()
         samples = array.array("h", w.readframes(w.getnframes()))
+    if second:
+        samples = lower_pitch(samples, PITCH_B)
     return trim(samples, rate), rate
 
 
@@ -124,7 +146,7 @@ def main() -> int:
             print("Temps imparti écoulé, la suite sera faite au prochain passage.", flush=True)
             break
         key = speech_key(text)
-        limit_s = 1.2 + 0.17 * len(text)  # durée raisonnable pour ce texte
+        limit_s = 1.2 + 0.17 * len(text.removeprefix(VOICE_B))  # durée raisonnable pour ce texte
         best = None
         for cfg in configs:
             try:

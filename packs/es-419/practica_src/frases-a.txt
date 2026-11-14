@@ -1,0 +1,174 @@
+# Phrases à traduire, niveaux A1-A2
+# Format : point de grammaire | français | espagnol (autres traductions acceptées après « || »)
+# Le « tu » français se traduit par vos (Argentine) ; tú est accepté aussi.
+
+a1-genero | Le problème est très simple. | El problema es muy simple.
+a1-genero | Les chansons de Salta sont belles. | Las canciones de Salta son lindas.
+a1-genero | J'ai deux crayons et une gomme. | Tengo dos lápices y una goma.
+a1-genero | La main de ma grand-mère est petite. | La mano de mi abuela es chiquita. || La mano de mi abuela es pequeña.
+a1-genero | Les jours sont longs en été. | Los días son largos en verano.
+a1-genero | Le thème de la leçon est facile. | El tema de la lección es fácil.
+a1-genero | Les villes du nord sont anciennes. | Las ciudades del norte son antiguas.
+a1-genero | Le lait est froid. | La leche está fría.
+
+a1-articulos | Le dimanche, je vais au marché. | Los domingos voy al mercado.
+a1-articulos | J'aime le maté. | Me gusta el mate.
+a1-articulos | Ma sœur est médecin. | Mi hermana es médica.
+a1-articulos | Il est trois heures. | Son las tres.
+a1-articulos | Il y a un chien dans la rue. | Hay un perro en la calle.
+a1-articulos | Je vais à l'école à pied. | Voy a la escuela a pie. || Voy caminando a la escuela.
+a1-articulos | L'eau de la rivière est froide. | El agua del río está fría.
+a1-articulos | Monsieur Pérez n'est pas là. | El señor Pérez no está.
+
+a1-adjetivos | J'ai une maison blanche et grande. | Tengo una casa blanca y grande.
+a1-adjetivos | Ce sont de bons amis. | Son buenos amigos.
+a1-adjetivos | Les montagnes de Salta sont très hautes. | Los cerros de Salta son muy altos. || Las montañas de Salta son muy altas.
+a1-adjetivos | C'est un grand homme. | Es un gran hombre.
+a1-adjetivos | Ma voiture est vieille mais rapide. | Mi auto es viejo pero rápido.
+a1-adjetivos | Les filles sont contentes. | Las chicas están contentas.
+a1-adjetivos | J'ai acheté des chaussures rouges. | Compré zapatos rojos.
+a1-adjetivos | C'est le premier jour de l'année. | Es el primer día del año.
+
+a1-ser-estar | Je suis français et je suis à Salta. | Soy francés y estoy en Salta.
+a1-ser-estar | Le café est chaud. | El café está caliente.
+a1-ser-estar | Ma mère est professeure. | Mi mamá es profesora.
+a1-ser-estar | Aujourd'hui je suis fatigué. | Hoy estoy cansado.
+a1-ser-estar | La fête est chez Juan. | La fiesta es en lo de Juan. || La fiesta es en la casa de Juan.
+a1-ser-estar | Où est la gare routière ? | ¿Dónde está la terminal de ómnibus? || ¿Dónde está la terminal?
+a1-ser-estar | Tu es très sympathique. | Sos muy simpático. || Eres muy simpático.
+a1-ser-estar | La porte est ouverte. | La puerta está abierta.
+
+a1-hay | Il y a beaucoup de gens sur la place. | Hay mucha gente en la plaza.
+a1-hay | Où est la pharmacie ? | ¿Dónde está la farmacia?
+a1-hay | Il y a une pharmacie près d'ici ? | ¿Hay una farmacia cerca de acá? || ¿Hay alguna farmacia cerca?
+a1-hay | Les clés sont sur la table. | Las llaves están en la mesa.
+a1-hay | Il n'y a pas de pain. | No hay pan.
+a1-hay | Il y a deux lits dans la chambre. | Hay dos camas en la habitación. || Hay dos camas en el cuarto.
+a1-hay | Mon frère est à la maison. | Mi hermano está en casa.
+a1-hay | Il y a des empanadas pour tout le monde. | Hay empanadas para todos.
+
+a1-preguntas | Comment tu t'appelles ? | ¿Cómo te llamás? || ¿Cómo te llamas?
+a1-preguntas | Où habites-tu ? | ¿Dónde vivís? || ¿Dónde vives?
+a1-preguntas | Je ne parle pas bien espagnol. | No hablo bien español.
+a1-preguntas | Combien coûte ce poncho ? | ¿Cuánto cuesta este poncho? || ¿Cuánto sale este poncho?
+a1-preguntas | Pourquoi tu ne viens pas ? | ¿Por qué no venís? || ¿Por qué no vienes?
+a1-preguntas | Je ne mange jamais de viande. | Nunca como carne. || No como carne nunca.
+a1-preguntas | Quand est-ce que le car part ? | ¿Cuándo sale el micro? || ¿Cuándo sale el colectivo?
+a1-preguntas | Qui est cette femme ? | ¿Quién es esa mujer?
+
+a1-posesivos | Mon père travaille à Cafayate. | Mi papá trabaja en Cafayate. || Mi padre trabaja en Cafayate.
+a1-posesivos | Nos enfants sont à l'école. | Nuestros hijos están en la escuela.
+a1-posesivos | C'est ton livre ? | ¿Es tu libro?
+a1-posesivos | Ce sac est à moi. | Esta mochila es mía. || Esta bolsa es mía.
+a1-posesivos | Leurs amis sont argentins. | Sus amigos son argentinos.
+a1-posesivos | Votre maison est très jolie, madame. | Su casa es muy linda, señora.
+a1-posesivos | Un ami à moi vit à Jujuy. | Un amigo mío vive en Jujuy.
+a1-posesivos | Mes sœurs s'appellent Ana et Sol. | Mis hermanas se llaman Ana y Sol.
+
+a1-demostrativos | Cette chemise-ci est trop grande. | Esta camisa es muy grande. || Esta camisa es demasiado grande.
+a1-demostrativos | Tu vois cette montagne là-bas ? | ¿Ves aquel cerro? || ¿Ves aquella montaña?
+a1-demostrativos | Ce livre-là est à toi ? | ¿Ese libro es tuyo?
+a1-demostrativos | Ces empanadas sont délicieuses. | Estas empanadas están riquísimas. || Estas empanadas son deliciosas.
+a1-demostrativos | Qu'est-ce que c'est que ça ? | ¿Qué es eso?
+a1-demostrativos | Cette année, je vais en Argentine. | Este año voy a la Argentina. || Este año voy a Argentina.
+a1-demostrativos | Ce jour-là, il pleuvait. | Aquel día llovía. || Ese día llovía.
+a1-demostrativos | Ceci est pour toi. | Esto es para vos. || Esto es para ti.
+
+a1-gustar | J'aime beaucoup la musique folklorique. | Me gusta mucho la música folclórica.
+a1-gustar | Mes parents aiment les voyages. | A mis papás les gustan los viajes. || A mis padres les gustan los viajes.
+a1-gustar | J'ai mal à la tête. | Me duele la cabeza.
+a1-gustar | Est-ce que tu aimes danser ? | ¿Te gusta bailar?
+a1-gustar | Elle adore les empanadas. | A ella le encantan las empanadas.
+a1-gustar | Il me manque deux euros. | Me faltan dos euros.
+a1-gustar | Ce professeur m'intéresse. | Me interesa ese profesor.
+a1-gustar | Nous n'aimons pas le froid. | No nos gusta el frío.
+
+a2-od | Je cherche mes clés et je ne les trouve pas. | Busco mis llaves y no las encuentro.
+a2-od | Le maté ? Je le bois tous les matins. | ¿El mate? Lo tomo todas las mañanas.
+a2-od | Tu connais Lucía ? Oui, je la connais. | ¿Conocés a Lucía? Sí, la conozco. || ¿Conoces a Lucía? Sí, la conozco.
+a2-od | J'ai acheté des fruits et je les ai mangés. | Compré frutas y las comí.
+a2-od | Je t'appelle demain. | Te llamo mañana.
+a2-od | Il nous invite à la fête. | Nos invita a la fiesta.
+a2-od | Je ne le sais pas. | No lo sé.
+a2-od | Ce poncho, je le prends. | Este poncho me lo llevo. || Este poncho lo llevo.
+
+a2-oi | Je lui ai écrit une lettre. | Le escribí una carta.
+a2-oi | Je la lui ai donnée hier. | Se la di ayer.
+a2-oi | Tu me prêtes ton stylo ? | ¿Me prestás tu lapicera? || ¿Me prestas tu bolígrafo?
+a2-oi | Nous leur avons dit la vérité. | Les dijimos la verdad.
+a2-oi | Je te l'envoie ce soir. | Te lo mando esta noche. || Te lo envío esta noche.
+a2-oi | Elle m'a offert un livre. | Me regaló un libro.
+a2-oi | Il ne nous a rien expliqué. | No nos explicó nada.
+a2-oi | Les clés ? Je les lui rends demain. | ¿Las llaves? Se las devuelvo mañana.
+
+a2-posicion | Je vais l'acheter demain. | Lo voy a comprar mañana. || Voy a comprarlo mañana.
+a2-posicion | Dis-le-moi ! | ¡Decímelo! || ¡Dímelo!
+a2-posicion | Ne le dis à personne. | No se lo digas a nadie.
+a2-posicion | Je suis en train de le lire. | Lo estoy leyendo. || Estoy leyéndolo.
+a2-posicion | Assieds-toi ici. | Sentate acá. || Siéntate aquí.
+a2-posicion | Je veux te voir. | Te quiero ver. || Quiero verte.
+a2-posicion | Ne t'inquiète pas. | No te preocupes.
+a2-posicion | Explique-le-nous, s'il te plaît. | Explicanoslo, por favor. || Explícanoslo, por favor.
+
+a2-reflexivos | Je me lève à sept heures. | Me levanto a las siete.
+a2-reflexivos | Nous nous sommes rencontrés à Salta. | Nos conocimos en Salta.
+a2-reflexivos | Tu t'appelles comment ? | ¿Cómo te llamás? || ¿Cómo te llamas?
+a2-reflexivos | Il s'est endormi devant la télé. | Se durmió frente a la tele. || Se quedó dormido mirando la tele.
+a2-reflexivos | Elles s'habillent pour la fête. | Se visten para la fiesta.
+a2-reflexivos | Je m'en vais demain. | Me voy mañana.
+a2-reflexivos | Lave-toi les mains. | Lavate las manos. || Lávate las manos.
+a2-reflexivos | Ils se sont mariés en mars. | Se casaron en marzo.
+
+a2-a-personal | Je vois Pedro tous les jours. | Veo a Pedro todos los días.
+a2-a-personal | Nous cherchons un guide pour la randonnée. | Buscamos un guía para la caminata.
+a2-a-personal | J'aime beaucoup ma grand-mère. | Quiero mucho a mi abuela.
+a2-a-personal | Tu connais quelqu'un à Cachi ? | ¿Conocés a alguien en Cachi? || ¿Conoces a alguien en Cachi?
+a2-a-personal | J'ai appelé le médecin. | Llamé al médico.
+a2-a-personal | Je ne connais personne ici. | No conozco a nadie acá. || No conozco a nadie aquí.
+a2-a-personal | Ils ont invité tous leurs amis. | Invitaron a todos sus amigos.
+a2-a-personal | J'ai trois frères. | Tengo tres hermanos.
+
+a2-comparativos | Salta est plus petite que Buenos Aires. | Salta es más chica que Buenos Aires. || Salta es más pequeña que Buenos Aires.
+a2-comparativos | Mon frère est plus âgé que moi. | Mi hermano es mayor que yo.
+a2-comparativos | C'est la meilleure empanada de la ville. | Es la mejor empanada de la ciudad.
+a2-comparativos | Il fait aussi chaud qu'hier. | Hace tanto calor como ayer.
+a2-comparativos | J'ai moins d'argent que toi. | Tengo menos plata que vos. || Tengo menos dinero que tú.
+a2-comparativos | Ce vin est très très bon. | Este vino es buenísimo.
+a2-comparativos | Elle parle mieux espagnol que moi. | Ella habla español mejor que yo.
+a2-comparativos | Il a plus de cent livres. | Tiene más de cien libros.
+
+a2-perifrasis | Je vais voyager en janvier. | Voy a viajar en enero.
+a2-perifrasis | Il faut réserver l'hôtel. | Hay que reservar el hotel.
+a2-perifrasis | Je dois travailler samedi. | Tengo que trabajar el sábado.
+a2-perifrasis | Qu'est-ce que tu es en train de faire ? | ¿Qué estás haciendo?
+a2-perifrasis | Nous venons d'arriver. | Acabamos de llegar.
+a2-perifrasis | Il va pleuvoir cet après-midi. | Va a llover esta tarde.
+a2-perifrasis | Je suis en train de cuisiner. | Estoy cocinando.
+a2-perifrasis | Tu dois te reposer. | Tenés que descansar. || Tienes que descansar.
+
+a2-indefinidos | Personne n'est venu. | No vino nadie. || Nadie vino.
+a2-indefinidos | Tu veux quelque chose ? | ¿Querés algo? || ¿Quieres algo?
+a2-indefinidos | Je n'ai rien mangé. | No comí nada.
+a2-indefinidos | Il n'y a aucun problème. | No hay ningún problema.
+a2-indefinidos | Quelqu'un a une carte ? | ¿Alguien tiene un mapa?
+a2-indefinidos | Je n'y suis jamais allé. | Nunca fui. || No fui nunca.
+a2-indefinidos | Quelques amis sont venus. | Vinieron algunos amigos.
+a2-indefinidos | Aucune de mes sœurs ne parle français. | Ninguna de mis hermanas habla francés.
+
+a2-por-para | Ce cadeau est pour toi. | Este regalo es para vos. || Este regalo es para ti.
+a2-por-para | Merci pour tout. | Gracias por todo.
+a2-por-para | Je me promène dans le centre. | Paseo por el centro.
+a2-por-para | J'étudie pour parler avec mes amis. | Estudio para hablar con mis amigos.
+a2-por-para | Il est parti à cause de la pluie. | Se fue por la lluvia.
+a2-por-para | Je l'ai acheté pour dix mille pesos. | Lo compré por diez mil pesos.
+a2-por-para | Le car part pour Jujuy. | El micro sale para Jujuy.
+a2-por-para | Je t'appelle le matin. | Te llamo por la mañana. || Te llamo a la mañana.
+
+a2-preposiciones | Je vis en Argentine depuis trois mois. | Vivo en Argentina desde hace tres meses. || Hace tres meses que vivo en Argentina.
+a2-preposiciones | Je suis arrivé il y a deux jours. | Llegué hace dos días.
+a2-preposiciones | Nous allons à Cafayate en voiture. | Vamos a Cafayate en auto.
+a2-preposiciones | Le magasin ouvre de neuf heures à midi. | El negocio abre de nueve a doce. || La tienda abre desde las nueve hasta las doce.
+a2-preposiciones | Je t'attends jusqu'à huit heures. | Te espero hasta las ocho.
+a2-preposiciones | Le livre est sous la table. | El libro está debajo de la mesa.
+a2-preposiciones | Elle vient de Tucumán. | Viene de Tucumán. || Es de Tucumán.
+a2-preposiciones | On se voit dans une heure. | Nos vemos en una hora.

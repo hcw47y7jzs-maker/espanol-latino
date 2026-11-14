@@ -1,0 +1,199 @@
+# Écoutes, niveaux C1-C2 (questions en espagnol)
+
+## c1-e1 | Mesa redonda: el futuro del folclore | Table ronde : l'avenir du folklore | debate | A=Carolina (cantante), B=Ernesto (musicólogo)
+> A: A mí me parece fundamental que el folclore se renueve. Si seguimos tocando las zambas exactamente igual que hace cincuenta años, los jóvenes no se van a acercar. | Pour moi, il est essentiel que le folklore se renouvelle. Si on continue de jouer les zambas exactement comme il y a cinquante ans, les jeunes ne vont pas s'en approcher.
+> B: Coincido en parte, pero hay que distinguir entre renovar y diluir. Hay fusiones que enriquecen y otras que solo usan el folclore como decorado. | Je suis d'accord en partie, mais il faut distinguer renouveler et diluer. Il y a des fusions qui enrichissent et d'autres qui n'utilisent le folklore que comme décor.
+> A: ¿Y quién decide eso? Me preocupa que los puristas se conviertan en guardianes de un museo. | Et qui décide de ça ? Ça m'inquiète que les puristes deviennent les gardiens d'un musée.
+> B: Nadie lo decide por decreto, por supuesto. Lo decide el tiempo: lo que tiene sustancia queda y lo que es moda pasa. | Personne ne le décide par décret, bien sûr. C'est le temps qui décide : ce qui a de la substance reste et ce qui est une mode passe.
+> A: Puede ser, pero mientras tanto hay artistas que no consiguen tocar en los festivales porque no suenan «lo suficientemente tradicionales». | C'est possible, mais en attendant il y a des artistes qui n'arrivent pas à jouer dans les festivals parce qu'ils ne sonnent pas « assez traditionnels ».
+> B: Ese es un problema real, y ahí sí creo que los organizadores tienen una responsabilidad: abrir espacios sin cerrar los otros. | C'est un vrai problème, et là je crois que les organisateurs ont une responsabilité : ouvrir des espaces sans fermer les autres.
+? ¿Qué teme Carolina si no se renueva el folclore? | Que los jóvenes no se acerquen | Que desaparezcan los festivales | Que los músicos ganen menos | Que se pierdan las letras
+? ¿Qué distinción propone Ernesto? | Entre renovar y diluir | Entre música urbana y rural | Entre zamba y chacarera | Entre artistas jóvenes y viejos
+? Según Ernesto, ¿quién decide qué fusiones valen la pena? | El tiempo | Los organizadores | Los críticos | El público de los festivales
+? ¿En qué punto terminan coincidiendo? | Los organizadores deben abrir espacios sin cerrar otros | Hay que prohibir las fusiones | El folclore ya no interesa | Los puristas tienen razón
+?v Ernesto rechaza totalmente las fusiones. | F
+?v Carolina critica que algunos artistas no consigan tocar en festivales. | V
+
+## c1-e2 | Clase: la evaporación en los salares | Cours : l'évaporation dans les salars | clase | A=profesora
+> A: Hoy vamos a ver por qué los salares de la puna son tan particulares desde el punto de vista hidrológico. | Aujourd'hui, nous allons voir pourquoi les salars de la puna sont si particuliers du point de vue hydrologique.
+> A: Se trata de cuencas cerradas: el agua que llega por lluvias o deshielo no tiene salida al mar, de modo que solo puede irse por evaporación. | Il s'agit de bassins fermés : l'eau qui arrive par les pluies ou la fonte des neiges n'a pas de sortie vers la mer, de sorte qu'elle ne peut s'en aller que par évaporation.
+> A: Al evaporarse, el agua deja atrás las sales que traía disueltas, y así, a lo largo de milenios, se forman estas costras blancas que ven en las fotos. | En s'évaporant, l'eau laisse derrière elle les sels qu'elle contenait dissous et ainsi, au fil des millénaires, se forment ces croûtes blanches que vous voyez sur les photos.
+> A: Debajo de la costra hay salmuera, es decir, agua con una concentración altísima de sales, entre ellas el litio. | Sous la croûte se trouve de la saumure, c'est-à-dire de l'eau avec une concentration très élevée de sels, dont le lithium.
+> A: El punto clave es que esa salmuera está conectada con acuíferos de agua dulce que alimentan las vegas, donde pastan los animales. | Le point clé est que cette saumure est reliée à des nappes d'eau douce qui alimentent les zones humides où paissent les animaux.
+> A: Por eso, extraer grandes volúmenes de salmuera puede alterar el equilibrio de todo el sistema, aunque todavía no sabemos con precisión en qué medida. | C'est pourquoi extraire de grands volumes de saumure peut altérer l'équilibre de tout le système, même si nous ne savons pas encore avec précision dans quelle mesure.
+? ¿Por qué se dice que los salares son cuencas cerradas? | El agua no tiene salida al mar | Están rodeados de montañas cerradas al público | No llueve nunca | Están bajo tierra
+? ¿Cómo se forman las costras de sal? | Por la evaporación del agua, que deja las sales | Por el viento que trae sal del mar | Por la actividad volcánica | Por la minería
+? ¿Qué es la salmuera? | Agua con muy alta concentración de sales | Agua dulce | Una roca | Un tipo de litio
+? ¿Por qué extraer salmuera puede ser un problema? | Está conectada con acuíferos que alimentan las vegas | Contamina el aire | Hace subir el nivel del mar | Destruye la costra en un día
+?v La profesora afirma que ya se conoce con precisión el impacto de la extracción. | F
+?v Las vegas son zonas donde pastan los animales. | V
+
+## c1-e3 | Llamada a una aseguradora | Appel à une assurance | servicio | A=agente, B=Andrés
+> B: Buenas tardes. Llamo porque anoche me chocaron el auto estacionado y el otro conductor se dio a la fuga. | Bonjour. J'appelle parce qu'hier soir on a percuté ma voiture garée et l'autre conducteur a pris la fuite.
+> A: Lamento lo ocurrido. ¿Hizo la denuncia policial? | Je suis désolée de ce qui s'est passé. Vous avez porté plainte à la police ?
+> B: Sí, esta mañana. Un vecino vio todo y anotó parte de la patente. | Oui, ce matin. Un voisin a tout vu et a noté une partie de la plaque.
+> A: Muy bien, eso puede ayudar. Según su póliza, tiene cobertura contra todo riesgo con una franquicia de doscientos mil pesos. | Très bien, ça peut aider. Selon votre contrat, vous avez une couverture tous risques avec une franchise de deux cent mille pesos.
+> B: ¿O sea que si el arreglo cuesta menos que eso, lo pago yo? | Donc si la réparation coûte moins que ça, c'est moi qui paie ?
+> A: Exactamente. Pero si se identifica al responsable, podemos reclamarle a su aseguradora y usted recuperaría también la franquicia. | Exactement. Mais si on identifie le responsable, nous pouvons réclamer à son assurance et vous récupéreriez aussi la franchise.
+> A: Le voy a enviar por correo un formulario; necesito que lo complete y adjunte fotos de los daños y la copia de la denuncia. | Je vais vous envoyer un formulaire par e-mail ; j'ai besoin que vous le remplissiez et que vous joigniez des photos des dégâts et la copie de la plainte.
+? ¿Qué le pasó al auto de Andrés? | Lo chocaron estacionado y el otro conductor huyó | Se lo robaron | Se rompió el motor | Tuvo un accidente en la ruta
+? ¿Qué aportó el vecino? | Vio todo y anotó parte de la patente | Pagó el arreglo | Llamó a la aseguradora | Sacó fotos del conductor
+? ¿Qué significa la franquicia en este caso? | Si el arreglo cuesta menos, lo paga Andrés | La aseguradora paga el doble | Andrés no tiene cobertura | Es un descuento
+? ¿Cuándo recuperaría Andrés la franquicia? | Si se identifica al responsable | Nunca | Si paga una multa | Al final del año
+?v Andrés todavía no hizo la denuncia policial. | F
+?v Tiene que enviar fotos de los daños. | V
+
+## c1-e4 | Audio de un amigo desde Europa | Audio d'un ami depuis l'Europe | mensaje | B=Pablo
+> B: Che, ¿cómo va? Te mando este audio largo porque no te puedo escribir todo esto. | Hé, ça va ? Je t'envoie ce long audio parce que je ne peux pas t'écrire tout ça.
+> B: Ya van seis meses en Lyon y te juro que todavía me sorprende lo puntuales que son: si quedás a las ocho, es a las ocho, no a las ocho y cuarto como en Salta. | Ça fait déjà six mois à Lyon et je te jure que je suis encore surpris de voir à quel point ils sont ponctuels : si tu as rendez-vous à huit heures, c'est huit heures, pas huit heures et quart comme à Salta.
+> B: Lo que más extraño, aunque te parezca mentira, es la sobremesa. Acá terminan de comer y cada uno se va a lo suyo. | Ce qui me manque le plus, même si ça te semble incroyable, c'est la sobremesa. Ici, ils finissent de manger et chacun s'en va de son côté.
+> B: Igual la gente es mucho más cálida de lo que me habían dicho; cuesta entrar, pero cuando te abren la puerta, es para siempre. | Quand même, les gens sont beaucoup plus chaleureux qu'on ne me l'avait dit ; c'est difficile d'entrer, mais quand ils t'ouvrent la porte, c'est pour toujours.
+> B: Con el francés voy mejorando, aunque todavía me pasa de pedir algo en la panadería y que me contesten en inglés. ¡Me da una bronca! | Avec le français je progresse, même s'il m'arrive encore de demander quelque chose à la boulangerie et qu'on me réponde en anglais. Ça m'énerve !
+> B: Bueno, contame vos cómo andan todos por allá. Un abrazo grande. | Bon, raconte-moi, toi, comment vont tout le monde là-bas. Une grosse accolade.
+? ¿Qué le sorprende a Pablo de Lyon? | La puntualidad de la gente | La comida | El clima | El precio de la vivienda
+? ¿Qué es lo que más extraña? | La sobremesa | El mate | El fútbol | Su familia
+? ¿Cómo describe a la gente de Lyon? | Cuesta entrar, pero después son muy cálidos | Fríos y distantes siempre | Muy abiertos desde el primer día | Impuntuales
+? ¿Qué le molesta en la panadería? | Que le contesten en inglés | Que el pan sea caro | Que cierren temprano | Que no lo entiendan nunca
+?v Pablo vive en Lyon desde hace un año. | F
+?v En Lyon la gente se levanta de la mesa enseguida después de comer. | V
+
+## c1-e5 | Entrevista: una médica rural | Entretien : une médecin de campagne | entrevista | A=periodista, B=doctora Quispe (voz grave)
+> A: Doctora, usted atiende un puesto sanitario en la puna desde hace quince años. ¿Qué es lo más difícil? | Docteure, vous tenez un poste de santé sur la puna depuis quinze ans. Qu'est-ce qui est le plus difficile ?
+> B: Las distancias. Hay familias que viven a seis horas a caballo del puesto, y en invierno los caminos se vuelven intransitables. | Les distances. Il y a des familles qui vivent à six heures de cheval du poste, et en hiver les chemins deviennent impraticables.
+> A: ¿Cómo se organizan entonces? | Comment vous organisez-vous, alors ?
+> B: Trabajamos con agentes sanitarios, gente de las propias comunidades que recorre las casas, controla a los chicos y nos avisa si hay alguna urgencia. | Nous travaillons avec des agents de santé, des gens des communautés elles-mêmes qui font le tour des maisons, surveillent les enfants et nous préviennent s'il y a une urgence.
+> B: Sin ellos, sinceramente, el sistema no funcionaría. | Sans eux, sincèrement, le système ne fonctionnerait pas.
+> A: ¿Y la medicina tradicional? ¿Choca con su trabajo? | Et la médecine traditionnelle ? Est-ce qu'elle entre en conflit avec votre travail ?
+> B: Al principio pensé que sí. Con los años aprendí que, si uno respeta los saberes de la gente, ellos también confían más en lo que uno propone. No se trata de competir, sino de complementarse. | Au début, j'ai pensé que oui. Avec les années, j'ai appris que si on respecte les savoirs des gens, eux aussi font davantage confiance à ce qu'on propose. Il ne s'agit pas de rivaliser, mais de se compléter.
+? ¿Cuál es la mayor dificultad, según la doctora? | Las distancias | La falta de medicamentos | El idioma | El frío dentro del puesto
+? ¿Quiénes son los agentes sanitarios? | Gente de las comunidades que recorre las casas | Médicos de la ciudad | Enfermeros extranjeros | Policías
+? ¿Qué aprendió sobre la medicina tradicional? | Que respetarla genera más confianza | Que hay que prohibirla | Que es más eficaz que la suya | Que no existe en la puna
+? ¿Qué quiere decir «no se trata de competir, sino de complementarse»? | Las dos medicinas pueden ayudarse mutuamente | Una medicina debe ganar | Hay que elegir una sola | Los médicos no deben trabajar juntos
+?v La doctora trabaja en la puna desde hace cinco años. | F
+?v Sin los agentes sanitarios, el sistema no funcionaría. | V
+
+## c1-e6 | Reunión de vecinos | Réunion de voisins | reunión | A=Norma (presidenta), B=Oscar (vecino)
+> A: Bueno, vecinos, el tema de hoy es la plaza. Como saben, la municipalidad ofreció remodelarla, pero quiere que nosotros elijamos el proyecto. | Bon, chers voisins, le sujet d'aujourd'hui c'est la place. Comme vous le savez, la mairie a proposé de la rénover, mais elle veut que nous choisissions le projet.
+> B: Yo, sinceramente, preferiría que no tocaran los árboles. Son lo único que da sombra en verano. | Moi, sincèrement, je préférerais qu'on ne touche pas aux arbres. C'est la seule chose qui fait de l'ombre en été.
+> A: Ninguno de los dos proyectos propone sacarlos, Oscar. La diferencia es que uno incluye una cancha de básquet y el otro, un espacio de juegos para chicos más chicos. | Aucun des deux projets ne propose de les enlever, Oscar. La différence, c'est que l'un comprend un terrain de basket et l'autre, un espace de jeux pour les plus petits.
+> B: Ah, mirá vos. Entonces el de los juegos, porque la cancha va a traer ruido hasta la madrugada. | Ah, tiens donc. Alors celui des jeux, parce que le terrain va amener du bruit jusqu'au petit matin.
+> A: Hay otros vecinos que opinan lo contrario: dicen que los adolescentes del barrio no tienen dónde ir. | Il y a d'autres voisins qui pensent le contraire : ils disent que les adolescents du quartier n'ont nulle part où aller.
+> A: Propongo que votemos la semana que viene, así todos tienen tiempo de ver los planos, que están colgados en el almacén de don Lucho. | Je propose qu'on vote la semaine prochaine, comme ça tout le monde a le temps de voir les plans, qui sont affichés à l'épicerie de don Lucho.
+? ¿Qué ofreció la municipalidad? | Remodelar la plaza según el proyecto que elijan los vecinos | Cortar los árboles | Construir un edificio | Cerrar la plaza
+? ¿Qué le preocupa primero a Oscar? | Que saquen los árboles | Que suban los impuestos | Que no haya luz | Que cierren el almacén
+? ¿Por qué Oscar prefiere el proyecto de juegos? | Cree que la cancha traería ruido de noche | Tiene hijos pequeños | Es más barato | No le gusta el básquet
+? ¿Dónde pueden ver los planos los vecinos? | En el almacén de don Lucho | En la municipalidad | Por internet | En la escuela
+?v Uno de los proyectos propone sacar los árboles. | F
+?v La votación será la semana que viene. | V
+
+## c1-e7 | Cuento oral: el duende de la siesta | Conte oral : le lutin de la sieste | relato | A=abuela
+> A: Cuando yo era chica, en la finca de mis padres, a la hora de la siesta nadie podía salir al patio. | Quand j'étais petite, dans la ferme de mes parents, à l'heure de la sieste, personne ne pouvait sortir dans la cour.
+> A: Mi madre decía que andaba el Duende, un hombrecito con un sombrero enorme que se llevaba a los chicos desobedientes. | Ma mère disait que le Lutin rôdait, un petit homme avec un énorme chapeau qui emportait les enfants désobéissants.
+> A: Una tarde, mi hermano Julio, que era muy atrevido, se escapó para ir a buscar higos al fondo del terreno. | Un après-midi, mon frère Julio, qui était très effronté, s'échappa pour aller chercher des figues au fond du terrain.
+> A: Volvió al rato, pálido, sin los higos y sin poder hablar. | Il revint peu après, pâle, sans les figues et incapable de parler.
+> A: Nunca supimos qué vio. Él, ya de grande, decía que había sido una sombra, nada más, pero nunca volvió a salir a la hora de la siesta. | Nous n'avons jamais su ce qu'il avait vu. Lui, une fois adulte, disait que ça avait été une ombre, rien de plus, mais il n'est jamais ressorti à l'heure de la sieste.
+> A: Yo creo que el Duende era el invento de las madres para poder dormir tranquilas un rato. Pero, por las dudas, a esa hora yo tampoco salgo. | Je crois que le Lutin était une invention des mères pour pouvoir dormir tranquilles un moment. Mais, au cas où, à cette heure-là, moi non plus je ne sors pas.
+? ¿Quién era el Duende, según la madre? | Un hombrecito que se llevaba a los chicos desobedientes | Un perro de la finca | Un vecino | Un pájaro grande
+? ¿Para qué salió Julio al patio? | Para buscar higos | Para jugar a la pelota | Para ver al Duende | Para buscar a su madre
+? ¿Cómo volvió Julio? | Pálido y sin poder hablar | Contento y con higos | Herido | Corriendo y riendo
+? ¿Qué cree la abuela sobre el Duende? | Que era un invento de las madres para dormir tranquilas | Que existe de verdad | Que era Julio disfrazado | No tiene opinión
+?v Julio, de grande, dijo que había visto al Duende con claridad. | F
+?v La abuela, por las dudas, tampoco sale a la hora de la siesta. | V
+
+## c2-e1 | Debate: ¿enseñar la variedad local en la escuela? | Débat : enseigner la variété locale à l'école ? | debate | A=lingüista, B=docente
+> A: Durante generaciones, la escuela corrigió a los chicos del norte por decir «la calor» o por usar el pretérito pluscuamperfecto de una manera que no figura en las gramáticas normativas. | Pendant des générations, l'école a corrigé les enfants du nord parce qu'ils disaient « la calor » ou utilisaient le plus-que-parfait d'une manière qui ne figure pas dans les grammaires normatives.
+> A: El resultado fue que muchos aprendieron a avergonzarse de cómo hablaban en su casa. | Le résultat, c'est que beaucoup ont appris à avoir honte de la façon dont ils parlaient chez eux.
+> B: Comparto el diagnóstico, pero no podemos dejar de enseñar la norma estándar. Si un chico va a rendir un examen o a buscar trabajo en otra provincia, la necesita. | Je partage le diagnostic, mais nous ne pouvons pas cesser d'enseigner la norme standard. Si un enfant doit passer un examen ou chercher du travail dans une autre province, il en a besoin.
+> A: Nadie propone dejar de enseñarla. Se trata de presentar la norma como una variedad más, útil en ciertos contextos, y no como la única forma legítima de hablar. | Personne ne propose de cesser de l'enseigner. Il s'agit de présenter la norme comme une variété parmi d'autres, utile dans certains contextes, et non comme la seule manière légitime de parler.
+> B: En la teoría suena bien. En la práctica, con cursos de cuarenta alumnos y programas sobrecargados, me pregunto de dónde sacaríamos el tiempo. | En théorie, ça sonne bien. En pratique, avec des classes de quarante élèves et des programmes surchargés, je me demande où on trouverait le temps.
+> A: Quizás no haga falta más tiempo, sino otra mirada: no corregir para borrar, sino para ampliar el repertorio. | Il ne faut peut-être pas plus de temps, mais un autre regard : ne pas corriger pour effacer, mais pour élargir le répertoire.
+? ¿Cuál fue, según la lingüista, la consecuencia de corregir a los chicos? | Muchos aprendieron a avergonzarse de su forma de hablar | Hablaron mejor inglés | Dejaron de ir a la escuela | Olvidaron el quechua
+? ¿Por qué la docente defiende enseñar la norma estándar? | La necesitan para exámenes o trabajo en otras provincias | Es la única correcta | La exige la Academia | Es más fácil
+? ¿Qué propone la lingüista? | Presentar la norma como una variedad más útil en ciertos contextos | Dejar de enseñar la norma | Enseñar solo la variedad local | Prohibir las correcciones
+? ¿Qué objeción práctica plantea la docente? | La falta de tiempo y los cursos numerosos | La falta de libros en quechua | La oposición de los padres | Los bajos sueldos
+?v La lingüista propone dejar de enseñar la norma estándar. | F
+?v La lingüista propone corregir para ampliar el repertorio y no para borrar. | V
+
+## c2-e2 | Conferencia: la memoria de las coplas | Conférence : la mémoire des coplas | conferencia | B=investigador
+> B: La copla es probablemente el género poético más democrático que existe: cualquiera puede componerla, cualquiera puede apropiársela y nadie es su dueño. | La copla est probablement le genre poétique le plus démocratique qui soit : n'importe qui peut la composer, n'importe qui peut se l'approprier et personne n'en est propriétaire.
+> B: Su forma, cuatro versos octosílabos con rima en los pares, llegó de España, pero en los valles se fundió con la baguala, un canto de origen indígena acompañado por la caja. | Sa forme, quatre vers de huit syllabes rimant aux vers pairs, est venue d'Espagne, mais dans les vallées elle s'est fondue avec la baguala, un chant d'origine indigène accompagné par la caja.
+> B: Lo fascinante es que muchas coplas que se cantan hoy en Cachi o en Humahuaca tienen variantes registradas hace más de un siglo, lo que demuestra una transmisión oral asombrosamente estable. | Ce qui est fascinant, c'est que beaucoup de coplas chantées aujourd'hui à Cachi ou à Humahuaca ont des variantes recueillies il y a plus d'un siècle, ce qui démontre une transmission orale étonnamment stable.
+> B: Al mismo tiempo, cada coplera introduce pequeñas variaciones, adapta un nombre, cambia un lugar, de modo que la copla está siempre viva. | En même temps, chaque chanteuse introduit de petites variations, adapte un nom, change un lieu, de sorte que la copla est toujours vivante.
+> B: Ese equilibrio entre permanencia y cambio es justamente lo que las grabaciones amenazan, porque fijan una versión y la convierten, sin quererlo, en «la» versión. | Cet équilibre entre permanence et changement est justement ce que les enregistrements menacent, car ils fixent une version et en font, sans le vouloir, « la » version.
+> B: No se trata de dejar de grabar, desde luego, sino de no confundir el registro con la tradición. | Il ne s'agit pas d'arrêter d'enregistrer, évidemment, mais de ne pas confondre l'enregistrement avec la tradition.
+? ¿Por qué el investigador dice que la copla es «democrática»? | Cualquiera puede componerla y nadie es su dueño | Se canta en las elecciones | Trata de política | La aprueba el gobierno
+? ¿Con qué se fundió la copla en los valles? | Con la baguala, de origen indígena | Con el tango | Con la música clásica | Con el rock
+? ¿Qué demuestran las variantes registradas hace un siglo? | Una transmisión oral muy estable | Que las coplas desaparecieron | Que eran todas iguales | Que venían de Perú
+? ¿Qué riesgo implican las grabaciones según el investigador? | Fijar una versión y convertirla en «la» versión | Que se pierdan los instrumentos | Que nadie compre discos | Que las coplas se vuelvan más largas
+?v El investigador propone dejar de grabar coplas. | F
+?v Las copleras introducen pequeñas variaciones en cada interpretación. | V
+
+## c2-e3 | Entrevista radial: un escritor salteño | Entretien radio : un écrivain salteño | entrevista | A=conductora, B=escritor
+> A: En su última novela, el paisaje parece casi un personaje más. ¿Fue una decisión consciente? | Dans votre dernier roman, le paysage semble presque un personnage à part entière. Était-ce une décision consciente ?
+> B: No del todo. Uno escribe desde donde mira, y yo miro desde acá. Lo que sí busqué fue evitar la postal: los cerros de colores, el cardón al atardecer… todo eso ya está dicho, y muchas veces mal. | Pas tout à fait. On écrit depuis l'endroit d'où l'on regarde, et moi je regarde d'ici. Ce que j'ai cherché, en revanche, c'est d'éviter la carte postale : les montagnes colorées, le cardon au coucher du soleil… tout ça a déjà été dit, et souvent mal.
+> A: ¿Y cómo se evita la postal? | Et comment évite-t-on la carte postale ?
+> B: Mirando lo que la postal deja afuera: el basural a la salida del pueblo, la camioneta que no arranca, el silencio incómodo de una familia en la mesa. El paisaje no es solo lo bonito; es también lo que pasa adentro de la gente que vive en él. | En regardant ce que la carte postale laisse de côté : la décharge à la sortie du village, la camionnette qui ne démarre pas, le silence gêné d'une famille à table. Le paysage, ce n'est pas seulement ce qui est beau ; c'est aussi ce qui se passe à l'intérieur des gens qui y vivent.
+> A: Algunos críticos dicen que su escritura es demasiado regional para el público de Buenos Aires. | Certains critiques disent que votre écriture est trop régionale pour le public de Buenos Aires.
+> B: (Se ríe) Nadie le dice a un escritor porteño que es demasiado regional. Lo de «regional» siempre lo dice el centro sobre la periferia. Yo no escribo sobre Salta; escribo desde Salta, que no es lo mismo. | (Il rit) Personne ne dit à un écrivain de Buenos Aires qu'il est trop régional. Le mot « régional », c'est toujours le centre qui le dit de la périphérie. Moi, je n'écris pas sur Salta ; j'écris depuis Salta, ce qui n'est pas la même chose.
+? ¿Qué buscó evitar el escritor? | La postal, la imagen típica y bonita del paisaje | Hablar de Salta | Los personajes | Escribir en primera persona
+? ¿Cómo dice que se evita la postal? | Mirando lo que la postal deja afuera | Describiendo solo los cerros | Viajando a otros lugares | Escribiendo poesía
+? ¿Qué critica el escritor sobre la etiqueta «regional»? | Que siempre la aplica el centro a la periferia | Que es un elogio | Que no existe | Que solo se usa para la poesía
+? ¿Qué diferencia hace entre «sobre Salta» y «desde Salta»? | Escribe desde su mirada situada, no sobre un tema exótico | Ninguna | Que vive en Buenos Aires | Que escribe guías turísticas
+?v El escritor dice que el paisaje de su novela es solo lo bonito. | F
+?v Según el escritor, a los autores porteños nadie los llama regionales. | V
+
+## c2-e4 | Mensaje de una colega: cambio de planes | Message d'une collègue : changement de programme | mensaje | A=Verónica
+> A: Hola, te dejo este audio porque no te encuentro y es urgente. | Salut, je te laisse cet audio parce que je ne te trouve pas et c'est urgent.
+> A: Al final el cliente de Mendoza no viene mañana: pidió pasar la reunión al jueves porque se le complicó el vuelo. | Finalement, le client de Mendoza ne vient pas demain : il a demandé à décaler la réunion à jeudi parce que son vol s'est compliqué.
+> A: El problema es que el jueves vos tenías la capacitación en Tucumán, así que habría que ver si la podés mover o si lo atiendo yo sola. | Le problème, c'est que jeudi tu avais la formation à Tucumán, donc il faudrait voir si tu peux la déplacer ou si je le reçois seule.
+> A: Yo, honestamente, preferiría que estuvieras, porque vos llevaste toda la negociación del año pasado y conocés los números mejor que nadie. | Moi, honnêtement, je préférerais que tu sois là, parce que c'est toi qui as mené toute la négociation de l'an dernier et tu connais les chiffres mieux que personne.
+> A: Si no podés, por lo menos mandame el resumen de las condiciones que habían quedado pendientes, así no me agarra desprevenida. | Si tu ne peux pas, envoie-moi au moins le résumé des conditions qui étaient restées en suspens, pour que je ne sois pas prise au dépourvu.
+> A: Avisame antes de las seis, que tengo que confirmarle al cliente. Gracias, ¡sos un sol! | Préviens-moi avant six heures, parce que je dois confirmer au client. Merci, tu es un amour !
+? ¿Por qué se cambia la reunión? | Al cliente se le complicó el vuelo | Verónica está enferma | Hay un feriado | La oficina está cerrada
+? ¿Qué problema genera el cambio? | El jueves el colega tenía una capacitación en Tucumán | El cliente no habla español | No hay sala disponible | Verónica se va de vacaciones
+? ¿Por qué prefiere Verónica que su colega esté presente? | Llevó la negociación anterior y conoce los números | Habla mejor inglés | Es el jefe | Vive cerca del cliente
+? ¿Qué le pide si no puede asistir? | Un resumen de las condiciones pendientes | Que cancele la reunión | Que llame al cliente | Que viaje a Mendoza
+?v Verónica necesita una respuesta antes de las seis. | V
+?v El cliente viene de Tucumán. | F
+
+## c2-e5 | Clase magistral: historia del mate | Cours magistral : histoire du maté | clase | B=historiador
+> B: Cuando los jesuitas llegaron a la región guaraní, encontraron que la yerba mate ya se consumía, aunque de manera distinta a la actual. | Quand les jésuites arrivèrent dans la région guarani, ils constatèrent que la yerba mate était déjà consommée, bien que d'une manière différente de l'actuelle.
+> B: Al principio, algunas autoridades eclesiásticas desconfiaron de ella e incluso intentaron prohibirla, por considerarla un vicio. | Au début, certaines autorités ecclésiastiques s'en méfièrent et tentèrent même de l'interdire, la considérant comme un vice.
+> B: Sin embargo, los propios jesuitas terminaron organizando su cultivo en las misiones y convirtiéndola en un producto comercial de primer orden. | Cependant, les jésuites eux-mêmes finirent par organiser sa culture dans les missions et par en faire un produit commercial de premier ordre.
+> B: Tras su expulsión en el siglo XVIII, las técnicas de cultivo se perdieron durante décadas, y la yerba volvió a recolectarse de plantas silvestres. | Après leur expulsion au XVIIIe siècle, les techniques de culture se perdirent pendant des décennies, et la yerba fut de nouveau récoltée sur des plantes sauvages.
+> B: Lo interesante es que, mientras tanto, el hábito de tomar mate se había extendido por todo el virreinato, de Lima a Buenos Aires, atravesando clases sociales. | Ce qui est intéressant, c'est qu'entre-temps, l'habitude de boire du maté s'était répandue dans toute la vice-royauté, de Lima à Buenos Aires, traversant les classes sociales.
+> B: Así, una práctica indígena, mediada por una orden religiosa europea, acabó convirtiéndose en uno de los símbolos más fuertes de la identidad rioplatense. | Ainsi, une pratique indigène, relayée par un ordre religieux européen, a fini par devenir l'un des symboles les plus forts de l'identité rioplatense.
+? ¿Qué encontraron los jesuitas al llegar a la región guaraní? | Que la yerba ya se consumía | Plantaciones de yerba organizadas | Que nadie conocía la yerba | Que se exportaba a Europa
+? ¿Por qué algunas autoridades quisieron prohibirla? | La consideraban un vicio | Era muy cara | Era venenosa | La vendían los portugueses
+? ¿Qué pasó tras la expulsión de los jesuitas? | Las técnicas de cultivo se perdieron durante décadas | El mate se prohibió | Se dejó de tomar mate | La yerba se volvió más barata
+? ¿Cuál es la idea final del historiador? | Una práctica indígena, mediada por los jesuitas, se volvió símbolo rioplatense | El mate es un invento europeo | El mate solo se toma en Buenos Aires | Los jesuitas inventaron la bombilla
+?v Al principio, todas las autoridades religiosas apoyaron el consumo de yerba. | F
+?v El hábito del mate atravesó las clases sociales del virreinato. | V
+
+## c2-e6 | Discusión de pareja: mudarse o no | Discussion de couple : déménager ou pas | conversación | A=Lucía, B=Gonzalo
+> B: Ya sé que lo hablamos mil veces, pero la oferta de Córdoba es buenísima. No sé si voy a tener otra así. | Je sais qu'on en a parlé mille fois, mais l'offre de Córdoba est excellente. Je ne sais pas si j'en aurai une autre comme ça.
+> A: No te digo que no, Gonza. Lo que me molesta es que lo plantees como si fuera solo una cuestión de plata. | Je ne te dis pas non, Gonza. Ce qui me dérange, c'est que tu le présentes comme si c'était seulement une question d'argent.
+> B: No es solo plata; es crecer profesionalmente. Acá ya llegué a mi techo. | Ce n'est pas que l'argent ; c'est évoluer professionnellement. Ici, j'ai atteint mon plafond.
+> A: ¿Y mi techo? Yo recién empiezo a tener clientes propios, y en Córdoba no conozco a nadie. Además, está mi mamá, que cada vez necesita más ayuda. | Et mon plafond à moi ? Je commence tout juste à avoir mes propres clients, et à Córdoba je ne connais personne. En plus, il y a ma mère, qui a besoin de plus en plus d'aide.
+> B: Tenés razón, perdón. Lo estaba pensando como si fuera una decisión mía, y es de los dos. | Tu as raison, pardon. J'y pensais comme si c'était ma décision, alors que c'est la nôtre.
+> A: Hagamos algo: pedí que te den un mes para responder, y mientras tanto averiguo si puedo trabajar a distancia con mis clientes. Después decidimos con todos los datos sobre la mesa. | Faisons une chose : demande qu'on te laisse un mois pour répondre, et pendant ce temps je me renseigne pour savoir si je peux travailler à distance avec mes clients. Ensuite on décide avec toutes les données sur la table.
+? ¿Qué le molesta a Lucía al principio? | Que Gonzalo lo plantee solo como una cuestión de plata | Que Gonzalo no quiera mudarse | Que la oferta sea mala | Que Gonzalo no tenga trabajo
+? ¿Qué argumento da Gonzalo? | Quiere crecer profesionalmente | Odia su ciudad | Su familia vive en Córdoba | Quiere estudiar
+? ¿Qué razones tiene Lucía para dudar? | Empieza a tener clientes y su madre necesita ayuda | No le gusta Córdoba | Tiene miedo de volar | Está embarazada
+? ¿Qué proponen al final? | Pedir un mes y averiguar si ella puede trabajar a distancia | Rechazar la oferta | Que él se vaya solo | Separarse
+?v Gonzalo reconoce que la decisión es de los dos. | V
+?v Lucía rechaza la mudanza de forma definitiva. | F
+
+## c2-e7 | Crónica radial: la noche de la Pachamama | Chronique radio : la nuit de la Pachamama | crónica | A=cronista
+> A: Es la noche del 31 de julio en un pueblo de la quebrada, y en casi todas las casas huele a ruda. | C'est la nuit du 31 juillet dans un village de la quebrada, et dans presque toutes les maisons ça sent la rue.
+> A: Según la tradición, quien toma un poco de caña con ruda al empezar agosto se protege de los males de ese mes, que en la región se considera el más duro del invierno. | Selon la tradition, celui qui boit un peu d'eau-de-vie avec de la rue au début d'août se protège des maux de ce mois, que la région considère comme le plus dur de l'hiver.
+> A: Al día siguiente, las familias cavan un pozo en la tierra, la «boca» de la Pachamama, y le ofrecen comida, chicha, hojas de coca y cigarrillos. | Le lendemain, les familles creusent un trou dans la terre, la « bouche » de la Pachamama, et lui offrent de la nourriture, de la chicha, des feuilles de coca et des cigarettes.
+> A: Lo que me impresiona no es el ritual en sí, sino la naturalidad con que conviven aquí lo andino y lo cristiano: la misma señora que corpacha la tierra a la mañana va a misa a la tarde. | Ce qui m'impressionne, ce n'est pas le rituel en soi, mais le naturel avec lequel coexistent ici l'andin et le chrétien : la même dame qui fait l'offrande à la terre le matin va à la messe l'après-midi.
+> A: Cuando le pregunto si no ve una contradicción, me mira con paciencia y me dice: «La tierra nos da de comer; ¿cómo no le vamos a dar algo nosotros?». | Quand je lui demande si elle n'y voit pas une contradiction, elle me regarde avec patience et me dit : « La terre nous nourrit ; comment ne pas lui donner quelque chose en retour ? ».
+> A: Quizás la pregunta, pienso mientras vuelvo, estaba mal hecha desde el principio. | Peut-être la question, me dis-je en rentrant, était-elle mal posée dès le départ.
+? ¿Para qué se toma caña con ruda? | Para protegerse de los males de agosto | Para festejar un cumpleaños | Para curar el soroche | Para la misa
+? ¿Qué es la «boca» de la Pachamama? | Un pozo en la tierra donde se hacen ofrendas | Una cueva sagrada | Una iglesia | Una montaña
+? ¿Qué impresiona al cronista? | La convivencia natural de lo andino y lo cristiano | La cantidad de comida | El frío de la noche | La música de la fiesta
+? ¿Qué sugiere la última frase? | Que la idea de «contradicción» era la del cronista, no la de la gente | Que la señora mintió | Que el ritual no existe | Que el cronista no volverá
+?v La señora considera que hay una contradicción entre sus prácticas. | F
+?v Las ofrendas incluyen hojas de coca. | V

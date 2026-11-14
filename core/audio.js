@@ -59,7 +59,9 @@ function playFile(file, rate) {
 function synth(text, rate) {
   return new Promise((resolve) => {
     if (!("speechSynthesis" in window)) return resolve();
-    const u = new SpeechSynthesisUtterance(text);
+    const second = /^\[b\]\s*/.test(text); // seconde voix des dialogues : voix plus grave
+    const u = new SpeechSynthesisUtterance(text.replace(/^\[b\]\s*/, ""));
+    if (second) u.pitch = 0.7;
     const v = pickVoice();
     if (v) u.voice = v;
     u.lang = v?.lang || langs[0];
