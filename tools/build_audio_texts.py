@@ -70,6 +70,15 @@ if vpath.exists():
     for wd in json.loads(vpath.read_text(encoding="utf-8"))["words"]:
         add(f"{wd['art']} {wd['es']}" if wd["art"] else wd["es"], "vocabulaire")
 
+# ---- Expressions : chaque forme et chaque phrase d'exemple ----
+epath = PACK / "expressions.json"
+if epath.exists():
+    for e in json.loads(epath.read_text(encoding="utf-8"))["items"]:
+        add(e["main"], "expression")
+        for v in e["esAll"]:
+            add(v, "expression")
+        add(e["ex"], "expression")
+
 # ---- Phrases fixes de l'interface ----
 for phrase in pack.get("speechExtras", []):
     add(phrase, "interface")

@@ -1,0 +1,87 @@
+# Expressions : toute l'Amérique latine (1/3)
+# Format d'une ligne : niveau | région | espagnol (variantes « / ») | français (réponses acceptées « / ») | exemple avec [expression] | traduction de l'exemple | note
+# Groupe : ## id | titre | description
+
+## saludos | Saluer et se quitter | Les formules qu'on entend dès le premier jour.
+A1 | latam | Buen día / Buenos días | Bonjour / Bonjour (le matin) | Hola, [buen día]. ¿Cómo andás? | Salut, bonjour. Comment ça va ? | En Argentine, *buen día* est plus courant que *buenos días*.
+A1 | latam | Buenas tardes | Bonjour (l'après-midi) / Bonjour | [Buenas tardes], señora. ¿Tiene pan? | Bonjour madame. Vous avez du pain ? | De midi jusqu'à la tombée de la nuit.
+A1 | latam | Buenas noches | Bonsoir / Bonne nuit | [Buenas noches], ¿tienen mesa para dos? | Bonsoir, vous avez une table pour deux ? | Sert à saluer le soir et à prendre congé avant de dormir.
+A1 | latam | ¡Buenas! | Salut ! / Bonjour ! | [¡Buenas!] ¿Hay alguien? | Bonjour ! Il y a quelqu'un ? | Forme courte, à toute heure : en entrant dans une boutique, en croisant un voisin.
+A1 | latam | ¿Cómo estás? / ¿Cómo te va? | Comment vas-tu ? / Comment ça va ? / Ça va ? | Hola, Ana, [¿cómo estás]? | Salut Ana, comment vas-tu ? | Pour vouvoyer : *¿Cómo está?*, *¿Cómo le va?*
+A1 | latam | ¿Qué tal? | Ça va ? / Comment ça va ? | Hola, Pedro, [¿qué tal]? | Salut Pedro, ça va ? |
+A1 | latam | Bien, ¿y vos? / Bien, ¿y tú? | Bien, et toi ? / Ça va, et toi ? | —¿Cómo estás? —[Bien, ¿y vos]? | — Comment ça va ? — Bien, et toi ? | *¿Y vos?* en Argentine, *¿y tú?* ailleurs, *¿y usted?* pour vouvoyer.
+A1 | latam | Más o menos | Couci-couça / Comme ci comme ça / Bof | —¿Cómo te fue en el examen? —[Más o menos]. | — Comment s'est passé ton examen ? — Couci-couça. |
+A1 | latam | Mucho gusto / Un gusto | Enchanté / Enchantée | Me llamo Mateo, [mucho gusto]. | Je m'appelle Mateo, enchanté. | Réponse habituelle : *igualmente* ou *el gusto es mío*.
+A1 | latam | Igualmente | De même / Moi aussi / Pareillement | —Mucho gusto. —[Igualmente]. | — Enchanté. — Moi de même. | Répond aussi à un souhait : *—¡Buen fin de semana! —Igualmente.*
+A1 | latam | El gusto es mío | Tout le plaisir est pour moi | —Encantada de conocerte. —[El gusto es mío]. | — Ravie de te connaître. — Tout le plaisir est pour moi. |
+A1 | latam | Por favor | S'il te plaît / S'il vous plaît | Un café con leche, [por favor]. | Un café au lait, s'il vous plaît. |
+A1 | latam | Muchas gracias / Mil gracias | Merci beaucoup / Mille mercis | [Muchas gracias] por todo. | Merci beaucoup pour tout. |
+A1 | latam | De nada / Por nada | De rien / Je t'en prie / Il n'y a pas de quoi | —Gracias. —[De nada]. | — Merci. — De rien. | *Por nada* est très fréquent en Argentine.
+A1 | latam | Disculpe / Disculpá | Excusez-moi / Excuse-moi | [Disculpe], ¿dónde queda el baño? | Excusez-moi, où sont les toilettes ? | *Disculpe* vouvoie (usted), *disculpá* tutoie avec *vos*.
+A1 | latam | Permiso / Con permiso | Pardon / Excusez-moi / Je peux passer ? | [Permiso], ¿puedo pasar? | Pardon, je peux passer ? | Pour passer devant quelqu'un, entrer dans une pièce ou quitter la table.
+A1 | latam | Lo siento mucho | Je suis vraiment désolé / Je suis désolé | [Lo siento mucho], no sabía. | Je suis vraiment désolé, je ne savais pas. |
+A1 | latam | ¡Buen provecho! | Bon appétit ! | La comida está servida: [¡buen provecho]! | Le repas est servi : bon appétit ! |
+A1 | latam | ¡Salud! | Santé ! / À tes souhaits ! | Levantemos las copas: [¡salud]! | Levons nos verres : santé ! | Se dit aussi quand quelqu'un éternue.
+A1 | latam | ¡Feliz cumpleaños! | Joyeux anniversaire ! / Bon anniversaire ! | [¡Feliz cumpleaños], abuela! | Joyeux anniversaire, mamie ! |
+A1 | latam | ¡Que te vaya bien! | Bonne continuation ! / Bonne journée ! / Que tout aille bien ! | Chau, Lucía, [¡que te vaya bien]! | Au revoir Lucía, bonne continuation ! |
+A1 | latam | Nos vemos | À plus / On se voit / À bientôt | [Nos vemos] mañana en la facultad. | On se voit demain à la fac. |
+A1 | latam | Hasta luego / Hasta pronto | À plus tard / À bientôt | Me voy, [hasta luego]. | Je m'en vais, à plus tard. |
+A1 | latam | Chau | Salut / Ciao / Au revoir | Bueno, [chau], te llamo a la noche. | Bon, salut, je t'appelle ce soir. | En Argentine on l'écrit *chau* ; ailleurs souvent *chao*.
+A1 | latam | ¡Bienvenidos! | Bienvenue ! | [¡Bienvenidos] a Salta! | Bienvenue à Salta ! |
+
+## presentarse | Se présenter et se faire comprendre | Parler de soi et demander de l'aide quand on ne comprend pas.
+A1 | latam | Me llamo | Je m'appelle | [Me llamo] Mateo y soy francés. | Je m'appelle Mateo et je suis français. |
+A1 | latam | ¿Cómo te llamás? / ¿Cómo te llamas? | Comment tu t'appelles ? / Comment t'appelles-tu ? | Hola, [¿cómo te llamás]? | Salut, comment tu t'appelles ? | *Llamás* avec *vos* (Argentine), *llamas* avec *tú*.
+A1 | latam | ¿De dónde sos? / ¿De dónde eres? | D'où viens-tu ? / Tu viens d'où ? / D'où es-tu ? | —[¿De dónde sos]? —Soy de Lyon. | — Tu viens d'où ? — Je suis de Lyon. |
+A1 | latam | Soy de Francia | Je suis de France / Je viens de France | [Soy de Francia], pero vivo en Salta. | Je viens de France, mais je vis à Salta. |
+A1 | latam | ¿Cuántos años tenés? / ¿Cuántos años tienes? | Quel âge as-tu ? / Tu as quel âge ? | Perdón, [¿cuántos años tenés]? | Pardon, quel âge as-tu ? |
+A1 | latam | ¿A qué te dedicás? / ¿A qué te dedicas? | Qu'est-ce que tu fais dans la vie ? / Tu fais quoi dans la vie ? | Y vos, [¿a qué te dedicás]? | Et toi, qu'est-ce que tu fais dans la vie ? |
+A1 | latam | Trabajo de | Je travaille comme | [Trabajo de] enfermero en un hospital. | Je travaille comme infirmier dans un hôpital. |
+A1 | latam | Estoy aprendiendo español | J'apprends l'espagnol / Je suis en train d'apprendre l'espagnol | [Estoy aprendiendo español] desde hace seis meses. | J'apprends l'espagnol depuis six mois. |
+A1 | latam | Hablo un poco de español | Je parle un peu espagnol / Je parle un peu l'espagnol | [Hablo un poco de español], pero entiendo bastante. | Je parle un peu espagnol, mais je comprends pas mal. |
+A1 | latam | No entiendo | Je ne comprends pas | Perdón, [no entiendo]. | Pardon, je ne comprends pas. |
+A1 | latam | ¿Podés repetir? / ¿Puedes repetir? | Tu peux répéter ? / Peux-tu répéter ? | No escuché bien, [¿podés repetir]? | Je n'ai pas bien entendu, tu peux répéter ? |
+A1 | latam | Más despacio, por favor | Plus lentement, s'il vous plaît / Moins vite, s'il te plaît | [Más despacio, por favor], soy extranjero. | Plus lentement, s'il vous plaît, je suis étranger. |
+A1 | latam | ¿Cómo se dice? | Comment on dit ? / Comment dit-on ? | [¿Cómo se dice] « fromage » en español? | Comment on dit « fromage » en espagnol ? |
+A1 | latam | ¿Qué significa? / ¿Qué quiere decir? | Qu'est-ce que ça veut dire ? / Que signifie ? | [¿Qué significa] « chango »? | Qu'est-ce que ça veut dire, « chango » ? |
+A1 | latam | No sé | Je ne sais pas | [No sé] dónde está la parada. | Je ne sais pas où est l'arrêt. |
+A1 | latam | Ni idea | Aucune idée / Je n'en ai aucune idée | —¿A qué hora abre? —[Ni idea]. | — Ça ouvre à quelle heure ? — Aucune idée. |
+A2 | latam | Ya entendí | J'ai compris / Ça y est, j'ai compris | Ah, [ya entendí], gracias. | Ah, j'ai compris, merci. |
+A2 | latam | O sea | C'est-à-dire / Autrement dit / Donc | Llego el lunes, [o sea], en tres días. | J'arrive lundi, c'est-à-dire dans trois jours. | Tic de langage omniprésent, comme « en fait » ou « genre ».
+A2 | latam | ¿Cómo se escribe? | Comment ça s'écrit ? | [¿Cómo se escribe] tu apellido? | Comment s'écrit ton nom de famille ? |
+
+## compras | Au restaurant et dans les boutiques | Commander, payer, marchander.
+A1 | latam | La cuenta, por favor | L'addition, s'il vous plaît | Mozo, [la cuenta, por favor]. | Serveur, l'addition, s'il vous plaît. | En Argentine, le serveur est le *mozo*.
+A1 | latam | ¿Me trae la carta? | Vous pouvez m'apporter la carte ? / La carte, s'il vous plaît | Buenas noches, [¿me trae la carta]? | Bonsoir, vous pouvez m'apporter la carte ? |
+A1 | latam | ¿Qué me recomienda? | Qu'est-ce que vous me conseillez ? / Que me recommandez-vous ? | Es mi primera vez acá, [¿qué me recomienda]? | C'est ma première fois ici, qu'est-ce que vous me conseillez ? |
+A1 | latam | Para mí | Pour moi | [Para mí], una milanesa con puré. | Pour moi, une escalope panée avec de la purée. |
+A1 | latam | Quisiera | Je voudrais / J'aimerais | [Quisiera] un jugo de naranja. | Je voudrais un jus d'orange. |
+A1 | latam | ¡Qué rico! | Que c'est bon ! / C'est délicieux ! | [¡Qué rico] está este locro! | Qu'il est bon, ce locro ! |
+A1 | latam | ¿Cuánto cuesta? / ¿Cuánto sale? | Combien ça coûte ? / Ça coûte combien ? / C'est combien ? | [¿Cuánto cuesta] este poncho? | Combien coûte ce poncho ? | *¿Cuánto sale?* est très argentin.
+A1 | latam | Está muy caro | C'est très cher / C'est trop cher | Me gusta, pero [está muy caro]. | Il me plaît, mais il est trop cher. |
+A2 | latam | ¿Se puede pagar con tarjeta? | On peut payer par carte ? / Est-ce qu'on peut payer par carte ? | [¿Se puede pagar con tarjeta] o solo en efectivo? | On peut payer par carte ou seulement en espèces ? |
+A2 | latam | ¿Me hace un descuento? | Vous me faites une réduction ? / Vous me faites un prix ? | Si llevo dos, [¿me hace un descuento]? | Si j'en prends deux, vous me faites un prix ? |
+A2 | latam | ¿Tiene cambio? | Vous avez de la monnaie ? | Solo tengo un billete grande, [¿tiene cambio]? | Je n'ai qu'un gros billet, vous avez de la monnaie ? |
+A2 | latam | Me lo llevo | Je le prends | Está perfecto, [me lo llevo]. | Il est parfait, je le prends. |
+A2 | latam | Para llevar | À emporter | Dos empanadas [para llevar], por favor. | Deux empanadas à emporter, s'il vous plaît. | Sur place : *para comer acá*.
+A2 | latam | ¿Está incluida la propina? | Le pourboire est compris ? / Le service est compris ? | Disculpe, [¿está incluida la propina]? | Excusez-moi, le pourboire est compris ? |
+A2 | latam | Estar a dieta | Être au régime | No como postre, [estoy a dieta]. | Je ne prends pas de dessert, je suis au régime. |
+
+## moverse | Se déplacer et se soigner | Demander son chemin, prendre le car, dire qu'on a mal.
+A1 | latam | ¿Dónde queda? | Où se trouve ? / C'est où ? | [¿Dónde queda] la terminal de ómnibus? | Où se trouve la gare routière ? | *Quedar* = se trouver, très latino-américain.
+A1 | latam | ¿Cómo llego? | Comment j'y vais ? / Comment j'arrive là-bas ? | Quiero ir al mercado, [¿cómo llego]? | Je veux aller au marché, comment j'y vais ? |
+A1 | latam | Seguí derecho / Siga derecho | Continue tout droit / Continuez tout droit | [Seguí derecho] dos cuadras. | Continue tout droit sur deux rues. | *Seguí* (vos), *siga* (usted).
+A1 | latam | Doblá a la derecha | Tourne à droite | En la esquina, [doblá a la derecha]. | Au coin, tourne à droite. | *Doblar* = tourner, à pied ou en voiture.
+A1 | latam | A dos cuadras | À deux rues d'ici / À deux pâtés de maisons | La farmacia está [a dos cuadras]. | La pharmacie est à deux rues d'ici. | La *cuadra* (pâté de maisons, environ 100 m) est l'unité de distance en ville.
+A1 | latam | ¿Está lejos? | C'est loin ? | [¿Está lejos] el centro? | Le centre, c'est loin ? |
+A2 | latam | ¿A qué hora sale el micro? | À quelle heure part le car ? / À quelle heure part le bus ? | [¿A qué hora sale el micro] a Cafayate? | À quelle heure part le car pour Cafayate ? | *Micro* = car longue distance en Argentine ; *colectivo* = bus de ville.
+A2 | latam | Un pasaje a Salta | Un billet pour Salta | [Un pasaje a Salta], por favor, para mañana. | Un billet pour Salta, s'il vous plaît, pour demain. |
+A2 | latam | ¿Cuánto se tarda? | Combien de temps ça prend ? / Ça prend combien de temps ? | [¿Cuánto se tarda] en llegar a Cachi? | Combien de temps faut-il pour arriver à Cachi ? |
+A2 | latam | Estoy perdido | Je suis perdu / Je suis perdue | Disculpe, [estoy perdido]: ¿dónde estamos? | Excusez-moi, je suis perdu : où sommes-nous ? | Au féminin : *estoy perdida*.
+A2 | latam | Perdí el colectivo | J'ai raté le bus | [Perdí el colectivo] y llegué tarde. | J'ai raté le bus et je suis arrivé en retard. |
+A2 | latam | Me duele la cabeza | J'ai mal à la tête | [Me duele la cabeza] desde ayer. | J'ai mal à la tête depuis hier. |
+A2 | latam | Me siento mal | Je me sens mal / Je ne me sens pas bien | [Me siento mal], quiero volver al hotel. | Je ne me sens pas bien, je veux rentrer à l'hôtel. |
+A2 | latam | Tengo fiebre | J'ai de la fièvre | [Tengo fiebre] y me duele todo. | J'ai de la fièvre et j'ai mal partout. |
+A2 | latam | Farmacia de turno | Pharmacie de garde | Es domingo: busquemos la [farmacia de turno]. | C'est dimanche : cherchons la pharmacie de garde. |
+A2 | latam | ¡Auxilio! / ¡Socorro! | Au secours ! / À l'aide ! | [¡Auxilio]! ¡Llamen a una ambulancia! | Au secours ! Appelez une ambulance ! |
+A2 | latam | ¡Cuidado! | Attention ! / Fais attention ! | [¡Cuidado], que viene un auto! | Attention, une voiture arrive ! |

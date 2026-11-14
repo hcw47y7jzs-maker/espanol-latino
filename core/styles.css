@@ -351,3 +351,33 @@ mark { background: #FFD97A; color: inherit; border-radius: 3px; padding: 0 1px; 
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }
+
+/* ---------- Expressions ---------- */
+.expr { padding: 16px 0 18px; border-bottom: 1px solid var(--line); }
+.expr-head { display: flex; align-items: center; gap: 4px; }
+.expr-es { font: 600 1.35rem/1.3 var(--serif); }
+.expr-fr { margin: 2px 0 8px; font-size: 1.05rem; }
+.expr-tags { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 0 0 10px; }
+.reg-chip { font-size: 0.78rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--sky); color: var(--ink-soft); }
+.reg-noa { background: #FBE4E0; color: #8F1F28; }
+.reg-ar { background: #E1EEFA; color: #1F5A8C; }
+.expr-group-link { font-size: 0.88rem; color: var(--band); font-weight: 700; }
+.expr-ex { border-left: 3px solid #E8C27A; padding: 2px 0 2px 12px; }
+.expr-ex-es { font: 1.12rem/1.45 var(--serif); margin: 0; }
+.expr-ex-es b { color: var(--band); font-weight: 700; }
+.expr-ex-es .icon-btn { vertical-align: middle; }
+.expr-ex-fr { color: var(--ink-soft); margin: 2px 0 0; }
+.expr-note { font-size: 0.95rem; color: var(--ink-soft); margin: 10px 0 0; }
+.expr-note i, .expr-fr i { font-family: var(--serif); }
+.group-meta { display: flex; gap: 4px; align-items: center; margin-bottom: 4px; }
+.group-card .lot-title { line-height: 1.25; }
+.half-count { font: 500 0.95rem var(--sans); color: var(--ink-soft); }
+.expr-card-word { font-size: 1.8rem; line-height: 1.25; }
+.card .reg-chip { display: inline-block; margin-top: 8px; }
+.answer.area { min-height: 104px; resize: vertical; font: 500 1.15rem/1.4 var(--sans); }
+.self-ref { display: flex; flex-direction: column; gap: 2px; background: var(--sky); border-radius: 14px; padding: 12px 14px; margin: 14px 0 6px; }
+.self-text { font-size: 1.12rem; }
+.small-btn { min-height: 36px; padding: 4px 0; align-self: flex-start; }
+.expr-screen .card { flex-wrap: wrap; }
+.expr-screen .card { position: relative; }
+.expr-screen .card .reg-chip { position: absolute; top: 14px; right: 16px; margin: 0; }

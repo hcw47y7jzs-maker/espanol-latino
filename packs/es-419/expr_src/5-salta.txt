@@ -1,0 +1,117 @@
+# Expressions : Salta et le Nord-Ouest argentin
+# Sources principales : José Vicente Solá, Diccionario de regionalismos de Salta ; Fernando Figueroa, Salteñismos ;
+# Universidad Nacional de Jujuy, Registro de voces kechuwas vigentes en el discurso coloquial norteño ;
+# A. M. Fernández Lávaque (UNSa) et G. de Granda sur l'espagnol du Nord-Ouest ; page « Es de salteño ».
+
+## noa-cotidiano | Salta : les mots du quotidien | Les mots qui font reconnaître un salteño au premier « chango ».
+A2 | noa | Chango / Changuito | Garçon / Gamin / Jeune | ¡Ey, [chango], vení para acá! | Hé, petit, viens par ici ! | Le mot du Nord-Ouest pour *pibe*. *Los changos* = les jeunes, la bande.
+A2 | noa | Chinita | Jeune fille / Fille | Las [chinitas] bailaban la zamba en la plaza. | Les jeunes filles dansaient la zamba sur la place. | Affectueux dans le Nord ; *china* seul peut sonner vieilli ou péjoratif.
+A2 | noa | Guagua | Bébé / Nourrisson | La [guagua] está durmiendo. | Le bébé dort. | Du quechua *wawa*. Nord-Ouest, Andes et Chili (à Cuba, *guagua* = bus).
+A2 | noa | Churo | Chouette / Joli / Agréable | ¡Qué [churo] está el día! | Qu'il fait beau aujourd'hui ! | Aussi à Tucumán et Jujuy.
+A2 | noa | ¡Chuy! | Brr ! / Qu'il fait froid ! | [¡Chuy], qué frío hace! | Brr, qu'il fait froid ! |
+A2 | noa | ¡Tuy! | Aïe, ça brûle ! / Ouille ! | [¡Tuy]! Está caliente la olla. | Ouille ! La casserole est brûlante. | Quand on se brûle.
+A2 | noa | ¡Meta! | Vas-y ! / Allez ! / D'accord ! | —¿Vamos a la peña? —[¡Meta]! | — On va à la peña ? — Allez ! | Équivalent salteño et jujeño de *dale*.
+A2 | noa | Pue / Pué | Donc / Eh bien / Quoi | Vamos, [pue], que se hace tarde. | Allez, quoi, il se fait tard. | Prononciation salteña de *pues*, en fin de phrase.
+A2 | noa | Nomás | Donc / Je t'en prie / Simplement | Pasá [nomás], está abierto. | Entre donc, c'est ouvert. | Adoucit une invitation : *sentate nomás*, *servite nomás*. Aussi au Mexique et dans les Andes.
+A2 | noa | Yapa / Yapita | Petit supplément / Rab offert | ¿Me da una [yapita], doña? | Vous m'en mettez un petit peu en plus, madame ? | Du quechua *yapa*. Au marché, le vendeur ajoute la *yapa*.
+B1 | noa | Opa | Idiot / Simplet / Benêt | No seas [opa], mirá bien. | Ne sois pas bête, regarde bien. | Moqueur, parfois affectueux. Du quechua.
+B1 | noa | Tata | Papa / Monsieur | Mi [tata] vive en el cerro. | Mon papa vit dans la montagne. | Aussi titre de respect pour un homme âgé.
+B1 | noa | Haragán | Raclette à sol / Raclette | Traeme el [haragán] para secar el piso. | Apporte-moi la raclette pour sécher le sol. | En espagnol standard, *haragán* = fainéant.
+B1 | noa | A cococho | Sur le dos / À califourchon | Vení, te llevo [a cococho]. | Viens, je te porte sur mon dos. |
+B1 | noa | Tranca balanca | Bascule / Tape-cul | Los chicos juegan en la [tranca balanca]. | Les enfants jouent sur la bascule. | Ailleurs en Argentine : *sube y baja*.
+B1 | noa | Resbaladero | Toboggan | El nene se tira por el [resbaladero]. | Le petit descend le toboggan. | Ailleurs en Argentine : *tobogán*.
+B1 | noa | Changa | Petit boulot / Job occasionnel | Hago [changas] de albañil los sábados. | Je fais des petits boulots de maçon le samedi. | Courant dans toute l'Argentine.
+B1 | noa | Estar suri | Être fauché / Être sans le sou | Esta semana [estoy suri]. | Cette semaine, je suis fauché. | Le *suri* est le nandou, l'« autruche » des Andes.
+B1 | noa | Retobado | Têtu / Rebelle / Grincheux | Está [retobado] hoy, no le hables. | Il est grincheux aujourd'hui, ne lui parle pas. | Se dit des chevaux et des personnes.
+B1 | noa | Enculado | Fâché / Vexé / En froid | Está [enculado] conmigo desde la fiesta. | Il est fâché contre moi depuis la fête. | Sens régional : fâché. ⚠ Ailleurs, le mot est vulgaire.
+B2 | noa | Ni aca | Rien du tout / Que dalle | No tengo [ni aca] de plata. | Je n'ai pas un sou. | *Estar hecho aca* = être en piteux état. Très familier : *aca* désigne à l'origine les excréments.
+B2 | noa | Chato | Petit (de taille) / Courtaud | Le dicen [Chato] porque es bajito. | On l'appelle « Chato » parce qu'il est petit. | Surnom affectueux.
+B2 | noa | Cuzco | Petit chien / Roquet | Ese [cuzco] ladra toda la noche. | Ce roquet aboie toute la nuit. | Courant dans toute l'Argentine.
+B2 | noa | Guarango | Grossier / Malpoli | No seas [guarango], saludá. | Ne sois pas malpoli, dis bonjour. | Du quechua.
+B2 | noa | Gualicho | Sort / Maléfice / Philtre | Parece que le hicieron un [gualicho]. | On dirait qu'on lui a jeté un sort. | Souvent amoureux. *Engualichado* = ensorcelé.
+B2 | noa | Agatas | À peine / De justesse | [Agatas] llegué al micro. | J'ai attrapé le car de justesse. | Forme rurale de *a gatas*.
+B2 | noa | Pichana | Balai de branches / Balai rustique | Barrió el patio con la [pichana]. | Il a balayé la cour avec le balai de branches. |
+B2 | noa | ¡Upa! | Dans les bras ! / Porte-moi ! | El nene levanta los brazos: [¡upa]! | Le petit lève les bras : porte-moi ! | Ce que disent les enfants pour être portés ; *a upa* = dans les bras. Courant dans toute l'Argentine.
+
+## noa-expresiones | Salta : tournures de la région | Ce qu'on entend dans la rue, au marché, à la campagne.
+B1 | noa | ¿Cómo andás, chango? | Comment ça va, mon grand ? / Ça va, petit ? | ¡Eh, [¿cómo andás, chango]? | Hé, comment ça va, mon grand ? | Salutation amicale typique du Nord.
+B1 | noa | Andá nomás | Vas-y donc / Vas-y, pas de souci | [Andá nomás], yo me quedo con la guagua. | Vas-y, pas de souci, je reste avec le bébé. |
+B1 | noa | Un ratito nomás | Juste un petit moment / Une petite minute | Esperame [un ratito nomás]. | Attends-moi juste une petite minute. | Les diminutifs (*ratito*, *ahicito*, *yapita*) sont partout dans le parler salteño.
+B1 | noa | Ahicito | Juste là / Tout près | La parada está [ahicito], a la vuelta. | L'arrêt est juste là, au coin de la rue. |
+B1 | noa | Con permisito | Pardon, je passe / Excusez-moi | [Con permisito], doña. | Pardon, madame, je passe. | Diminutif de politesse typique du Nord et des Andes.
+B1 | noa | Dejá de hincha, pue | Arrête de m'embêter, enfin / Arrête de m'énerver | [Dejá de hincha, pue], ya te dije que no. | Arrête de m'embêter, enfin, je t'ai déjà dit non. | Forme orale de *dejá de hinchar*.
+B2 | noa | ¿Y dea? | Et alors ? / Et après ? | —Llegaste tarde. —[¿Y dea]? | — Tu es arrivé en retard. — Et alors ? | Forme orale de *¿y de ahí?*, un peu provocante.
+B2 | noa | Ya ta | C'est bon / Ça y est / Voilà | [Ya ta], listo, vamos. | C'est bon, c'est prêt, on y va. | Forme orale de *ya está*.
+B2 | noa | Vamo pa' ya | Allons par là / On y va | [Vamo pa' ya], que acá hace frío. | Allons par là, il fait froid ici. | *Pa' ya* = *para allá*.
+B2 | noa | Toy cansao | Je suis crevé / Je suis fatigué | Hoy no salgo, [toy cansao]. | Aujourd'hui je ne sors pas, je suis crevé. | Contractions orales : *estoy → toy*, *-ado → -ao*.
+B2 | noa | Ta jodida la calor | Il fait une chaleur terrible / Il fait vachement chaud | Vamos al río, [ta jodida la calor]. | Allons à la rivière, il fait une chaleur terrible. | ⚠ Familier. Dans le Nord, on dit souvent *la calor*, au féminin (archaïsme).
+B2 | noa | Estar como opa en sulky | Être aux anges / Être content comme un gamin | Con su moto nueva [está como opa en sulky]. | Avec sa nouvelle moto, il est aux anges. | Le *sulky* est une petite carriole à cheval.
+B2 | noa | Cortito como pata e' cuchi | Tout petit / Très court | El pantalón le quedó [cortito como pata e' cuchi]. | Son pantalon est beaucoup trop court. | *Cuchi* = cochon.
+B2 | noa | Preparar el avío | Préparer le casse-croûte / Préparer les provisions | [Prepará el avío], que salimos temprano al cerro. | Prépare le casse-croûte, on part tôt dans la montagne. |
+B2 | noa | Ser mate trancao | Être lent à comprendre / Avoir l'esprit lent | No seas [mate trancao], pue. | Ne sois pas si lent à piger, quoi. | Mot à mot : « maté bouché », qui ne laisse rien passer.
+C1 | noa | Caer a la huella | Comprendre enfin / Se rendre compte | Recién ahora [cayó a la huella]. | C'est seulement maintenant qu'il a compris. | Expression criolla, proche de *caer la ficha*.
+C1 | noa | Asinita nomás | Comme ça, tout simplement | Hacelo [asinita nomás]. | Fais-le comme ça, tout simplement. | Forme rurale de *así*, avec diminutif.
+
+## noa-fiesta | Salta : fêtes, folklore et Pachamama | Peñas, carnaval, montagne : le vocabulaire de la culture du Nord.
+B1 | noa | Una peña | Une soirée folklorique | Esta noche vamos a [una peña] en la calle Balcarce. | Ce soir on va à une soirée folklorique dans la rue Balcarce. | Musique, danses, empanadas et vin. La rue Balcarce, à Salta, est celle des peñas.
+B1 | noa | Bailar una zamba | Danser une zamba | En la peña, Mateo aprendió a [bailar una zamba]. | À la peña, Mateo a appris à danser une zamba. | Danse lente avec un mouchoir, emblématique de Salta.
+B1 | noa | Una chacarera | Une chacarera / Une danse folklorique vive | Tocaron [una chacarera] y todos se pararon a bailar. | Ils ont joué une chacarera et tout le monde s'est levé pour danser. | Très populaire à Santiago del Estero et à Salta.
+B1 | noa | La Fiesta del Milagro | La fête du Miracle | En septiembre se celebra [la Fiesta del Milagro]. | En septembre, on célèbre la fête du Miracle. | Grande procession à Salta, mi-septembre, en l'honneur du Señor et de la Virgen del Milagro.
+B1 | noa | Salta la Linda | Salta la belle | Bienvenidos a [Salta la Linda]. | Bienvenue à Salta la belle. | Surnom de la ville.
+B1 | noa | Los gauchos de Güemes | Les gauchos de Güemes / Les cavaliers de Güemes | El 17 de junio desfilan [los gauchos de Güemes]. | Le 17 juin, les gauchos de Güemes défilent. | En hommage à Martín Miguel de Güemes, héros salteño de l'indépendance ; poncho rouge et noir.
+B2 | noa | Carpear | Aller danser au carnaval / Aller aux bals du carnaval | En febrero nos vamos a [carpear]. | En février, on va danser aux bals du carnaval. | La *carpa* est la tente où l'on danse au carnaval.
+B2 | noa | Cacharpaya | Fête d'adieu / Fête de fin de carnaval | Mañana es la [cacharpaya] del carnaval. | Demain, c'est la fête d'adieu du carnaval. | On « enterre » le carnaval jusqu'à l'année suivante.
+B2 | noa | Una amanecida | Une nuit blanche / Une fête jusqu'à l'aube | Hicimos [una amanecida] en la peña. | On a fait la fête jusqu'à l'aube à la peña. |
+B2 | noa | Cantar coplas con la caja | Chanter des coplas au tambour | En carnaval [cantan coplas con la caja]. | Au carnaval, on chante des coplas au tambour. | La *copla* est un quatrain chanté ; la *caja* un tambour andin.
+B2 | noa | La Pachamama | La Terre-Mère | En agosto le hacemos una ofrenda a [la Pachamama]. | En août, nous faisons une offrande à la Terre-Mère. | Divinité andine ; le 1er août, on lui « donne à manger ».
+B2 | noa | Corpachar | Faire une offrande à la Terre-Mère | Vamos a [corpachar] la tierra con chicha y coca. | Nous allons faire une offrande à la terre avec de la chicha et de la coca. | Du quechua.
+B2 | noa | Coquear | Mâcher de la coca | Los mineros [coquean] para aguantar la altura. | Les mineurs mâchent de la coca pour supporter l'altitude. | Pratique traditionnelle et légale dans le Nord ; on dit aussi *acullicar*.
+B2 | noa | Me dio soroche | J'ai eu le mal de l'altitude / J'ai le mal des montagnes | En la puna [me dio soroche]. | Sur la puna, j'ai eu le mal de l'altitude. | Du quechua. Le *té de coca* aide.
+B2 | noa | La puna | Le haut plateau andin / L'altiplano | Viajamos en tren hasta [la puna]. | Nous avons voyagé en train jusqu'au haut plateau. |
+B2 | noa | La quebrada | La gorge / La vallée encaissée | Bajamos por [la quebrada] de Humahuaca. | Nous sommes descendus par la vallée de Humahuaca. |
+B2 | noa | El cerro | La montagne / La colline | Subimos al [cerro] San Bernardo. | Nous sommes montés sur la colline San Bernardo. | En Argentine, *cerro* désigne tout relief, de la colline au sommet de 6 000 m.
+C1 | noa | En tiempos de ñaupa | Autrefois / Dans le temps / Au temps jadis | [En tiempos de ñaupa] no había luz en el pueblo. | Autrefois, il n'y avait pas d'électricité au village. | Du quechua *ñawpa*, « ancien ».
+C1 | noa | Abajeño | Habitant des basses terres / Gens d'en bas | Los [abajeños] no aguantan el frío de la puna. | Les gens d'en bas ne supportent pas le froid de la puna. | En face : *puneño*, *arribeño*.
+
+## noa-mesa | Salta : à table | Les plats et boissons du Nord, et comment les commander.
+A2 | noa | Empanadas salteñas | Empanadas de Salta / Chaussons de Salta | Una docena de [empanadas salteñas], por favor. | Une douzaine d'empanadas de Salta, s'il vous plaît. | Viande coupée au couteau, pomme de terre, œuf, oignon ; très juteuses. On les mange penché en avant !
+A2 | noa | Un locro | Un ragoût de maïs / Un locro | El 25 de mayo comemos [un locro]. | Le 25 mai, on mange un ragoût de maïs. | Maïs blanc, haricots, courge et viandes. Plat des fêtes nationales.
+A2 | noa | Humita en chala | Purée de maïs cuite dans sa feuille | Compré [humita en chala] en el mercado. | J'ai acheté de la purée de maïs cuite dans sa feuille au marché. | La *chala* est la feuille de l'épi de maïs.
+A2 | noa | Tamales | Papillotes de maïs farcies / Tamales | Los domingos la abuela hace [tamales]. | Le dimanche, mamie fait des tamales. | Pâte de maïs farcie de viande, cuite dans la *chala*.
+A2 | noa | Quesillo con cayote | Fromage frais à la confiture de courge | De postre, [quesillo con cayote]. | En dessert, du fromage frais à la confiture de courge. | Dessert typique des vallées ; aussi *quesillo con miel de caña*.
+A2 | noa | Cabrito al horno | Chevreau au four | El domingo hay [cabrito al horno]. | Dimanche, il y a du chevreau au four. |
+B1 | noa | Charqui | Viande séchée | Llevamos [charqui] para el viaje. | Nous emportons de la viande séchée pour le voyage. | Du quechua *ch'arki* (d'où l'anglais *jerky*).
+B1 | noa | Chicha | Bière de maïs / Boisson de maïs fermentée | En carnaval se toma [chicha]. | Au carnaval, on boit de la bière de maïs. |
+B1 | noa | Api | Boisson chaude de maïs violet | De mañana tomamos [api] calentito. | Le matin, on boit une boisson chaude de maïs violet. | Plus courant dans la puna et en Bolivie.
+B1 | noa | Un torrontés | Un torrontés / Un vin blanc de Cafayate | Probamos [un torrontés] en Cafayate. | Nous avons goûté un torrontés à Cafayate. | Cépage blanc emblématique des vignobles d'altitude de Salta.
+B1 | noa | Picante de pollo | Poulet épicé en sauce | Hoy hay [picante de pollo] con arroz. | Aujourd'hui, il y a du poulet épicé en sauce avec du riz. | Plat de fête du Nord, rouge de piment.
+B1 | noa | Chancaca | Sucre de canne brut | Endulzó el té con [chancaca]. | Elle a sucré le thé avec du sucre de canne brut. |
+B1 | noa | Té de coca | Infusion de coca / Thé de coca | Tomá un [té de coca] para la altura. | Bois une infusion de coca contre l'altitude. |
+B1 | noa | Anchi | Dessert de semoule de maïs au citron | De postre hay [anchi]. | En dessert, il y a de l'anchi. | Dessert typique de Salta, servi frais.
+
+## noa-quechua | Le quechua dans l'espagnol d'Argentine | Des mots de tous les jours venus de la langue des Incas.
+C1 | ar | Cancha | Terrain de sport / Stade | Vamos a la [cancha] el domingo. | On va au stade dimanche. | Du quechua *kancha*, « enclos ». *Tener cancha* = avoir de l'expérience.
+C1 | ar | Pucho | Clope / Mégot | Salí a fumar un [pucho]. | Je suis sorti fumer une clope. | Du quechua *puchu*, « reste ».
+C1 | ar | Choclo | Épi de maïs / Maïs frais | Compramos [choclo] para la humita. | Nous avons acheté du maïs frais pour l'humita. | Au Mexique : *elote*.
+C1 | ar | Palta | Avocat (fruit) | Un tostado con [palta], por favor. | Un toast à l'avocat, s'il vous plaît. | Ailleurs : *aguacate*.
+C1 | ar | Zapallo | Potiron / Courge | Hice una sopa de [zapallo]. | J'ai fait une soupe de potiron. |
+C1 | ar | Poroto | Haricot | El locro lleva [porotos]. | Le locro contient des haricots. | Ailleurs : *frijol*, *judía*.
+C1 | ar | Ojotas | Tongs / Sandales | En verano ando en [ojotas]. | En été, je me balade en tongs. | Du quechua *usuta*, sandale.
+C1 | ar | Vincha | Bandeau / Serre-tête | Se puso una [vincha] para correr. | Elle a mis un bandeau pour courir. |
+C1 | ar | Pupo | Nombril | El bebé tiene el [pupo] para afuera. | Le bébé a le nombril qui ressort. |
+C1 | ar | Ñato | Au nez retroussé / Au petit nez | Es [ñato] como su papá. | Il a le nez retroussé comme son père. |
+C2 | ar | Chúcaro | Sauvage / Farouche / Indompté | Ese caballo es muy [chúcaro]. | Ce cheval est très sauvage. | Se dit aussi d'une personne timide ou peu sociable.
+C2 | ar | Achuras | Abats (grillés) | En el asado no pueden faltar las [achuras]. | Au barbecue, il faut absolument des abats. | Chinchulines, mollejas, riñones…
+C2 | ar | Guacho | Orphelin / Petit d'animal sans mère | Criamos un ternero [guacho]. | Nous avons élevé un veau orphelin. | ⚠ Comme insulte (« salaud »), le mot est très offensant.
+C2 | ar | Pampa | Plaine / Pampa | Cruzamos la [pampa] en auto. | Nous avons traversé la plaine en voiture. |
+C2 | ar | Carpa | Tente | Armamos la [carpa] junto al río. | Nous avons monté la tente au bord de la rivière. | Ailleurs : *tienda de campaña*.
+
+## noa-gramatica | Salta : comprendre le parler du Nord | Tournures andines entendues à Salta, surtout à la campagne : à reconnaître, pas forcément à imiter.
+C2 | noa | Llovió, dice | Il paraît qu'il a plu / Il a plu, à ce qu'on dit | En Cachi [llovió, dice]. | À Cachi, il paraît qu'il a plu. | *Dice* en fin de phrase signale une information rapportée, qu'on n'a pas vue soi-même (influence du quechua).
+C2 | noa | En aquí | Ici / Ici même | Estoy [en aquí] desde ayer. | Je suis ici depuis hier. | Calque du locatif quechua *-pi*. Standard : *aquí*, *acá*.
+C2 | noa | Nadie no vino | Personne n'est venu | Ayer [nadie no vino] a la feria. | Hier, personne n'est venu au marché. | Double négation de l'oral populaire. Standard : *nadie vino*.
+C2 | noa | Lo vi a las chicas | Je les ai vues, les filles | [Lo vi a las chicas] en la plaza. | Je les ai vues, les filles, sur la place. | *Lo* invariable de l'oral du Nord. Standard : *las vi*.
+C2 | noa | De mi tata su hermano | Le frère de mon père | Vino [de mi tata su hermano]. | Le frère de mon père est venu. | Double possessif andin. Standard : *el hermano de mi papá*.
+C2 | noa | Esta mi casa | Ma maison / Ma maison que voici | [Esta mi casa] es chiquita. | Ma maison est toute petite. | Démonstratif + possessif, tournure andine.
+C2 | noa | Me vine pensando | J'ai pensé tout le long du chemin / En venant, je pensais | [Me vine pensando] en vos. | J'ai pensé à toi tout le long du chemin. | Gérondif de durée typique du Nord.
+C2 | noa | ¡Había sido! | Mais en fait c'était… ! / Il s'avère que c'était | ¡Hoy [había sido] tu cumpleaños! | Mais c'est ton anniversaire aujourd'hui ! | Plus-que-parfait de découverte : on vient de l'apprendre (Andes et nord de l'Argentine).

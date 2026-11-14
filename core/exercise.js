@@ -6,8 +6,10 @@
 //  W : écrire une traduction               { t:"W", prompt:"voiture", lang:"es", a:["auto"], art:"el", why }
 //      lang = langue de la réponse ; en français, accents et fautes de frappe légères sont tolérés,
 //      en espagnol l'orthographe et le genre (article) sont exigés.
+//  S : traduction libre, auto-évaluée     { t:"S", prompt:"phrase", lang:"fr", ref:"traduction proposée", why }
+//      la personne compare sa traduction à celle proposée et dit si elle était juste.
 
-import { h, es, icon, accentBar, answerInput } from "./ui.js";
+import { h, es, icon, accentBar, answerInput, fill } from "./ui.js";
 import { compare, diffHtml, normalize, shuffle, stripAccents } from "./check.js";
 
 const FR_ARTICLES = ["le", "la", "les", "l'", "un", "une", "des", "se", "s'"];
@@ -35,7 +37,7 @@ function splitArticle(s, list) {
 }
 
 function checkWord(item, answer) {
-  const why = item.why ? `<p>${item.why}</p>` : "";
+  const why = wrapWhy(item.why);
   const u0 = normalize(answer).replace(/[.!?¡¿]/g, "").trim();
   const correct = item.lang === "es" && item.art ? `${item.art} ${item.a[0]}` : item.a[0];
   if (!u0) return { ok: false, correct, html: why };
@@ -47,32 +49,39 @@ function checkWord(item, answer) {
     }
     for (const a of item.a) {
       const [, t] = splitArticle(normalize(a), FR_ARTICLES);
-      if (t.length >= 5 && lev(stripAccents(u), stripAccents(t)) <= 1)
+      const tol = t.length >= 12 ? 2 : t.length >= 5 ? 1 : 0;
+      if (tol && lev(stripAccents(u), stripAccents(t)) <= tol)
         return { ok: true, correct, html: `<p>Accepté, mais l'orthographe exacte est « ${a} ».</p>` };
     }
     return { ok: false, correct, html: `<p>Sens : ${item.a.join(", ")}.</p>${why}` };
   }
   // Réponse en espagnol
   const [art, u] = splitArticle(u0, ES_ARTICLES);
+  const others = item.a.length > 1 ? `<p>Formes acceptées : ${item.a.map((x) => `<i lang="es">${x}</i>`).join(", ")}.</p>` : "";
   for (const a of item.a) {
     const t = normalize(a);
+    const [, bare] = splitArticle(t, ES_ARTICLES);
+    if (u0 === t || (!item.art && u === bare)) return { ok: true, correct, html: others };
     if (u === t) {
       if (art && item.art && art !== item.art)
         return { ok: false, accentOnly: true, correct, html: `<p>Presque : le mot est juste, mais l'article est <b lang="es">${item.art}</b>${item.g === "f" ? " (féminin)" : item.g === "m" ? " (masculin)" : ""}.</p>${why}` };
       return { ok: true, correct, html: "" };
     }
   }
-  for (const a of item.a)
-    if (stripAccents(u) === stripAccents(normalize(a)))
+  for (const a of item.a) {
+    const t = stripAccents(normalize(a));
+    if (stripAccents(u0) === t || stripAccents(u) === t)
       return { ok: false, accentOnly: true, correct, html: `<p>Presque : seul l'accent écrit manque ou est en trop.</p>${why}` };
+  }
   return { ok: false, correct, html: `<p>Attendu : <b lang="es">${diffHtml(u, normalize(item.a[0]))}</b></p>${why}` };
 }
 
+const wrapWhy = (w) => (!w ? "" : w.startsWith("<") ? w : `<p>${w}</p>`);
 const plain = (s) => normalize(s).replace(/[.,;:!?¡¿«»"()]/g, "").replace(/\s+/g, " ").trim();
 
 /** Corrige une réponse. Renvoie { ok, accentOnly, correct, html }. */
 export function check(item, answer, { lessonLink = "" } = {}) {
-  const why = item.why ? `<p>${item.why}</p>` : "";
+  const why = wrapWhy(item.why);
   const link = lessonLink ? `<p>${lessonLink}</p>` : "";
   if (item.t === "T") {
     const cmp = compare(answer, item.a.join("|"));
@@ -170,7 +179,7 @@ export function render(item, opts) {
     submit.addEventListener("click", go);
     input.addEventListener("keydown", (e) => e.key === "Enter" && go());
     add(
-      h("p", { class: "item-context" }, item.lang === "es" ? "Écris en espagnol (avec l'article pour un nom) :" : "Écris en français :"),
+      h("p", { class: "item-context" }, item.context || (item.lang === "es" ? "Écris en espagnol (avec l'article pour un nom) :" : "Écris en français :")),
       h("p", { class: "item-verb" }, h("span", { class: item.lang === "es" ? "big" : "big es", lang: item.lang === "es" ? "fr" : "es" }, item.prompt), item.lang === "fr" && speak ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.prompt) }, icon("speaker")) : null),
       item.hint ? h("p", { class: "small muted" }, item.hint) : null,
       input,
@@ -179,6 +188,39 @@ export function render(item, opts) {
       out
     );
     setTimeout(() => input.focus({ preventScroll: true }), 30);
+    return wrap;
+  }
+
+  if (item.t === "S") {
+    const area = h("textarea", { class: "answer area", rows: 3, lang: item.lang, autocomplete: "off", autocapitalize: "sentences", spellcheck: "true", placeholder: item.lang === "fr" ? "Ta traduction en français" : "Tu traducción" });
+    const reveal = h("button", { class: "btn", type: "button" }, "Voir la traduction proposée");
+    const zone = h("div");
+    reveal.addEventListener("click", () => {
+      if (answered) return;
+      area.readOnly = true;
+      reveal.remove();
+      const grade = (ok) => {
+        if (answered) return;
+        answered = true;
+        fill(zone, h("p", { class: "self-ref" }, h("span", { class: "small muted" }, "Traduction proposée"), h("span", { class: "self-text", lang: item.lang }, item.ref)));
+        onAnswer(area.value, { ok, self: true, correct: item.ref, html: "" }, out);
+      };
+      fill(
+        zone,
+        h("p", { class: "self-ref" }, h("span", { class: "small muted" }, "Traduction proposée"), h("span", { class: "self-text", lang: item.lang }, item.ref)),
+        h("p", { class: "small muted" }, "Le sens est-il le même que dans ta traduction ? Les tournures peuvent différer."),
+        h("div", { class: "actions" }, h("button", { class: "btn secondary", type: "button", onclick: () => grade(false) }, "À revoir"), h("button", { class: "btn", type: "button", onclick: () => grade(true) }, "C'était juste"))
+      );
+    });
+    add(
+      h("p", { class: "item-context" }, item.context || "Traduis la phrase en français :"),
+      h("p", { class: "phrase", lang: "es" }, item.prompt, speak ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.prompt) }, icon("speaker")) : null),
+      area,
+      h("div", { class: "actions" }, reveal),
+      zone,
+      out
+    );
+    setTimeout(() => area.focus({ preventScroll: true }), 30);
     return wrap;
   }
 
@@ -283,7 +325,7 @@ export function feedback(item, res, speak) {
   return h(
     "div",
     { class: `feedback ${res.ok ? "ok" : "ko"}`, role: "status" },
-    h("p", { class: "feedback-title" }, res.ok ? "Correct" : res.accentOnly ? "Presque" : "Pas tout à fait"),
+    h("p", { class: "feedback-title" }, res.self ? (res.ok ? "Bien vu" : "À revoir") : res.ok ? "Correct" : res.accentOnly ? "Presque" : "Pas tout à fait"),
     full
       ? h("p", { class: "feedback-answer" }, es(full, "sentence"), speak ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter la phrase", onclick: () => speak(full) }, icon("speaker")) : null)
       : h("p", { class: "feedback-answer" }, h("b", {}, res.correct)),

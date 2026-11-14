@@ -27,6 +27,7 @@ const MODULES = {
   verbs: () => import("../modules/verbs/index.js"),
   grammar: () => import("../modules/grammar/index.js"),
   vocab: () => import("../modules/vocab/index.js"),
+  expressions: () => import("../modules/expr/index.js"),
 };
 
 async function main() {

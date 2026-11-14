@@ -63,7 +63,7 @@
       "subtitle": "Amérique latine et Salta",
       "color": "#D99A1E",
       "ink": "#1F2347",
-      "ready": false
+      "ready": true
     },
     {
       "id": "pronunciation",
@@ -285,5 +285,8 @@
   },
   "vocab": {
     "data": "vocab.json"
+  },
+  "expressions": {
+    "data": "expressions.json"
   }
 }

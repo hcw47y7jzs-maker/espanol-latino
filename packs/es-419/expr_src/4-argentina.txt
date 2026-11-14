@@ -1,0 +1,116 @@
+# Expressions : Argentine (dites aussi à Salta)
+
+## ar-basico | Argentine : les indispensables | Les mots qu'on entend dix fois par jour, de Buenos Aires à Salta.
+A1 | ar | ¿Cómo andás? | Comment ça va ? / Comment vas-tu ? / Ça va ? | Hola, Juli, [¿cómo andás]? | Salut Juli, comment ça va ? | Forme avec *vos*, la plus courante en Argentine.
+A1 | ar | ¿Todo bien? | Tout va bien ? / Ça va ? | Hola, che, [¿todo bien]? | Salut, ça va ? | Réponse : *todo bien, ¿vos?*
+A1 | ar | ¿Qué hacés? | Salut, ça va ? / Qu'est-ce que tu fais ? / Tu fais quoi ? | [¿Qué hacés], Tomi? ¡Tanto tiempo! | Salut Tomi, ça va ? Ça fait longtemps ! | Souvent une simple salutation, pas une vraie question.
+A1 | ar | ¡Tanto tiempo! | Ça fait longtemps ! | ¡Hola, Caro, [tanto tiempo]! | Salut Caro, ça fait longtemps ! |
+A1 | ar | ¡Che! | Hé ! / Dis ! / Eh ! | [Che], ¿me pasás la sal? | Dis, tu me passes le sel ? | L'interjection la plus argentine, pour interpeller ou ponctuer.
+A1 | ar | Dale | D'accord / Ok / Vas-y | —¿Nos vemos a las ocho? —[Dale]. | — On se voit à huit heures ? — D'accord. | Sert aussi à presser : *¡dale, que llegamos tarde!*
+A1 | ar | ¡Bárbaro! | Génial ! / Super ! / Parfait ! | —Mañana hay asado. —[¡Bárbaro]! | — Demain il y a un barbecue. — Génial ! |
+A1 | ar | Joya | Super / Parfait / Nickel | —Te mando la dirección. —[Joya], gracias. | — Je t'envoie l'adresse. — Parfait, merci. |
+A1 | ar | ¿Viste? | Tu vois ? / Tu as vu ? / Hein ? | Es re lindo Salta, [¿viste]? | Salta, c'est super beau, tu vois ? | Ponctue les phrases comme « hein » ou « tu vois ».
+A1 | ar | Mirá | Regarde / Écoute / Tu sais | [Mirá], no sé qué decirte. | Écoute, je ne sais pas quoi te dire. | Impératif de *mirar* avec *vos* ; introduit une explication.
+A1 | ar | Re | Très / Super / Trop | Está [re] cansado. | Il est super fatigué. | Intensif familier : *re lindo*, *re bien*, *re tarde*.
+A1 | ar | Un montón | Plein / Beaucoup / Énormément | Te quiero [un montón]. | Je t'aime énormément. |
+A2 | ar | Un toque | Un peu / Un instant | Esperame [un toque]. | Attends-moi un instant. |
+A2 | ar | Al toque | Tout de suite / Illico | Te contesto [al toque]. | Je te réponds tout de suite. |
+A2 | ar | Buena onda | Sympa / Cool / Bonne ambiance | Tu amiga es muy [buena onda]. | Ton amie est très sympa. | Contraire : *mala onda*.
+A2 | ar | Mala onda | Pas sympa / Rabat-joie / Mauvaise ambiance | No seas [mala onda], vení con nosotros. | Ne fais pas ton rabat-joie, viens avec nous. |
+A2 | ar | ¿Qué onda? | Quoi de neuf ? / Ça dit quoi ? | [¿Qué onda], che? ¿Salimos? | Quoi de neuf ? On sort ? | Aussi très courant au Mexique.
+A2 | ar | Mirá vos | Tiens donc / Ça alors / Pas possible | —Se casó con su vecino. —[Mirá vos]. | — Elle a épousé son voisin. — Tiens donc. |
+A2 | ar | Ahí voy | J'arrive / J'arrive tout de suite | —¿Venís? —[Ahí voy]. | — Tu viens ? — J'arrive. |
+A2 | ar | ¡Qué sé yo! | Je sais pas, moi ! / Qu'est-ce que j'en sais ! | —¿Dónde está Pablo? —[¡Qué sé yo]! | — Où est Pablo ? — Qu'est-ce que j'en sais ! |
+A2 | ar | De una | Carrément / Avec plaisir / Direct | —¿Vamos al río? —[De una]. | — On va à la rivière ? — Carrément. |
+A2 | ar | Recién | À l'instant / Il vient de / Seulement maintenant | [Recién] llego del trabajo. | J'arrive à l'instant du travail. | En Argentine, *recién* s'emploie sans participe : *recién llegó*, *recién ahora*.
+A2 | ar | Chau, besos | Salut, bisous / Au revoir, bisous | Bueno, me voy. [Chau, besos]. | Bon, j'y vais. Salut, bisous. | On se fait une seule bise, même entre hommes qui sont amis.
+
+## ar-calle | Argentine : les mots de la rue | Lunfardo et argot : à comprendre partout, à utiliser entre amis.
+B1 | ar | Pibe / Piba | Gamin / Gamine / Jeune | Ese [pibe] juega muy bien al fútbol. | Ce gamin joue très bien au foot. | Dans le Nord, on dit plutôt *chango*.
+B1 | ar | Chabón | Mec / Type | Un [chabón] me preguntó la hora. | Un type m'a demandé l'heure. | Très porteño.
+B1 | ar | Mina | Nana / Fille / Femme | Conocí a una [mina] muy simpática. | J'ai rencontré une fille très sympa. | Familier.
+B1 | ar | Laburo / Laburar | Boulot / Bosser | Mañana tengo mucho [laburo]. | Demain j'ai beaucoup de boulot. | De l'italien *lavoro*.
+B1 | ar | Guita | Fric / Thune / Argent | No tengo [guita] para el viaje. | Je n'ai pas de fric pour le voyage. | Le mot neutre est *plata*, dans toute l'Amérique latine.
+B1 | ar | Luca | Mille pesos / Un billet de mille | Me costó dos [lucas]. | Ça m'a coûté deux mille pesos. |
+B1 | ar | Estar sin un mango | Ne plus avoir un rond / Être fauché | Hasta fin de mes [estoy sin un mango]. | Jusqu'à la fin du mois, je n'ai plus un rond. | *Mango* = peso, en argot.
+B1 | ar | Birra | Bière / Mousse | ¿Vamos a tomar una [birra]? | On va boire une bière ? |
+B1 | ar | Morfar | Bouffer / Manger | Tengo hambre, vamos a [morfar]. | J'ai faim, allons bouffer. |
+B1 | ar | Bondi | Bus | Tomo el [bondi] todos los días. | Je prends le bus tous les jours. | Surtout Buenos Aires ; partout ailleurs : *colectivo*.
+B1 | ar | Quilombo | Bazar / Pagaille / Bordel | ¡Qué [quilombo] hay en el centro! | Quelle pagaille dans le centre ! | Familier, à éviter en contexte formel.
+B1 | ar | Fiaca | Flemme / Paresse | Hoy tengo [fiaca] de salir. | Aujourd'hui j'ai la flemme de sortir. |
+B1 | ar | Copado | Sympa / Cool / Génial | Tu amigo es re [copado]. | Ton ami est super cool. |
+B1 | ar | Posta | Sérieux / Vraiment / Pour de vrai | [Posta] que no lo sabía. | Sérieux, je ne le savais pas. | *¿Posta?* = « Sérieux ? »
+B1 | ar | Trucho | Faux / Contrefait / Bidon | Ese billete es [trucho]. | Ce billet est faux. |
+B1 | ar | Chamuyo | Baratin / Bobards | Lo que dice es puro [chamuyo]. | Ce qu'il dit, c'est du pur baratin. | *Chamuyar* = baratiner, draguer.
+B1 | ar | Bancar | Supporter / Soutenir / Attendre | No lo [banco] más a mi jefe. | Je ne supporte plus mon chef. | *Bancame un toque* = attends-moi un instant.
+B1 | ar | Garpar | Payer / Raquer | Hoy [garpo] yo. | Aujourd'hui c'est moi qui paie. | *Vesre* (verlan) de *pagar*.
+B1 | ar | Boliche | Boîte de nuit / Boîte | El sábado vamos al [boliche]. | Samedi on va en boîte. |
+B2 | ar | Boludo | Mec / Imbécile | Pará, [boludo], no me hagas reír. | Arrête, mec, ne me fais pas rire. | ⚠ Entre amis : « mec ». Dit avec colère : insulte. À manier avec prudence.
+B2 | ar | Groso | Un crack / Balèze / Génial | Ese músico es un [groso]. | Ce musicien est un crack. |
+B2 | ar | Cheto | Bourge / Snob / Chic | Es un barrio muy [cheto]. | C'est un quartier très bourge. |
+B2 | ar | Chorro | Voleur | Agarraron al [chorro] que robó la cartera. | Ils ont attrapé le voleur qui a volé le sac. |
+B2 | ar | Afanar | Voler / Piquer | Me [afanaron] el celular en el bondi. | On m'a piqué mon téléphone dans le bus. |
+B2 | ar | Cana | Flic / Police / Prison | Llamaron a la [cana]. | Ils ont appelé les flics. | *Ir en cana* = aller en prison.
+B2 | ar | Zarpado | Abusé / Excessif / Incroyable | Lo que hizo fue [zarpado]. | Ce qu'il a fait, c'était abusé. | Négatif (abusé) ou admiratif (incroyable) selon le ton.
+B2 | ar | Mandar fruta | Raconter n'importe quoi / Dire des bêtises | En el examen [mandé fruta]. | À l'examen, j'ai raconté n'importe quoi. | Entré au dictionnaire de l'Académie argentine des lettres.
+B2 | ar | Estar manija | Être à fond / Être surexcité / Être accro | [Estoy manija] con la serie. | Je suis à fond dans la série. |
+B2 | ar | Flashear | Délirer / S'imaginer des choses | Vos [flasheaste], yo nunca dije eso. | Tu délires, je n'ai jamais dit ça. |
+B2 | ar | Rajar | Se casser / Partir vite / Virer | [Rajemos], que se larga a llover. | Cassons-nous, il va se mettre à pleuvoir. | *Lo rajaron del laburo* = on l'a viré du boulot.
+B2 | ar | Ser un rata | Être radin / Être pingre | No invita nunca, [es un rata]. | Il n'invite jamais, il est radin. |
+
+## ar-expr | Argentine : expressions du quotidien | Les tournures qui font sonner ton espagnol argentin.
+B1 | ar | Estar al horno | Être dans le pétrin / Être mal barré | Si no estudio, [estoy al horno]. | Si je n'étudie pas, je suis mal barré. |
+B1 | ar | Bajar un cambio | Se calmer / Lever le pied / Ralentir | [Bajá un cambio], no es para tanto. | Calme-toi, ce n'est pas si grave. | Mot à mot : « rétrograder d'une vitesse ».
+B1 | ar | Ni ahí | Pas du tout / Pas question / Rien à voir | —¿Estás enojado? —[Ni ahí]. | — Tu es fâché ? — Pas du tout. |
+B1 | ar | Ya fue | Laisse tomber / Tant pis / C'est du passé | [Ya fue], olvidate. | Laisse tomber, oublie. |
+B1 | ar | No da | Ça ne se fait pas / C'est pas possible | [No da] llegar tarde a una entrevista. | Ça ne se fait pas d'arriver en retard à un entretien. | *¿Da para…?* = c'est possible de… ?
+B1 | ar | Ni a palos | Jamais de la vie / Pas question | [Ni a palos] subo a ese cerro. | Jamais de la vie je monte sur cette montagne. |
+B1 | ar | La tenés clara | Tu t'y connais / Tu sais de quoi tu parles | Vos [la tenés clara] con la computadora. | Toi, tu t'y connais en ordinateurs. |
+B1 | ar | Me cayó la ficha | J'ai pigé / Ça a fait tilt | Tarde, pero [me cayó la ficha]. | Avec du retard, mais ça a fait tilt. | Allusion aux jetons des anciens téléphones publics.
+B1 | ar | Dar bola | Faire attention / Écouter / Calculer | Le hablé, pero no me [dio bola]. | Je lui ai parlé, mais il ne m'a pas calculé. | *No le des bola* = ne fais pas attention à lui.
+B1 | ar | Tirar onda | Faire du charme / Draguer | Creo que te está [tirando onda]. | Je crois qu'il te fait du charme. |
+B1 | ar | Hacer una vaquita | Faire une cagnotte / Se cotiser | Para el regalo, [hagamos una vaquita]. | Pour le cadeau, cotisons-nous. | Aussi au Mexique, au Chili et ailleurs.
+B1 | ar | Hacerse el distraído | Faire comme si de rien n'était / Faire l'innocent | Le pedí la plata y [se hizo el distraído]. | Je lui ai demandé l'argent et il a fait comme si de rien n'était. | Version familière : *hacerse el boludo*.
+B2 | ar | ¡Qué garrón! | Quelle galère ! / Quelle tuile ! | Se rompió el auto en la ruta, [¡qué garrón]! | La voiture est tombée en panne sur la route, quelle galère ! |
+B2 | ar | ¡Qué embole! | Quel ennui ! / Qu'est-ce qu'on s'ennuie ! | Otra vez lluvia, [¡qué embole]! | Encore de la pluie, quel ennui ! |
+B2 | ar | Estar podrido de | En avoir marre de / En avoir ras le bol de | [Estoy podrido de] este calor. | J'en ai ras le bol de cette chaleur. |
+B2 | ar | Hacer la gamba | Tenir compagnie / Accompagner / Soutenir | ¿Me [hacés la gamba] al médico? | Tu m'accompagnes chez le médecin ? |
+B2 | ar | Ponerse la camiseta | S'investir à fond / Mouiller le maillot | En este laburo todos [se ponen la camiseta]. | Dans ce boulot, tout le monde mouille le maillot. |
+B2 | ar | Ir a los bifes | Aller à l'essentiel / Aller droit au but | Basta de vueltas, [vamos a los bifes]. | Assez tourné autour du pot, allons à l'essentiel. |
+B2 | ar | Estar hecho bolsa | Être lessivé / Être crevé / Être en miettes | Después del partido [estoy hecho bolsa]. | Après le match, je suis lessivé. |
+B2 | ar | Pegarla | Tomber juste / Avoir de la chance / Réussir son coup | Con ese negocio [la pegó]. | Avec cette affaire, il a réussi son coup. |
+B2 | ar | Romperla | Tout déchirer / Cartonner | La banda [la rompió] anoche. | Le groupe a tout déchiré hier soir. |
+B2 | ar | Pilotearla | Gérer / S'en sortir / Assurer | No es fácil, pero [la voy piloteando]. | Ce n'est pas facile, mais je gère. |
+B2 | ar | Ser un chanta | Être un baratineur / Être un escroc | No le creas, [es un chanta]. | Ne le crois pas, c'est un baratineur. |
+B2 | ar | Meter la mula | Arnaquer / Tricher | En el mercado te [meten la mula] con el cambio. | Au marché, on t'arnaque sur la monnaie. |
+B2 | ar | Al pedo | Pour rien / Inutilement | Fui [al pedo], estaba cerrado. | J'y suis allé pour rien, c'était fermé. | ⚠ Familier, un peu vulgaire. *Estar al pedo* = ne rien faire.
+C1 | ar | Ni en pedo | Jamais de la vie / Même pas en rêve / Pas question | [Ni en pedo] me pierdo el partido. | Jamais de la vie je rate le match. | ⚠ Vulgaire.
+C1 | ar | Más perdido que turco en la neblina | Complètement perdu / Complètement paumé | El primer día [estaba más perdido que turco en la neblina]. | Le premier jour, j'étais complètement paumé. |
+C1 | ar | Cortarse solo | Faire bande à part / Agir seul dans son coin | Siempre [se corta solo] y no avisa. | Il fait toujours bande à part sans prévenir. |
+C1 | ar | Llorar la carta | Pleurer misère / Se plaindre pour obtenir quelque chose | [Lloró la carta] y le bajaron el precio. | Il a pleuré misère et on lui a baissé le prix. |
+C1 | ar | Tirar los perros | Draguer / Faire des avances | Le está [tirando los perros] a la vecina. | Il drague la voisine. |
+C1 | ar | Hacerse la rata | Sécher les cours | Ayer [se hizo la rata] y se fue al río. | Hier il a séché les cours et il est allé à la rivière. | On dit aussi *hacerse la rabona*.
+C1 | ar | Pasarla bomba | S'éclater / Passer un super moment | En la peña [la pasamos bomba]. | À la peña, on s'est éclatés. |
+C1 | ar | ¡Pucha! / ¡La pucha! | Mince ! / Zut ! / Punaise ! | [¡Pucha], me olvidé las llaves! | Zut, j'ai oublié mes clés ! | Juron poli, très courant dans tout le pays, et notamment dans le Nord.
+C1 | ar | ¡Qué macana! | Quel dommage ! / Quelle tuile ! | Se suspendió el recital, [¡qué macana]! | Le concert est annulé, quel dommage ! | À l'inverse, *macanudo* = génial, sympa.
+C1 | ar | Macanudo | Génial / Sympa / Chouette | Tu viejo es un tipo [macanudo]. | Ton père est un type génial. | *Viejo / vieja* = père / mère, affectueux.
+
+## mate-asado | Mate, asado et vie entre amis | Les rituels sociaux argentins et leur vocabulaire.
+A2 | ar | ¿Tomamos unos mates? | On boit un maté ? / On prend un maté ? | Pasá, [¿tomamos unos mates]? | Entre, on boit un maté ? | Le maté se partage : une seule calebasse fait le tour du groupe.
+A2 | ar | Cebar mate | Préparer le maté / Servir le maté | Mi abuela [ceba mate] como nadie. | Ma grand-mère prépare le maté comme personne. | Le *cebador* remplit la calebasse et la passe à chacun, à tour de rôle.
+A2 | ar | Gracias (en la ronda de mate) | Non merci, j'ai fini / Je n'en veux plus | —¿Otro mate? —[Gracias]. | — Encore un maté ? — Non merci, ça ira. | Dans une ronde de maté, dire *gracias* signifie qu'on n'en veut plus.
+A2 | ar | El mate está lavado | Le maté n'a plus de goût / Le maté est délavé | Cambiá la yerba, [el mate está lavado]. | Change la yerba, le maté n'a plus de goût. |
+A2 | ar | Hacer un asado | Faire un barbecue / Faire des grillades | El domingo [hacemos un asado] en casa. | Dimanche, on fait un barbecue à la maison. | L'*asado* est un rituel social plus qu'un simple repas.
+A2 | ar | ¡Un aplauso para el asador! | On applaudit le cuisinier ! / Bravo au grilleur ! | ¡Riquísimo! [¡Un aplauso para el asador]! | Délicieux ! On applaudit le cuisinier ! | Rituel obligatoire à la fin d'un asado.
+A2 | ar | La previa | La pré-soirée / L'apéro avant de sortir | Hacemos [la previa] en lo de Juan. | On fait la pré-soirée chez Juan. |
+A2 | ar | En lo de | Chez | Cenamos [en lo de] mi tía. | Nous dînons chez ma tante. | *Lo de* = la maison de ; très argentin.
+A2 | ar | Juntarse | Se retrouver / Se voir / Se réunir | ¿Nos [juntamos] el viernes? | On se voit vendredi ? |
+A2 | ar | La sobremesa | Les discussions après le repas / Le moment à table après le repas | La [sobremesa] duró hasta las seis. | Les discussions après le repas ont duré jusqu'à six heures. |
+B1 | ar | Irse de joda | Sortir faire la fête / Faire la fête | El sábado [nos fuimos de joda]. | Samedi, on est sortis faire la fête. | Familier.
+B1 | ar | Una picada | Un apéro dînatoire / Une planche apéro | Antes del partido armamos [una picada]. | Avant le match, on a préparé une planche apéro. | Fromage, salami, olives, cacahuètes…
+B1 | ar | Tomar la merienda | Prendre le goûter | A las cinco [tomamos la merienda] con facturas. | À cinq heures, on prend le goûter avec des viennoiseries. | Les *facturas* sont les viennoiseries argentines (*medialunas*, etc.).
+B1 | ar | Fin de semana largo | Week-end prolongé / Pont | Con el [fin de semana largo] nos vamos a Cafayate. | Avec le week-end prolongé, on part à Cafayate. |
+B1 | ar | Hacer cola | Faire la queue | Hay que [hacer cola] en el banco. | Il faut faire la queue à la banque. |
+B1 | ar | Dar una vuelta | Faire un tour | ¿Vamos a [dar una vuelta] por la plaza? | On va faire un tour sur la place ? |
+B1 | ar | Sos un sol | Tu es un amour / Tu es adorable | Gracias por la ayuda, [sos un sol]. | Merci pour l'aide, tu es un amour. |
+B1 | ar | Mi vieja / Mi viejo | Ma mère / Mon père | [Mi vieja] hace las mejores empanadas. | Ma mère fait les meilleures empanadas. | Affectueux, pas irrespectueux.
