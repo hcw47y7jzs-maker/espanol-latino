@@ -4,7 +4,7 @@
 
 const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 
-const NOTE_TITLES = { argentine: "En Argentine", astuce: "Astuce", piege: "Piège" };
+const NOTE_TITLES = { argentine: "En Argentine", salta: "À Salta et dans le Nord", astuce: "Astuce", piege: "Piège" };
 
 export function inline(text, lang) {
   let s = esc(text);

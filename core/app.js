@@ -3,6 +3,7 @@
 import * as store from "./store.js";
 import * as audio from "./audio.js";
 import * as timer from "./timer.js";
+import * as ai from "./ai.js";
 import { route, start, go } from "./router.js";
 import { h, es, icon, topbar, toast, segmented } from "./ui.js";
 
@@ -28,6 +29,7 @@ const MODULES = {
   grammar: () => import("../modules/grammar/index.js"),
   vocab: () => import("../modules/vocab/index.js"),
   expressions: () => import("../modules/expr/index.js"),
+  pronunciation: () => import("../modules/pron/index.js"),
 };
 
 async function main() {
@@ -35,10 +37,11 @@ async function main() {
   const pack = await (await fetch(base + "pack.json")).json();
   const lang = await import(`../packs/${PACK_ID}/lang.js`);
   await audio.init(base, pack.speechLangs);
+  ai.init(store);
   timer.start();
 
   const ctx = {
-    pack, lang, store, audio, loadJSON, loadText,
+    pack, lang, store, audio, ai, loadJSON, loadText,
     key: (k) => `${pack.id}/${k}`,
     prefs: () => ({ tu: store.get("settings/tu", true), vos: store.get("settings/vos", true) }),
   };
@@ -135,7 +138,7 @@ function comingSoon(ctx, id) {
     h(
       "section",
       { class: "sheet" },
-      h("p", { class: "lead" }, "Ce module est en préparation. En attendant, les verbes, la grammaire et le vocabulaire sont prêts."),
+      h("p", { class: "lead" }, "Ce module est en préparation. En attendant, les autres modules sont prêts."),
       h("a", { class: "btn", href: "#/verbs" }, "Aller aux verbes")
     )
   );
@@ -222,13 +225,16 @@ function settings(ctx) {
         h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Voix de secours"), h("span", { class: "row-sub" }, "Utilisée pour les rares textes non enregistrés."))),
         h("div", { class: "row" }, voiceSel)
       ),
+      h("h2", { class: "section-title" }, "Correction par l'IA"),
+      aiSettings(),
       h("h2", { class: "section-title" }, "Mes données"),
       h("div", { class: "rows" },
         h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Stockées sur ce téléphone"), persisted)),
         h("button", {
           class: "row row-btn", type: "button",
           onclick: () => {
-            const blob = new Blob([JSON.stringify({ app: "aprender", date: new Date().toISOString(), data: s.dump() })], { type: "application/json" });
+            const data = Object.fromEntries(Object.entries(s.dump()).filter(([k]) => !k.startsWith("secret/")));
+            const blob = new Blob([JSON.stringify({ app: "aprender", date: new Date().toISOString(), data })], { type: "application/json" });
             const a = h("a", { href: URL.createObjectURL(blob), download: `aprender-sauvegarde-${new Date().toLocaleDateString("sv-SE")}.json` });
             document.body.append(a); a.click(); a.remove();
           },
@@ -238,6 +244,33 @@ function settings(ctx) {
       ),
       h("p", { class: "fineprint" }, `Version ${window.APP_VERSION || "dev"}. Polices Alegreya et Alegreya Sans (Huerta Tipográfica, Argentine), licence SIL OFL. ${ctx.pack.voice?.credit || ""}.`)
     )
+  );
+}
+
+// Clé Groq : saisie, vérification. Elle reste sur le téléphone et n'entre pas dans les sauvegardes.
+function aiSettings() {
+  const input = h("input", { class: "answer key-input", type: "password", placeholder: "gsk_…", autocomplete: "off", autocapitalize: "off", autocorrect: "off", spellcheck: "false", value: ai.getKey(), "aria-label": "Clé Groq" });
+  const status = h("span", { class: "row-sub" }, ai.hasKey() ? "Une clé est enregistrée sur ce téléphone." : "Aucune clé pour l'instant : le micro fonctionne, mais sans correction automatique.");
+  const save = async () => {
+    const k = input.value.trim();
+    if (!k) { ai.setKey(""); status.textContent = "Clé retirée."; return; }
+    status.textContent = "Vérification de la clé…";
+    try {
+      const r = await ai.checkKey(k);
+      ai.setKey(k);
+      status.textContent = r.whisper ? `Clé valide : reconnaissance vocale (${r.whisper})${r.chat ? " et explications" : ""} activées.` : "Clé valide, mais aucun modèle Whisper n'est disponible sur ce compte.";
+      toast("Clé enregistrée.");
+    } catch (e) {
+      status.textContent = e.message;
+    }
+  };
+  return h(
+    "div",
+    { class: "rows" },
+    h("div", { class: "row" }, h("span", { class: "row-text" }, h("span", { class: "row-title" }, "Clé Groq (gratuite)"), h("span", { class: "row-sub" }, "Pour corriger ta prononciation au micro et expliquer tes erreurs. Crée-la sur console.groq.com, sans carte bancaire. Elle reste sur ce téléphone et n'est jamais incluse dans les sauvegardes."))),
+    h("div", { class: "row key-row" }, input),
+    h("div", { class: "row" }, status),
+    h("div", { class: "row key-actions" }, h("button", { class: "btn", type: "button", onclick: save }, "Enregistrer et vérifier"), h("a", { class: "btn ghost", href: "https://console.groq.com/keys", target: "_blank", rel: "noopener" }, "Créer une clé"))
   );
 }
 

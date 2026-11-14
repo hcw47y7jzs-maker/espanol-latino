@@ -79,6 +79,19 @@ if epath.exists():
             add(v, "expression")
         add(e["ex"], "expression")
 
+# ---- Prononciation : chaque mot de la banque (sans article), les paires, les phrases ----
+ppath = PACK / "pron.json"
+if ppath.exists():
+    pr = json.loads(ppath.read_text(encoding="utf-8"))
+    for w in pr["words"]:
+        add(w["w"], "prononciation")
+    for s in pr["sentences"]:
+        add(s["s"], "prononciation")
+    for les in pr["lessons"]:
+        for g in les["pairs"] + les["same"]:
+            for x in g:
+                add(x, "prononciation")
+
 # ---- Phrases fixes de l'interface ----
 for phrase in pack.get("speechExtras", []):
     add(phrase, "interface")

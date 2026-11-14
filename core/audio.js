@@ -45,40 +45,41 @@ function pickVoice() {
   return list.find((v) => v.voiceURI === wanted) || list[0] || null;
 }
 
-function playFile(file) {
+function playFile(file, rate) {
   return new Promise((resolve) => {
     current = new Audio(packBase + "audio/" + file);
     current.preservesPitch = true;
-    current.playbackRate = store.get("settings/playbackRate", 0.9);
+    current.playbackRate = rate || store.get("settings/playbackRate", 0.9);
     current.onended = resolve;
     current.onerror = () => resolve("error");
     current.play().catch(() => resolve("error"));
   });
 }
 
-function synth(text) {
+function synth(text, rate) {
   return new Promise((resolve) => {
     if (!("speechSynthesis" in window)) return resolve();
     const u = new SpeechSynthesisUtterance(text);
     const v = pickVoice();
     if (v) u.voice = v;
     u.lang = v?.lang || langs[0];
-    u.rate = store.get("settings/rate", 0.9);
+    u.rate = rate || store.get("settings/rate", 0.9);
     u.onend = resolve;
     u.onerror = resolve;
     speechSynthesis.speak(u);
   });
 }
 
-async function sayOne(text) {
+async function sayOne(text, rate) {
   const file = manifest[speechKey(text)];
-  if (file && (await playFile(file)) !== "error") return;
-  await synth(text);
+  if (file && (await playFile(file, rate)) !== "error") return;
+  await synth(text, rate);
 }
 
-export function speak(text) {
+/** Lit un texte ; rate (facultatif) remplace la vitesse des Réglages pour cette lecture. */
+export function speak(text, { rate } = {}) {
   stop();
-  sayOne(text);
+  sayOne(text, rate);
 }
 
 /** Lit plusieurs textes à la suite (un tableau de conjugaison, par exemple). */

@@ -124,7 +124,14 @@ function withBlank(q, field) {
  * @param opts.test si vrai, pas de correction immédiate
  */
 export function render(item, opts) {
-  const { accentKeys = [], speak, test = false, lessonLink = "", onAnswer } = opts;
+  const { accentKeys = [], speak, speakSeq, test = false, lessonLink = "", onAnswer } = opts;
+  // Question à écouter (item.listen = texte, ou liste de textes lus à la suite).
+  const listenBlock = () => {
+    if (!item.listen) return null;
+    const play = () => (Array.isArray(item.listen) ? speakSeq?.(item.listen, 650) : speak?.(item.listen));
+    play();
+    return h("div", { class: "listen-wrap" }, h("button", { class: "listen-btn", type: "button", onclick: play, "aria-label": "Réécouter" }, icon("speaker"), h("span", {}, Array.isArray(item.listen) ? "Réécouter les deux mots" : "Réécouter")));
+  };
   const wrap = h("div", { class: "exercise" });
   const add = (...kids) => wrap.append(...kids.flat().filter((k) => k != null && k !== false));
   const out = h("div");
@@ -180,7 +187,7 @@ export function render(item, opts) {
     input.addEventListener("keydown", (e) => e.key === "Enter" && go());
     add(
       h("p", { class: "item-context" }, item.context || (item.lang === "es" ? "Écris en espagnol (avec l'article pour un nom) :" : "Écris en français :")),
-      h("p", { class: "item-verb" }, h("span", { class: item.lang === "es" ? "big" : "big es", lang: item.lang === "es" ? "fr" : "es" }, item.prompt), item.lang === "fr" && speak ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.prompt) }, icon("speaker")) : null),
+      item.listen ? listenBlock() : h("p", { class: "item-verb" }, h("span", { class: item.lang === "es" ? "big" : "big es", lang: item.lang === "es" ? "fr" : "es" }, item.prompt), item.lang === "fr" && speak ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.prompt) }, icon("speaker")) : null),
       item.hint ? h("p", { class: "small muted" }, item.hint) : null,
       input,
       item.lang === "es" ? accentBar(input, accentKeys) : null,
@@ -226,7 +233,7 @@ export function render(item, opts) {
 
   if (item.t === "Q") {
     const qLang = item.qLang || "es";
-    const sentence = item.q.includes("___") ? withBlank(item.q, h("span", { class: "blank" }, "…")) : [item.q];
+    const sentence = (item.q || "").includes("___") ? withBlank(item.q, h("span", { class: "blank" }, "…")) : [item.q];
     const opts2 = h(
       "div",
       { class: "options" },
@@ -253,7 +260,8 @@ export function render(item, opts) {
     );
     add(
       item.fr ? h("p", { class: "item-context" }, item.fr) : null,
-      h("p", { class: qLang === "es" ? "phrase" : "phrase fr-prompt", lang: qLang }, sentence, qLang === "es" && speak && item.say ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.say) }, icon("speaker")) : null),
+      listenBlock(),
+      item.q ? h("p", { class: qLang === "es" ? "phrase" : "phrase fr-prompt", lang: qLang }, sentence, qLang === "es" && speak && item.say ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.say) }, icon("speaker")) : null) : null,
       opts2,
       out
     );

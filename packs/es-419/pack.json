@@ -71,7 +71,7 @@
       "subtitle": "Écouter, répéter, corriger",
       "color": "#B83A6C",
       "ink": "#FFFFFF",
-      "ready": false
+      "ready": true
     },
     {
       "id": "practice",
@@ -288,5 +288,8 @@
   },
   "expressions": {
     "data": "expressions.json"
+  },
+  "pronunciation": {
+    "data": "pron.json"
   }
 }
