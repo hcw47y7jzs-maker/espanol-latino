@@ -29,8 +29,17 @@ export function render(md, lang = "es") {
       while (i < lines.length && lines[i].startsWith(">")) block.push(lines[i++].replace(/^>\s?/, ""));
       const m = block[0].match(/^\[!(\w+)\]\s*$/);
       const kind = m ? m[1] : "note";
-      const body = (m ? block.slice(1) : block).join(" ");
-      out.push(`<aside class="note note-${kind}">${NOTE_TITLES[kind] ? `<p class="note-title">${NOTE_TITLES[kind]}</p>` : ""}<p>${inline(body, lang)}</p></aside>`);
+      const lines2 = m ? block.slice(1) : block;
+      const parts = [];
+      for (const l of lines2) {
+        if (/^- /.test(l)) {
+          if (parts.length && parts[parts.length - 1].list) parts[parts.length - 1].items.push(l.slice(2));
+          else parts.push({ list: true, items: [l.slice(2)] });
+        } else if (parts.length && !parts[parts.length - 1].list) parts[parts.length - 1].text += " " + l;
+        else parts.push({ list: false, text: l });
+      }
+      const inner = parts.map((x) => (x.list ? `<ul>${x.items.map((i) => `<li>${inline(i, lang)}</li>`).join("")}</ul>` : `<p>${inline(x.text, lang)}</p>`)).join("");
+      out.push(`<aside class="note note-${kind}">${NOTE_TITLES[kind] ? `<p class="note-title">${NOTE_TITLES[kind]}</p>` : ""}${inner}</aside>`);
       continue;
     }
     if (line.startsWith("|")) {

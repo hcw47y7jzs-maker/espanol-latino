@@ -6,7 +6,7 @@ Après un push sur GitHub, l'app propose « Mettre à jour » au prochain lancem
 import datetime, json, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SKIP_DIRS = {".git", ".github", "tools", "tests", "source", "node_modules"}
+SKIP_DIRS = {".git", ".github", "tools", "tests", "source", "src", "node_modules"}
 SKIP_FILES = {"package.json", "README.md", ".gitignore", "sw.js", ".nojekyll"}
 
 files = ["./"]

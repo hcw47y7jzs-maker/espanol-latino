@@ -107,6 +107,8 @@ def parse(path: pathlib.Path) -> tuple[dict, str, list[dict]]:
         if not line or line.startswith("#"):
             continue
         kind, *fields = [f.strip() for f in line.split(" | ")]
+        if kind in ("T", "Q") and fields:
+            fields[0] = re.sub(r"\*([^*]+)\*", r"\1", fields[0])  # pas de Markdown dans la phrase affichée
         iid = f"{pid}:{ln}"
         try:
             if kind == "T":

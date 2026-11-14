@@ -205,6 +205,8 @@ i[lang="es"] { font-style: italic; }
 .prose th { font-weight: 700; }
 .note { border-radius: 16px; padding: 14px 16px; margin: 1em 0 1.2em; background: var(--sky); }
 .note p { margin: 0; }
+.note ul { margin: 6px 0 0; padding-left: 1.2em; }
+.note li { margin-bottom: 0.3em; }
 .note .note-title { font-weight: 700; margin-bottom: 4px; }
 .note-argentine { background: #FDF0D8; }
 .note-argentine .note-title { color: #8A5A00; }

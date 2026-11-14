@@ -50,6 +50,21 @@ git commit -am "..." && git push
 
 Au lancement suivant, l'app affiche « Mettre à jour ».
 
+## Module Grammaire
+
+Les sources sont dans `packs/es-419/grammar/src/` : un fichier par point, avec la leçon puis les exercices dans un format compact (voir l'en-tête de `tools/build_grammar.py`) :
+
+```
+T | Phrase avec ___ (indice). | réponse / autre réponse | explication
+Q | Phrase avec ___. | bonne* / mauvaise | explication
+O | Phrase à remettre dans l'ordre. | traduction | explication
+V | Affirmation. | V ou F | explication
+G | Quiero que {S} ___ ({inf}) temprano. | venir | vos, el, nos | subj_presente | explication
+```
+
+Les lignes `G` génèrent un exercice par verbe et par personne à partir de `verbs.json`.
+Après une modification : `python3 tools/build_grammar.py` (vérifie tout et génère `grammar/grammar.json` et les leçons), puis `python3 tools/build_audio_texts.py`.
+
 ## Audios (voix argentine Daniela)
 
 Les audios sont enregistrés gratuitement par GitHub avec la voix Piper `es_AR-daniela-high` (données OpenSLR 61, licence CC BY-SA 4.0).
