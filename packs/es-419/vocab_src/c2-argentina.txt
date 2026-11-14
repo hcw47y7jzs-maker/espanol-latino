@@ -1,0 +1,50 @@
+# C2 — Mots d'Argentine à la place des mots d'Espagne (d'après le paquet Anki, fiches « Espagne / Amérique latine »)
+# espagnol d'Argentine | sens (réponses acceptées /) | ailleurs
+el auto | voiture | Espagne : *el coche* ; Colombie, Mexique : *el carro*.
+la computadora | ordinateur | Espagne : *el ordenador*.
+el celular | portable / téléphone portable | Espagne : *el móvil*.
+el jugo | jus / jus de fruit | Espagne : *el zumo*.
+la papa | pomme de terre | Espagne : *la patata*.
+los anteojos | lunettes | Espagne : *las gafas* ; Mexique : *los lentes*.
+estacionar | se garer | Espagne : *aparcar*.
+manejar | conduire | Espagne : *conducir*.
+dale | d'accord / ok | Espagne : *vale* ; Mexique : *órale*.
+el colectivo | bus / autobus | Espagne : *el autobús* ; à Buenos Aires, en argot : *el bondi*.
+el pasaje | billet | Espagne : *el billete* ; billet de bus urbain : *el boleto*.
+el durazno | pêche | Espagne : *el melocotón*.
+la frutilla | fraise | Espagne, Mexique : *la fresa*.
+la banana | banane | Espagne, Mexique : *el plátano*.
+la palta | avocat | Espagne, Mexique : *el aguacate*.
+el choclo | épi de maïs / maïs | Mexique : *el elote*.
+los porotos | haricots | Espagne : *las judías* ; Mexique : *los frijoles*.
+el mozo | serveur | Espagne : *el camarero* ; Mexique : *el mesero*.
+el buzo | pull / sweat | Espagne : *el jersey* ; Mexique : *el suéter*.
+la remera | t-shirt / tee-shirt | Espagne : *la camiseta* ; Mexique : *la playera*.
+la campera | veste / blouson | Espagne : *la chaqueta* ; Mexique : *la chamarra*.
+la pollera | jupe | Espagne, Mexique : *la falda*.
+las medias | chaussettes | Espagne : *los calcetines*.
+la malla | maillot de bain | Espagne : *el bañador* ; Mexique : *el traje de baño*.
+la heladera | réfrigérateur / frigo | Espagne : *la nevera*, *el frigorífico*.
+la canilla | robinet | Espagne : *el grifo*.
+la birome | stylo | Espagne : *el bolígrafo* ; aussi *la lapicera* en Argentine.
+la vereda | trottoir | Espagne : *la acera* ; Mexique : *la banqueta*.
+la nafta | essence | Ailleurs : *la gasolina*.
+el pibe | gamin / gosse | Espagne : *el chaval* ; Nord-Ouest : *el chango*.
+el chango | gamin / gosse | Nord-Ouest argentin (Salta, Jujuy) ; ailleurs en Argentine : *el pibe*.
+un montón | beaucoup / énormément | Espagne : *mogollón* ; familier argentin : *un resto*.
+copado | génial / super | Espagne : *guay* ; aussi *bárbaro* en Argentine.
+enojado | fâché / en colère | Espagne : *enfadado*.
+agarrar | prendre / attraper | Espagne : *coger* (à éviter en Argentine).
+laburar | travailler (familier) | Espagne : *currar* ; neutre : *trabajar*.
+la plata | argent | Espagne : *la pasta* ; familier argentin : *la guita*.
+la torta | gâteau | Espagne : *la tarta*.
+la pelota | ballon | Espagne : *el balón*.
+la licencia de conducir | permis de conduire | Espagne : *el carné de conducir*.
+la birra | bière (familier) | Neutre : *la cerveza*.
+el subte | métro | À Buenos Aires ; ailleurs : *el metro*.
+la pileta | piscine | Espagne : *la piscina* ; Mexique : *la alberca*.
+el living | salon | Espagne : *el salón*.
+el placard | placard / armoire | Espagne : *el armario*.
+el almacén | épicerie | Espagne : *la tienda de comestibles*.
+el kiosco | kiosque / petite épicerie | En Argentine, on y achète bonbons, boissons, cigarettes.
+la vianda | gamelle / repas emporté | Espagne : *la fiambrera*, *el táper*.

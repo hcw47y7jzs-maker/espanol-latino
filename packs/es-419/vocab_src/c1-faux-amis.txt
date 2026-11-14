@@ -1,0 +1,51 @@
+# C1 — Faux amis français / espagnol (d'après le paquet Anki, fiches « Faux amis »)
+# espagnol | sens (réponses acceptées séparées par /) | piège
+embarazada | enceinte | ≠ embarrassée : *avergonzada*, *apenada*.
+el éxito | succès / réussite | ≠ sortie : *la salida*.
+la ropa | vêtements / habits | ≠ robe : *el vestido*.
+la librería | librairie | ≠ bibliothèque : *la biblioteca*.
+constipado | enrhumé | ≠ constipé : *estreñido*.
+largo | long | ≠ large : *ancho*.
+la cola | queue / file d'attente | ≠ colle : *el pegamento*.
+el asiento | siège / place assise | ≠ assiette : *el plato*.
+el vaso | verre | ≠ vase : *el jarrón*.
+el rato | moment | ≠ rat : *la rata*.
+el sitio | endroit / lieu | ≠ siège : *el asiento*.
+el disgusto | contrariété / ennui | ≠ dégoût : *el asco*.
+demandar | poursuivre en justice | ≠ demander : *pedir*, *preguntar*.
+molestar | déranger / gêner | ≠ molester : *maltratar*.
+ocurrir | se produire / arriver | ≠ occuper : *ocupar*.
+soportar | supporter / endurer | ≠ soutenir : *apoyar*.
+resultar | s'avérer / se révéler | *Resultó ser verdad* : il s'est avéré que c'était vrai.
+el compromiso | engagement / obligation | ≠ compromis : *el acuerdo*.
+la carrera | course / études supérieures / carrière | *Estudio la carrera de medicina*.
+el colegio | école | ≠ collège (en Argentine : *la secundaria*).
+el departamento | appartement | En Espagne : *el piso*.
+el oficio | métier | ≠ office, bureau : *la oficina*.
+el idioma | langue | ≠ idiome : *el modismo*.
+fatal | très mal / nul | *Me siento fatal* : je me sens très mal.
+casual | fortuit / par hasard | *La casualidad* = le hasard (≠ décontracté).
+quitar | enlever / ôter | ≠ quitter : *dejar*, *irse de*.
+regalar | offrir | ≠ régaler : *agasajar*, *invitar*.
+bravo | féroce / en colère | *Un perro bravo* : un chien méchant. *¡Bravo!* existe aussi.
+la falda | jupe | ≠ faute : *la falta*. En Argentine on dit *la pollera*.
+la asignatura | matière scolaire | ≠ assignation.
+la bolsa | sac / bourse | *Una bolsa de plástico* ; *la Bolsa* (finance).
+la fuente | source / fontaine / plat | *Una fuente de ensalada* : un saladier.
+el cuarto | chambre / quart | *Un cuarto de hora* ; *mi cuarto* (ma chambre).
+mayor | plus âgé / majeur | *Una persona mayor* : une personne âgée.
+la pila | pile / tas | *Ponerse las pilas* : se secouer, s'y mettre.
+el preservativo | préservatif | ≠ conservateur alimentaire : *el conservante*.
+particular | privé / particulier | *Una clase particular* : un cours particulier.
+el suceso | événement / fait divers | ≠ succès : *el éxito*.
+actual | actuel | ≠ réel : *real*. *Actualmente* = actuellement.
+sensible | sensible | ≠ sensé : *sensato*.
+la tarde | après-midi | *Llegar tarde* : arriver en retard.
+el burro | âne | Au figuré : bête, têtu.
+la salsa | sauce | Aussi la danse.
+la oficina | bureau | Le lieu de travail ; le meuble se dit *el escritorio*.
+el escritorio | bureau (meuble) | Le lieu se dit *la oficina*.
+contestar | répondre | ≠ contester : *cuestionar*, *impugnar*.
+la carta | lettre / menu | ≠ carte géographique : *el mapa* ; carte bancaire : *la tarjeta*.
+salir | sortir / partir | ≠ salir : *ensuciar*.
+pretender | vouloir / chercher à | ≠ prétendre (affirmer) : *afirmar*.

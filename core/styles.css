@@ -319,6 +319,35 @@ mark { background: #FFD97A; color: inherit; border-radius: 3px; padding: 0 1px; 
 .next-link { display: block; margin-top: 26px; color: var(--band); font-weight: 700; }
 .level-title { display: flex; align-items: center; gap: 6px; font-size: 1.15rem; }
 
+/* Vocabulaire */
+.level-text { margin: -4px 0 10px; }
+.lot-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.lot {
+  display: flex; flex-direction: column; gap: 2px; padding: 12px 14px; border-radius: 16px;
+  background: var(--sky); text-decoration: none; min-height: 84px; position: relative;
+}
+.lot.on { background: color-mix(in srgb, var(--band) 14%, white); }
+.lot-title { font-weight: 700; font-size: 0.98rem; }
+.lot-first { color: var(--ink-soft); font-size: 1rem; line-height: 1.3; }
+.lot-done { position: absolute; top: 10px; right: 12px; font-size: 0.78rem; font-weight: 700; color: var(--band); }
+.word-row .row-title { font-size: 1.3rem; }
+.word { font-weight: 600; }
+.art { font-family: var(--serif); font-size: 1.05rem; font-weight: 500; }
+.art.g-m { color: #2A6FB0; }
+.art.g-f { color: #B83A6C; }
+.row-note { color: var(--ink-soft); margin-top: 2px; }
+.actions.top { margin: 0 0 18px; }
+.fr-prompt { font-family: var(--sans); font-weight: 500; }
+.check-dot { width: 22px; height: 22px; border-radius: 7px; border: 2px solid var(--line); flex-shrink: 0; }
+.radio.on .check-dot { background: var(--band); border-color: var(--band); box-shadow: inset 0 0 0 3px #fff; }
+.card-stage { margin-top: 18px; }
+.card {
+  display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 180px; padding: 20px;
+  border-radius: 24px; background: color-mix(in srgb, var(--band) 10%, white); margin: 10px 0 16px; text-align: center;
+}
+.card-word { font-size: 2.2rem; font-weight: 600; margin: 0; }
+.card-answer { font-size: 1.4rem; margin: 0 0 6px; }
+
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }

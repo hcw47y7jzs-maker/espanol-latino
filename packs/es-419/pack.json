@@ -55,7 +55,7 @@
       "subtitle": "Les 3 000 mots essentiels",
       "color": "#237A59",
       "ink": "#FFFFFF",
-      "ready": false
+      "ready": true
     },
     {
       "id": "expressions",
@@ -282,5 +282,8 @@
   },
   "grammar": {
     "data": "grammar/grammar.json"
+  },
+  "vocab": {
+    "data": "vocab.json"
   }
 }

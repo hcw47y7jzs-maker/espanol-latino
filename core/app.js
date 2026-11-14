@@ -26,6 +26,7 @@ async function loadText(path) {
 const MODULES = {
   verbs: () => import("../modules/verbs/index.js"),
   grammar: () => import("../modules/grammar/index.js"),
+  vocab: () => import("../modules/vocab/index.js"),
 };
 
 async function main() {
@@ -133,7 +134,7 @@ function comingSoon(ctx, id) {
     h(
       "section",
       { class: "sheet" },
-      h("p", { class: "lead" }, "Ce module est en préparation. En attendant, les verbes et la grammaire sont prêts."),
+      h("p", { class: "lead" }, "Ce module est en préparation. En attendant, les verbes, la grammaire et le vocabulaire sont prêts."),
       h("a", { class: "btn", href: "#/verbs" }, "Aller aux verbes")
     )
   );

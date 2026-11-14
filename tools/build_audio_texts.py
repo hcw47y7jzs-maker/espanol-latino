@@ -64,6 +64,12 @@ if gpath.exists():
             if it["t"] == "O":
                 add(it["a"][0], "grammaire")
 
+# ---- Vocabulaire : chaque mot, avec son article pour les noms ----
+vpath = PACK / "vocab.json"
+if vpath.exists():
+    for wd in json.loads(vpath.read_text(encoding="utf-8"))["words"]:
+        add(f"{wd['art']} {wd['es']}" if wd["art"] else wd["es"], "vocabulaire")
+
 # ---- Phrases fixes de l'interface ----
 for phrase in pack.get("speechExtras", []):
     add(phrase, "interface")

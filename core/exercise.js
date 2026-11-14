@@ -3,9 +3,70 @@
 //  Q : choix multiple                      { t:"Q", q:"Busco ___ mi hermano.", o:["a","de","en"], c:0, why, full }
 //  O : remettre les mots dans l'ordre     { t:"O", a:["No lo sé."], fr:"Je ne le sais pas.", why }
 //  V : vrai ou faux                        { t:"V", q:"…", v:true, why }
+//  W : écrire une traduction               { t:"W", prompt:"voiture", lang:"es", a:["auto"], art:"el", why }
+//      lang = langue de la réponse ; en français, accents et fautes de frappe légères sont tolérés,
+//      en espagnol l'orthographe et le genre (article) sont exigés.
 
 import { h, es, icon, accentBar, answerInput } from "./ui.js";
-import { compare, diffHtml, normalize, shuffle } from "./check.js";
+import { compare, diffHtml, normalize, shuffle, stripAccents } from "./check.js";
+
+const FR_ARTICLES = ["le", "la", "les", "l'", "un", "une", "des", "se", "s'"];
+const ES_ARTICLES = ["el", "la", "los", "las", "un", "una"];
+
+function lev(a, b) {
+  const d = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) d[0][j] = j;
+  for (let i = 1; i <= a.length; i++)
+    for (let j = 1; j <= b.length; j++)
+    {
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + 1); // inversion de deux lettres
+    }
+  return d[a.length][b.length];
+}
+
+/** Retire un article en tête (« le », « l'avion », « el auto »). Renvoie [article, reste]. */
+function splitArticle(s, list) {
+  for (const a of list) {
+    if (a.endsWith("'") && s.startsWith(a)) return [a, s.slice(a.length).trim()];
+    if (s.startsWith(a + " ")) return [a, s.slice(a.length + 1).trim()];
+  }
+  return [null, s];
+}
+
+function checkWord(item, answer) {
+  const why = item.why ? `<p>${item.why}</p>` : "";
+  const u0 = normalize(answer).replace(/[.!?¡¿]/g, "").trim();
+  const correct = item.lang === "es" && item.art ? `${item.art} ${item.a[0]}` : item.a[0];
+  if (!u0) return { ok: false, correct, html: why };
+  if (item.lang === "fr") {
+    const [, u] = splitArticle(u0, FR_ARTICLES);
+    for (const a of item.a) {
+      const [, t] = splitArticle(normalize(a), FR_ARTICLES);
+      if (u === t || stripAccents(u) === stripAccents(t)) return { ok: true, correct, html: item.a.length > 1 ? `<p>Sens possibles : ${item.a.join(", ")}.</p>` : "" };
+    }
+    for (const a of item.a) {
+      const [, t] = splitArticle(normalize(a), FR_ARTICLES);
+      if (t.length >= 5 && lev(stripAccents(u), stripAccents(t)) <= 1)
+        return { ok: true, correct, html: `<p>Accepté, mais l'orthographe exacte est « ${a} ».</p>` };
+    }
+    return { ok: false, correct, html: `<p>Sens : ${item.a.join(", ")}.</p>${why}` };
+  }
+  // Réponse en espagnol
+  const [art, u] = splitArticle(u0, ES_ARTICLES);
+  for (const a of item.a) {
+    const t = normalize(a);
+    if (u === t) {
+      if (art && item.art && art !== item.art)
+        return { ok: false, accentOnly: true, correct, html: `<p>Presque : le mot est juste, mais l'article est <b lang="es">${item.art}</b>${item.g === "f" ? " (féminin)" : item.g === "m" ? " (masculin)" : ""}.</p>${why}` };
+      return { ok: true, correct, html: "" };
+    }
+  }
+  for (const a of item.a)
+    if (stripAccents(u) === stripAccents(normalize(a)))
+      return { ok: false, accentOnly: true, correct, html: `<p>Presque : seul l'accent écrit manque ou est en trop.</p>${why}` };
+  return { ok: false, correct, html: `<p>Attendu : <b lang="es">${diffHtml(u, normalize(item.a[0]))}</b></p>${why}` };
+}
 
 const plain = (s) => normalize(s).replace(/[.,;:!?¡¿«»"()]/g, "").replace(/\s+/g, " ").trim();
 
@@ -29,6 +90,11 @@ export function check(item, answer, { lessonLink = "" } = {}) {
     const u = plain(answer);
     const ok = item.a.some((s) => plain(s) === u);
     return { ok, correct: item.a[0], html: ok ? (item.a.length > 1 ? `<p>Aussi possible : <i lang="es">${item.a.slice(1).join(" / ")}</i></p>` : "") : why + link };
+  }
+  if (item.t === "W") {
+    const r = checkWord(item, answer);
+    if (!r.ok && lessonLink) r.html += `<p>${lessonLink}</p>`;
+    return r;
   }
   if (item.t === "V") {
     const ok = (answer === "true") === item.v;
@@ -88,7 +154,36 @@ export function render(item, opts) {
     return wrap;
   }
 
+  if (item.t === "W") {
+    const input = answerInput(item.lang === "es" ? "En espagnol" : "En français");
+    input.setAttribute("lang", item.lang);
+    const submit = h("button", { class: "btn", type: "button" }, test ? "Valider" : "Vérifier");
+    const go = () => {
+      if (answered) return;
+      input.readOnly = true;
+      const res = check(item, input.value, { lessonLink });
+      input.classList.add(res.ok ? "is-ok" : "is-ko");
+      submit.remove();
+      answered = true;
+      onAnswer(input.value, res, out);
+    };
+    submit.addEventListener("click", go);
+    input.addEventListener("keydown", (e) => e.key === "Enter" && go());
+    add(
+      h("p", { class: "item-context" }, item.lang === "es" ? "Écris en espagnol (avec l'article pour un nom) :" : "Écris en français :"),
+      h("p", { class: "item-verb" }, h("span", { class: item.lang === "es" ? "big" : "big es", lang: item.lang === "es" ? "fr" : "es" }, item.prompt), item.lang === "fr" && speak ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.prompt) }, icon("speaker")) : null),
+      item.hint ? h("p", { class: "small muted" }, item.hint) : null,
+      input,
+      item.lang === "es" ? accentBar(input, accentKeys) : null,
+      h("div", { class: "actions" }, submit),
+      out
+    );
+    setTimeout(() => input.focus({ preventScroll: true }), 30);
+    return wrap;
+  }
+
   if (item.t === "Q") {
+    const qLang = item.qLang || "es";
     const sentence = item.q.includes("___") ? withBlank(item.q, h("span", { class: "blank" }, "…")) : [item.q];
     const opts2 = h(
       "div",
@@ -97,9 +192,9 @@ export function render(item, opts) {
         h(
           "button",
           {
-            class: "option es-option",
+            class: `option${(item.oLang || "es") === "es" ? " es-option" : ""}`,
             type: "button",
-            lang: "es",
+            lang: item.oLang || "es",
             onclick: (e) => {
               if (answered) return;
               opts2.querySelectorAll(".option").forEach((b, j) => {
@@ -114,7 +209,12 @@ export function render(item, opts) {
         )
       )
     );
-    add(item.fr ? h("p", { class: "item-context" }, item.fr) : null, h("p", { class: "phrase", lang: "es" }, sentence), opts2, out);
+    add(
+      item.fr ? h("p", { class: "item-context" }, item.fr) : null,
+      h("p", { class: qLang === "es" ? "phrase" : "phrase fr-prompt", lang: qLang }, sentence, qLang === "es" && speak && item.say ? h("button", { class: "icon-btn small", type: "button", "aria-label": "Écouter", onclick: () => speak(item.say) }, icon("speaker")) : null),
+      opts2,
+      out
+    );
     return wrap;
   }
 

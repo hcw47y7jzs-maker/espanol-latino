@@ -26,6 +26,8 @@ self.PRECACHE = [
  "./modules/grammar/index.js",
  "./modules/verbs/engine.js",
  "./modules/verbs/index.js",
+ "./modules/vocab/engine.js",
+ "./modules/vocab/index.js",
  "./packs/es-419/grammar/grammar.json",
  "./packs/es-419/lang.js",
  "./packs/es-419/lessons/grammar/a1-adjetivos.md",
@@ -87,6 +89,9 @@ self.PRECACHE = [
  "./packs/es-419/lessons/verbs/preterito.md",
  "./packs/es-419/pack.json",
  "./packs/es-419/verbs.json",
+ "./packs/es-419/vocab.json",
+ "./packs/es-419/vocab_src/c1-faux-amis.txt",
+ "./packs/es-419/vocab_src/c2-argentina.txt",
  "./precache.js",
  "./version.js"
 ];
